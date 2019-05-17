@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
-        <note>Placeholder text when the user’s email is unavailable while unlocking Lockbox, shown in Touch ID and passcode prompts</note>
+        <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
@@ -84,10 +84,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
     </header>
     <body>
-      <trans-unit id="ehm-2v-Rbb.accessibilityLabel">
-        <source>Firefox Lockbox</source>
-        <note>Class = "UIImageView"; accessibilityLabel = "Firefox Lockbox"; ObjectID = "ehm-2v-Rbb";</note>
-      </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
@@ -102,15 +98,6 @@
       <trans-unit id="CFBundleDisplayName">
         <source>Lockwise</source>
         <note>Bundle display name</note>
-      </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>Firefox Lockbox</source>
-        <target>Firefox Lockbox</target>
-        <note>Bundle name</note>
-      </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription">
-        <source>Firefox Lockbox will use Face ID to sign you in to the app.</source>
-        <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
   </file>
@@ -421,7 +408,7 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
-        <note>Placeholder text when the user’s email is unavailable while unlocking Lockbox, shown in Touch ID and passcode prompts</note>
+        <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
         <source>Unlock with Face ID</source>
@@ -466,10 +453,6 @@
       <trans-unit id="welcome.unlockButton">
         <source>Unlock</source>
         <note>Text on button to unlock app</note>
-      </trans-unit>
-      <trans-unit id="your_lockbox">
-        <source>Firefox Lockbox</source>
-        <note>item list title</note>
       </trans-unit>
     </body>
   </file>
