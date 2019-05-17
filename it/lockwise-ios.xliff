@@ -7,6 +7,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>CredentialProvider</source>
+        <target>CredentialProvider</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
@@ -39,6 +40,7 @@
       </trans-unit>
       <trans-unit id="cancel">
         <source>Cancel</source>
+        <target>Annulla</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
@@ -51,10 +53,12 @@
       </trans-unit>
       <trans-unit id="lockwise">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="ok">
         <source>OK</source>
+        <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
