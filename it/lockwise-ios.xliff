@@ -209,6 +209,7 @@
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ disattivato, installa questo browser per renderlo disponibile</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
@@ -256,6 +257,7 @@
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Ti consigliamo di utilizzare un codice per bloccare il telefono. Senza questo codice, chiunque si impossessi del tuo telefono può accedere alle informazioni salvate.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
