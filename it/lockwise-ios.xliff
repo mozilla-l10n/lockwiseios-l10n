@@ -45,10 +45,12 @@
       </trans-unit>
       <trans-unit id="firefoxLockbox">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ permette di accedere alle password salvate in Firefox. Per visualizzare le credenziali in questa sezione, effettua l’accesso in Firefox e completa la sincronizzazione.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -63,6 +65,7 @@
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Cerca nelle credenziali</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn">
@@ -75,6 +78,7 @@
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>[nessun nome utente]</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
     </body>
@@ -86,6 +90,7 @@
     <body>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Porta le tue password sempre con te</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -97,6 +102,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
@@ -108,18 +114,22 @@
     <body>
       <trans-unit id="a_to_z">
         <source>A-Z</source>
+        <target>A-Z</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="account">
         <source>Account</source>
+        <target>Account</target>
         <note>Title for settings page letting users manage their accounts</note>
       </trans-unit>
       <trans-unit id="alphabetically">
         <source>Alphabetically</source>
+        <target>Alfabeticamente</target>
         <note>Label for the option sheet action allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>A causa di un recente aggiornamento dell’app, è necessario eseguire nuovamente l’accesso. Ci scusiamo per l’inconveniente.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
@@ -152,6 +162,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Questa operazione rimuoverà da %@ le informazioni relative all’account Firefox e tutte le credenziali salvate.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
@@ -168,18 +179,22 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries">
         <source>Done Syncing your logins</source>
+        <target>Sincronizzazione credenziali completata</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied">
         <source>%@ copied</source>
+        <target>%@ copiato</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="get.started">
         <source>Get Started</source>
+        <target>Per iniziare</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt">
