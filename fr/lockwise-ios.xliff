@@ -39,10 +39,12 @@
       </trans-unit>
       <trans-unit id="cancel">
         <source>Cancel</source>
+        <target>Annuler</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="list.empty">
@@ -51,18 +53,22 @@
       </trans-unit>
       <trans-unit id="lockwise">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="ok">
         <source>OK</source>
+        <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Rechercher des identifiants</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign In</source>
+        <target>Connexion</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
@@ -71,6 +77,7 @@
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>(aucun nom d’utilisateur)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
     </body>
@@ -82,6 +89,7 @@
     <body>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Emportez vos mots de passe partout.</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -93,6 +101,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
@@ -104,14 +113,17 @@
     <body>
       <trans-unit id="a_to_z">
         <source>A-Z</source>
+        <target>A à Z</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="account">
         <source>Account</source>
+        <target>Compte</target>
         <note>Title for settings page letting users manage their accounts</note>
       </trans-unit>
       <trans-unit id="alphabetically">
         <source>Alphabetically</source>
+        <target>Alphabétiquement</target>
         <note>Label for the option sheet action allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="app_update_explanation">
@@ -136,14 +148,17 @@
       </trans-unit>
       <trans-unit id="back">
         <source>Back</source>
+        <target>Retour</target>
         <note>Back button title</note>
       </trans-unit>
       <trans-unit id="cancel">
         <source>Cancel</source>
+        <target>Annuler</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="close">
         <source>Close</source>
+        <target>Fermer</target>
         <note>Close button title</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
@@ -152,26 +167,32 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
         <source>Disconnect %@?</source>
+        <target>Déconnecter %@ ?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue">
         <source>Continue</source>
+        <target>Continuer</target>
         <note>Button title when agreeing to proceed to access the application.</note>
       </trans-unit>
       <trans-unit id="done">
         <source>Done</source>
+        <target>Terminé</target>
         <note>Text on button to close settings</note>
       </trans-unit>
       <trans-unit id="done_syncing_entries">
         <source>Done Syncing your logins</source>
+        <target>Synchronisation de vos identifiants terminée</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied">
         <source>%@ copied</source>
+        <target>%@ copié</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="get.started">
@@ -188,10 +209,12 @@
       </trans-unit>
       <trans-unit id="lockwise">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="no_username">
         <source>(no username)</source>
+        <target>(aucun nom d’utilisateur)</target>
         <note>placeholder text when there is no username</note>
       </trans-unit>
       <trans-unit id="not_using_passcode">
@@ -208,6 +231,7 @@
       </trans-unit>
       <trans-unit id="onboarding.encryption">
         <source>256-bit encryption</source>
+        <target>Chiffrement 256 bits</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title">
