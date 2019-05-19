@@ -24,10 +24,12 @@
     <body>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Aggiornamento riempimento automatico in corso…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Aggiornamento riempimento automatico completato</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
@@ -138,10 +140,12 @@
       </trans-unit>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Aggiornamento riempimento automatico in corso…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Aggiornamento riempimento automatico completato</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
@@ -231,6 +235,7 @@
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
+        <target>Non stai utilizzando un codice.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
@@ -255,6 +260,7 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Per bloccare %@ è necessario impostare un codice di accesso sul dispositivo. Senza questo codice, chiunque si impossessi del tuo telefono può accedere alle informazioni salvate.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
@@ -294,6 +300,7 @@
       </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
+        <target>Imposta codice</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account">
@@ -308,6 +315,7 @@
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
         <source>AutoFill Instructions</source>
+        <target>Istruzioni per riempimento automatico</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock">
@@ -497,6 +505,7 @@
       </trans-unit>
       <trans-unit id="unlock_with_pin">
         <source>Unlock with Passcode</source>
+        <target>Sblocca con codice</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
@@ -575,6 +584,7 @@
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
         <source>AutoFill your logins right from your browser or app.</source>
+        <target>Compila automaticamente le credenziali direttamente nel browser o nell’app.</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text">
@@ -584,6 +594,7 @@
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
         <source>Set Up AutoFill</source>
+        <target>Configura riempimento automatico</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -676,22 +687,27 @@
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text">
         <source>Tap into AutoFill Passwords</source>
+        <target>Tocca riempimento automatico password</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <target>Completa i seguenti passaggi per utilizzare Lockwise come sorgente per il riempimento automatico.</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text">
         <source>Turn on AutoFill Passwords</source>
+        <target>Attiva riempimento automatico password</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>Tocca Password e account</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text">
         <source>How to Set up AutoFill</source>
+        <target>Come configurare il riempimento automatico</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text">
