@@ -32,6 +32,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Connexion nécessaire</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
@@ -76,6 +77,7 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
+        <target>Ceci va déverrouiller l’application.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
@@ -144,6 +146,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Connexion nécessaire</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
@@ -167,6 +170,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Cette action supprimera de %@ les informations de votre compte Firefox et tous les identifiants enregistrés.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
@@ -201,14 +205,17 @@
       </trans-unit>
       <trans-unit id="get.started">
         <source>Get Started</source>
+        <target>Pour commencer</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ est désactivé, installez ce navigateur pour le rendre disponible</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ vous permet d’accéder aux mots de passe que vous avez déjà enregistrés dans Firefox. Pour afficher vos identifiants ici, vous devez vous connecter et activer la synchronisation dans Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -223,6 +230,7 @@
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
+        <target>Vous n’utilisez pas de code d’accès.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
@@ -247,10 +255,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Pour verrouiller %@, un code d’accès doit être configuré sur votre appareil. Sinon, toute personne disposant de votre téléphone peut accéder aux informations qui y sont enregistrées.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Vous devriez utiliser un code d’accès pour verrouiller votre appareil. Sinon, toute personne disposant de votre téléphone peut accéder aux informations qui y sont enregistrées.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
@@ -285,6 +295,7 @@
       </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
+        <target>Définir un code d’accès</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account">
@@ -413,59 +424,71 @@
       </trans-unit>
       <trans-unit id="settings.support.header">
         <source>SUPPORT</source>
-        <target>SUPPORT</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title">
         <source>Settings</source>
+        <target>Paramètres</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
         <source>Disconnect %@</source>
+        <target>Déconnecter %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Cette action supprimera les identifiants synchronisés de %@, mais ne supprimera pas vos identifiants de Firefox.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
         <source>Send Usage Data</source>
+        <target>Envoyer des données d’utilisation</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla veille à collecter uniquement les données nécessaires afin d’offrir et d’améliorer %@ pour tout le monde.</target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button">
         <source>Settings</source>
+        <target>Paramètres</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign In</source>
+        <target>Connexion</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip">
         <source>Skip</source>
+        <target>Ignorer</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries">
         <source>Sort Logins</source>
+        <target>Trier les identifiants</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Sélectionnez des options pour trier votre liste d’identifiants (actuellement %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="syncing_entries">
         <source>Syncing your logins</source>
+        <target>Synchronisation de vos identifiants</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink">
         <source>Disconnect</source>
+        <target>Se déconnecter</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
+        <target>Ceci va déverrouiller l’application.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
@@ -474,34 +497,42 @@
       </trans-unit>
       <trans-unit id="unlock_with_pin">
         <source>Unlock with Passcode</source>
+        <target>Déverrouiller avec le code d’accès</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
         <source>Unlock with Touch ID</source>
+        <target>Déverrouiller avec Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry">
         <source>unnamed entry</source>
+        <target>entrée sans nom</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username">
         <source>Username</source>
+        <target>Nom d’utilisateur</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
         <source>Username: double tap to copy %@</source>
+        <target>Nom d’utilisateur : appuyez deux fois pour copier %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>(aucun nom d’utilisateur)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
       <trans-unit id="web_address">
         <source>Web Address</source>
+        <target>Adresse web</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Adresse web : appuyez deux fois pour ouvrir dans le navigateur %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
@@ -525,6 +556,7 @@
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
         <source>Firefox Account</source>
+        <target>Compte Firefox</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -536,6 +568,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Not Now</source>
+        <target>Plus tard</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
@@ -590,6 +623,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Finish</source>
+        <target>Terminer</target>
         <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text">
@@ -667,6 +701,7 @@
       </trans-unit>
       <trans-unit id="JTP-OD-6TF.normalTitle">
         <source>Learn more</source>
+        <target>En savoir plus</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
       </trans-unit>
       <trans-unit id="cuz-yd-F4J.normalTitle">
@@ -694,6 +729,7 @@
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle">
         <source>Learn more</source>
+        <target>En savoir plus</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text">
@@ -706,6 +742,7 @@
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle">
         <source>Learn more</source>
+        <target>En savoir plus</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text">
