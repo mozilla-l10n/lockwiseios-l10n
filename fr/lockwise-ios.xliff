@@ -36,6 +36,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Vous devez être connecté(e) à %@ pour que le remplissage automatique autorise l’accès aux mots de passe qu’il contient.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
@@ -50,6 +51,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ vous permet d’accéder aux mots de passe que vous avez déjà enregistrés dans Firefox. Pour afficher vos identifiants ici, vous devez vous connecter et activer la synchronisation dans Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -129,6 +131,7 @@
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>En raison d’une mise à jour récente de l’application, nous devons vous demander de vous reconnecter. Nous sommes désolés pour ce désagrément.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
@@ -224,10 +227,12 @@
       </trans-unit>
       <trans-unit id="notes">
         <source>Notes</source>
+        <target>Notes</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok">
         <source>OK</source>
+        <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="onboarding.encryption">
@@ -237,6 +242,7 @@
       </trans-unit>
       <trans-unit id="onboarding.title">
         <source>Welcome to %@</source>
+        <target>Bienvenue dans %@</target>
         <note>Title on onboarding screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_detail_information">
@@ -249,26 +255,32 @@
       </trans-unit>
       <trans-unit id="password">
         <source>Password</source>
+        <target>Mot de passe</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Mot de passe : appuyez deux fois pour copier %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
         <source>Reauthentication Required</source>
+        <target>Nouvelle authentification nécessaire</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent">
         <source>Recent</source>
+        <target>Récents</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used">
         <source>Recently Used</source>
+        <target>Récemment utilisés</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Rechercher des identifiants</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="set_passcode">
@@ -277,10 +289,12 @@
       </trans-unit>
       <trans-unit id="settings.account">
         <source>Account</source>
+        <target>Compte</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion">
         <source>App Version</source>
+        <target>Version de l’application</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
@@ -289,94 +303,117 @@
       </trans-unit>
       <trans-unit id="settings.autoLock">
         <source>Auto Lock</source>
+        <target>Verrouillage automatique</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes">
         <source>15 minutes</source>
+        <target>15 minutes</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes">
         <source>5 minutes</source>
+        <target>5 minutes</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Sélectionnez quand verrouiller après une période d’inactivité</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
         <source>Never</source>
+        <target>Jamais</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour">
         <source>1 hour</source>
+        <target>1 heure</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute">
         <source>1 minute</source>
+        <target>1 minute</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes">
         <source>30 minutes</source>
+        <target>30 minutes</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour">
         <source>12 hours</source>
+        <target>12 heures</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour">
         <source>24 hours</source>
+        <target>24 heures</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser">
         <source>Preferred Browser</source>
+        <target>Navigateur préféré</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header">
         <source>Select which browser use with Lockwise</source>
+        <target>Sélectionnez le navigateur à utiliser avec Lockwise</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header">
         <source>CONFIGURATION</source>
+        <target>CONFIGURATION</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq">
         <source>FAQ</source>
+        <target>FAQ</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport">
         <source>Ask a Question</source>
+        <target>Poser une question</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore">
         <source>Learn More</source>
+        <target>En savoir plus</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback">
         <source>Send Feedback</source>
+        <target>Donner mon avis</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header">
         <source>SUPPORT</source>
+        <target>SUPPORT</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title">
