@@ -7,6 +7,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>CredentialProvider</source>
+        <target>CredentialProvider</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
@@ -23,54 +24,67 @@
     <body>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>„Automatisch ausfüllen“ wird aktualisiert…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>„Automatisch ausfüllen“ wurde aktualisiert</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Anmeldung erforderlich</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Sie müssen bei %@ angemeldet sein, bevor „Automatisch ausfüllen“ den Zugriff auf die darin enthaltenen Passwörter ermöglicht.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
         <source>Cancel</source>
+        <target>Abbrechen</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>Mit %@ können Sie auf Passwörter zugreifen, die Sie bereits in Firefox gespeichert haben. Um Ihre Zugangsdaten hier anzuzeigen, müssen Sie sich anmelden und mit Firefox synchronisieren.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="ok">
         <source>OK</source>
+        <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Zugangsdaten durchsuchen</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign In</source>
+        <target>Anmelden</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
+        <target>Dies entsperrt die App.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>(Kein Benutzername)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
     </body>
@@ -82,6 +96,7 @@
     <body>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Nehmen Sie Ihre Passwörter überall mit hin</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -93,6 +108,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
@@ -104,146 +120,182 @@
     <body>
       <trans-unit id="a_to_z">
         <source>A-Z</source>
+        <target>A-Z</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="account">
         <source>Account</source>
+        <target>Konto</target>
         <note>Title for settings page letting users manage their accounts</note>
       </trans-unit>
       <trans-unit id="alphabetically">
         <source>Alphabetically</source>
+        <target>Alphabetisch</target>
         <note>Label for the option sheet action allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>Aufgrund eines kürzlich durchgeführten App-Updates müssen Sie sich erneut anmelden. Bitte entschuldigen Sie die Unannehmlichkeiten.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>„Automatisch ausfüllen“ wird aktualisiert…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>„Automatisch ausfüllen“ wurde aktualisiert</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Anmeldung erforderlich</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Sie müssen bei %@ angemeldet sein, bevor „Automatisch ausfüllen“ den Zugriff auf die darin enthaltenen Passwörter ermöglicht.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back">
         <source>Back</source>
+        <target>Zurück</target>
         <note>Back button title</note>
       </trans-unit>
       <trans-unit id="cancel">
         <source>Cancel</source>
+        <target>Abbrechen</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="close">
         <source>Close</source>
+        <target>Schließen</target>
         <note>Close button title</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Dadurch werden Ihre Firefox-Kontodaten und alle gespeicherten Zugangsdaten von %@ gelöscht.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
         <source>Disconnect %@?</source>
+        <target>%@ trennen?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue">
         <source>Continue</source>
+        <target>Weiter</target>
         <note>Button title when agreeing to proceed to access the application.</note>
       </trans-unit>
       <trans-unit id="done">
         <source>Done</source>
+        <target>Fertig</target>
         <note>Text on button to close settings</note>
       </trans-unit>
       <trans-unit id="done_syncing_entries">
         <source>Done Syncing your logins</source>
+        <target>Zugangsdaten erfolgreich synchronisiert</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied">
         <source>%@ copied</source>
+        <target>%@ kopiert</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="get.started">
         <source>Get Started</source>
+        <target>Erste Schritte</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ ist deaktiviert, installieren Sie diesen Browser, um es verfügbar zu machen</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>Mit %@ können Sie auf Passwörter zugreifen, die Sie bereits in Firefox gespeichert haben. Um Ihre Zugangsdaten hier anzuzeigen, müssen Sie sich anmelden und mit Firefox synchronisieren.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="no_username">
         <source>(no username)</source>
+        <target>(Kein Benutzername)</target>
         <note>placeholder text when there is no username</note>
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
+        <target>Sie verwenden keinen Passcode.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
         <source>Notes</source>
+        <target>Bemerkungen</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok">
         <source>OK</source>
+        <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="onboarding.encryption">
         <source>256-bit encryption</source>
+        <target>256-Bit-Verschlüsselung</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title">
         <source>Welcome to %@</source>
+        <target>Willkommen bei %@</target>
         <note>Title on onboarding screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Um %@ zu sperren, muss auf Ihrem Gerät ein Passcode eingerichtet sein. Ohne Passcode kann jeder, der Zugang zu Ihrem Gerät hat, auf die hier gespeicherten Informationen zugreifen.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Sie sollten einen Passcode anlegen, um Ihr Gerät zu sperren. Ohne Passcode kann jeder, der Zugang zu Ihrem Gerät hat, auf die hier gespeicherten Informationen zugreifen.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
         <source>Password</source>
+        <target>Passwort</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Passwort: doppeltippen, um %@ zu kopieren</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
         <source>Reauthentication Required</source>
+        <target>Erneute Authentifizierung erforderlich</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent">
         <source>Recent</source>
+        <target>Kürzlich</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used">
         <source>Recently Used</source>
+        <target>Kürzlich verwendet</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Zugangsdaten durchsuchen</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="set_passcode">
