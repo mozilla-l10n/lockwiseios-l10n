@@ -300,206 +300,257 @@
       </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
+        <target>Passcode festlegen</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account">
         <source>Account</source>
+        <target>Konto</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion">
         <source>App Version</source>
+        <target>App-Version</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
         <source>AutoFill Instructions</source>
+        <target>Anleitung zum automatischen Ausfüllen</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock">
         <source>Auto Lock</source>
+        <target>Automatische Sperre</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes">
         <source>15 minutes</source>
+        <target>15 Minuten</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes">
         <source>5 minutes</source>
+        <target>5 Minuten</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Wählen Sie aus, wann die Sperre nach einer bestimmten Zeit der Inaktivität erfolgen soll</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
         <source>Never</source>
+        <target>Nie</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour">
         <source>1 hour</source>
+        <target>1 Stunde</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute">
         <source>1 minute</source>
+        <target>1 Minute</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes">
         <source>30 minutes</source>
+        <target>30 Minuten</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour">
         <source>12 hours</source>
+        <target>12 Stunden</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour">
         <source>24 hours</source>
+        <target>24 Stunden</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser">
         <source>Preferred Browser</source>
+        <target>Bevorzugter Browser</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header">
         <source>Select which browser use with Lockwise</source>
+        <target>Wählen Sie aus, welcher Browser mit Lockwise verwendet werden soll</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header">
         <source>CONFIGURATION</source>
+        <target>EINSTELLUNGEN</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq">
         <source>FAQ</source>
+        <target>FAQ</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport">
         <source>Ask a Question</source>
+        <target>Stellen Sie eine Frage</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore">
         <source>Learn More</source>
+        <target>Weitere Informationen</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback">
         <source>Send Feedback</source>
+        <target>Feedback senden</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header">
         <source>SUPPORT</source>
+        <target>HILFE</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title">
         <source>Settings</source>
+        <target>Einstellungen</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
         <source>Disconnect %@</source>
+        <target>%@ trennen</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Dadurch werden synchronisierte Zugangsdaten von %@ entfernt. Ihre Zugangsdaten werden jedoch nicht aus Firefox gelöscht.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
         <source>Send Usage Data</source>
+        <target>Nutzungsdaten senden</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla ist bestrebt, nur die Informationen zu sammeln, mit denen wir %@ anbieten und für alle Nutzer verbessern können.</target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button">
         <source>Settings</source>
+        <target>Einstellungen</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign In</source>
+        <target>Anmelden</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip">
         <source>Skip</source>
+        <target>Überspringen</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries">
         <source>Sort Logins</source>
+        <target>Zugangsdaten sortieren</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Optionen zum Sortieren der Liste Ihrer Zugangsdaten auswählen (derzeit %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="syncing_entries">
         <source>Syncing your logins</source>
+        <target>Zugangsdaten synchronisieren…</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink">
         <source>Disconnect</source>
+        <target>Verbindung trennen</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
+        <target>Dies entsperrt die App.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
         <source>Unlock with Face ID</source>
+        <target>Mit Face ID entsperren</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin">
         <source>Unlock with Passcode</source>
+        <target>Mit Passcode entsperren</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
         <source>Unlock with Touch ID</source>
+        <target>Mit Touch ID entsperren</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry">
         <source>unnamed entry</source>
+        <target>unbenannter Eintrag</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username">
         <source>Username</source>
+        <target>Benutzername</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
         <source>Username: double tap to copy %@</source>
+        <target>Benutzername: doppeltippen, um %@ zu kopieren</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>(Kein Benutzername)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
       <trans-unit id="web_address">
         <source>Web Address</source>
+        <target>Internetadresse</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Internetadresse: doppeltippen, um sie im Browser %@ zu öffnen</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>Um %@ zu verwenden, benötigst du ein Firefox-Konto mit gespeicherten Zugangsdaten.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
         <source>Unlock</source>
+        <target>Entsperren</target>
         <note>Text on button to unlock app</note>
       </trans-unit>
     </body>
@@ -511,10 +562,12 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>Um Änderungen an Ihrem Konto vorzunehmen, melden Sie sich in einem beliebigen Browser bei Ihrem Firefox-Konto an.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
         <source>Firefox Account</source>
+        <target>Firefox-Konto</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -526,18 +579,22 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Not Now</source>
+        <target>Nicht jetzt</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
         <source>AutoFill your logins right from your browser or app.</source>
+        <target>Lassen Sie Ihre Zugangsdaten direkt in Ihrem Browser oder Ihrer App automatisch ausfüllen.</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text">
         <source>Easily fill usernames and passwords where you need them most.</source>
+        <target>Lassen Sie Benutzernamen und Passwörter einfach dort eintragen, wo Sie sie am dringendsten benötigen.</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
         <source>Set Up AutoFill</source>
+        <target>Automatisches ausfüllen einrichten</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -549,26 +606,32 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel">
         <source>Copy value</source>
+        <target>Wert kopieren</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel">
         <source>Reveal password in plaintext</source>
+        <target>Passwort im Klartext anzeigen</target>
         <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel">
         <source>Open this web address in browser</source>
+        <target>Diese Internetadresse im Browser öffnen</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle">
         <source>Learn how to edit this entry</source>
+        <target>Finden Sie heraus, wie Sie diese Zugangsdaten bearbeiten können</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text">
         <source>Label</source>
+        <target>Bezeichnung</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "t0H-71-xTp"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="tuK-Xc-guT.text">
         <source>Label</source>
+        <target>Bezeichnung</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "tuK-Xc-guT"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
     </body>
@@ -580,18 +643,22 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Finish</source>
+        <target>Fertig</target>
         <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text">
         <source>Access logins saved to Firefox for desktop from your device</source>
+        <target>Greifen Sie über Ihr Gerät auf alle in Firefox für Desktop gespeicherten Zugangsdaten zu</target>
         <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
       </trans-unit>
       <trans-unit id="o0t-1T-rrA.text">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synchronisieren Sie zwischen Geräten mit sicherer 256-Bit-Verschlüsselung</target>
         <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <target>Die App einfach per Touch ID oder Face ID entsperren</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
@@ -603,6 +670,7 @@
     <body>
       <trans-unit id="KPq-Rv-WTJ.normalTitle">
         <source>Lock Now</source>
+        <target>Jetzt sperren</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
       </trans-unit>
     </body>
@@ -614,34 +682,42 @@
     <body>
       <trans-unit id="KnK-nY-NyH.normalTitle">
         <source>Got it</source>
+        <target>Verstanden</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "KnK-nY-NyH"; Note = "The message on a confirmation button that the user understands or followed the instructions and will close out of these instructions";</note>
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text">
         <source>Tap into AutoFill Passwords</source>
+        <target>Tippen Sie, um Passwörter automatisch auszufüllen</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <target>Führen Sie die folgenden Schritte aus, um Lockwise als Anbieter für automatisches Ausfüllen zu verwenden.</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text">
         <source>Turn on AutoFill Passwords</source>
+        <target>Automatisches Ausfüllen von Passwörtern aktivieren</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>Tippen Sie auf Passwörter und Konten</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text">
         <source>How to Set up AutoFill</source>
+        <target>So richten Sie automatisches Ausfüllen ein</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text">
         <source>Select Lockwise</source>
+        <target>Lockwise auswählen</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text">
         <source>Open the Settings app</source>
+        <target>Einstellungs-App öffnen</target>
         <note>Class = "UILabel"; text = "Open the Settings app"; ObjectID = "xig-s8-dim"; Note = "The instruction to open the system Settings app";</note>
       </trans-unit>
     </body>
@@ -653,22 +729,27 @@
     <body>
       <trans-unit id="8rH-vt-4bG.normalTitle">
         <source>Unlock</source>
+        <target>Entsperren</target>
         <note>Class = "UIButton"; normalTitle = "Unlock"; ObjectID = "8rH-vt-4bG"; Note = "This is the text on the unlock button when the app is opened and locked";</note>
       </trans-unit>
       <trans-unit id="JTP-OD-6TF.normalTitle">
         <source>Learn more</source>
+        <target>Weitere Informationen</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
       </trans-unit>
       <trans-unit id="cuz-yd-F4J.normalTitle">
         <source>Get Started</source>
+        <target>Erste Schritte</target>
         <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Nehmen Sie Ihre Passwörter überall mit hin</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>Um Firefox Lockwise zu verwenden, benötigen Sie ein Firefox-Konto mit gespeicherten Zugangsdaten.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -680,34 +761,42 @@
     <body>
       <trans-unit id="3A5-nI-aV6.text">
         <source>Label</source>
+        <target>Bezeichnung</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle">
         <source>Learn more</source>
+        <target>Weitere Informationen</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>Um hier weitere Zugangsdaten zu sehen, musst Sie sie erst in Firefox speichern.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text">
         <source>Select a password to fill</source>
+        <target>Wählen Sie ein Passwort zum Ausfüllen</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle">
         <source>Learn more</source>
+        <target>Weitere Informationen</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text">
         <source>No logins found.</source>
+        <target>Keine Zugangsdaten gefunden.</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
       <trans-unit id="n2T-XM-ua9.text">
         <source>Label</source>
+        <target>Bezeichnung</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "n2T-XM-ua9"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="qZc-w1-SRT.text">
         <source>No matching logins.</source>
+        <target>Keine passenden Zugangsdaten.</target>
         <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
       </trans-unit>
     </body>
@@ -719,6 +808,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text">
         <source>Syncing your logins…</source>
+        <target>Zugangsdaten synchronisieren…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
