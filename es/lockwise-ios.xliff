@@ -744,10 +744,12 @@
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Llévate tus contraseñas a todos lados</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>Para usar Firefox Lockwise, necesitarás una cuenta Firefox con usuarios guardados.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -759,34 +761,42 @@
     <body>
       <trans-unit id="3A5-nI-aV6.text">
         <source>Label</source>
+        <target>Etiqueta</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle">
         <source>Learn more</source>
+        <target>Descubre más</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>Para ver más usuarios aquí, necesitarás guardarlos en Firefox.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text">
         <source>Select a password to fill</source>
+        <target>Selecciona una contraseña para completar</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle">
         <source>Learn more</source>
+        <target>Descubre más</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text">
         <source>No logins found.</source>
+        <target>No se encontraron usuarios.</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
       <trans-unit id="n2T-XM-ua9.text">
         <source>Label</source>
+        <target>Etiqueta</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "n2T-XM-ua9"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="qZc-w1-SRT.text">
         <source>No matching logins.</source>
+        <target>No coincide ningún usurio.</target>
         <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
       </trans-unit>
     </body>
@@ -798,6 +808,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text">
         <source>Syncing your logins…</source>
+        <target>Sincronizando tus usuarios…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
