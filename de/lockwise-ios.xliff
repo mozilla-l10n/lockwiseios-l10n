@@ -545,7 +545,7 @@
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
-        <target>Um %@ zu verwenden, benötigst du ein Firefox-Konto mit gespeicherten Zugangsdaten.</target>
+        <target>Um %@ zu verwenden, benötigen Sie ein Firefox-Konto mit gespeicherten Zugangsdaten.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
@@ -589,7 +589,7 @@
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text">
         <source>Easily fill usernames and passwords where you need them most.</source>
-        <target>Lassen Sie Benutzernamen und Passwörter einfach dort eintragen, wo Sie sie am dringendsten benötigen.</target>
+        <target>Benutzernamen und Passwörter werden einfach dort eintragen, wo Sie diese am dringendsten benötigen.</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
@@ -621,7 +621,7 @@
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle">
         <source>Learn how to edit this entry</source>
-        <target>Finden Sie heraus, wie Sie diese Zugangsdaten bearbeiten können</target>
+        <target>Wie Sie diese Zugangsdaten bearbeiten können</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text">
@@ -658,7 +658,7 @@
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
-        <target>Die App einfach per Touch ID oder Face ID entsperren</target>
+        <target>Entsperren Sie die App einfach per Touch ID oder Face ID</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
@@ -771,7 +771,7 @@
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
-        <target>Um hier weitere Zugangsdaten zu sehen, musst Sie sie erst in Firefox speichern.</target>
+        <target>Um hier weitere Zugangsdaten zu sehen, müssen Sie diese erst in Firefox speichern.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text">
