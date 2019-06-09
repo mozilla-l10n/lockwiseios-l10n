@@ -290,7 +290,7 @@
       </trans-unit>
       <trans-unit id="recently_used">
         <source>Recently Used</source>
-        <target>Usado cecientemente</target>
+        <target>Usado recientemente</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
