@@ -77,10 +77,14 @@
         <target>Anmelden</target>
         <note>Sign in button text</note>
       </trans-unit>
+      <trans-unit id="sync.timeout">
+        <source>Sync timed out</source>
+        <note>This is the message displayed when syncing entries from the server times out</note>
+      </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
         <target>Dies entsperrt die App.</target>
-        <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
+        <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
@@ -94,6 +98,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
     </header>
     <body>
+      <trans-unit id="ehm-2v-Rbb.accessibilityLabel">
+        <source>Firefox Lockwise</source>
+        <note>Class = "UIImageView"; accessibilityLabel = "Firefox Lockwise"; ObjectID = "ehm-2v-Rbb"; Note = "Text logo of the product name for screenreaders";</note>
+      </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
         <target>Nehmen Sie Ihre Passwörter überall mit hin</target>
@@ -101,15 +109,23 @@
       </trans-unit>
     </body>
   </file>
-  <file original="lockbox-ios/Common/Resources/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
+  <file original="lockbox-ios/Common/Resources/Strings/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Lockwise</source>
-        <target>Lockwise</target>
         <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>Firefox Lockbox</source>
+        <target>Firefox Lockbox</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
   </file>
@@ -298,6 +314,10 @@
         <target>Zugangsdaten durchsuchen</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
+      <trans-unit id="securityTheather.syncBetweenDevices">
+        <source>Sync between devices with secure 256-bit encryption</source>
+        <note>Text shown on security screen during onboarding.</note>
+      </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
         <target>Passcode festlegen</target>
@@ -483,6 +503,10 @@
         <target>Optionen zum Sortieren der Liste Ihrer Zugangsdaten auswählen (derzeit %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
+      <trans-unit id="sync.timeout">
+        <source>Sync timed out</source>
+        <note>This is the message displayed when syncing entries from the server times out</note>
+      </trans-unit>
       <trans-unit id="syncing_entries">
         <source>Syncing your logins</source>
         <target>Zugangsdaten synchronisieren…</target>
@@ -496,7 +520,7 @@
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
         <target>Dies entsperrt die App.</target>
-        <note>Placeholder text when the user’s email is unavailable while unlocking Lockwise, shown in Touch ID and passcode prompts</note>
+        <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
         <source>Unlock with Face ID</source>
@@ -714,6 +738,10 @@
         <source>Select Lockwise</source>
         <target>Lockwise auswählen</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
+      </trans-unit>
+      <trans-unit id="vcZ-pI-Mgz.text">
+        <source>Deselect iCloud Keychain</source>
+        <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text">
         <source>Open the Settings app</source>
