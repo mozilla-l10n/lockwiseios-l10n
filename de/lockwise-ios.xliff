@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Sie müssen bei %@ angemeldet sein, bevor „Automatisch ausfüllen“ den Zugriff auf die darin enthaltenen Passwörter ermöglicht.</target>
+        <target>Du musst bei %@ angemeldet sein, bevor „Automatisch ausfüllen“ den Zugriff auf die darin enthaltenen Passwörter ermöglicht.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
@@ -54,7 +54,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
-        <target>Mit %@ können Sie auf Passwörter zugreifen, die Sie bereits in Firefox gespeichert haben. Um Ihre Zugangsdaten hier anzuzeigen, müssen Sie sich anmelden und mit Firefox synchronisieren.</target>
+        <target>Mit %@ kannst du auf Passwörter zugreifen, die du bereits in Firefox gespeichert hast. Um deine Zugangsdaten hier zu sehen, musst du dich anmelden und mit Firefox synchronisieren.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -106,7 +106,7 @@
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
-        <target>Nehmen Sie Ihre Passwörter überall mit hin</target>
+        <target>Nimm deine Passwörter überall mit hin</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
