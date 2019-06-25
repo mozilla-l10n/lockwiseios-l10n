@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
-        <target>Firefox Lockwise verwendet Face ID, um Sie bei der App anzumelden.</target>
+        <target>Firefox Lockwise verwendet Face ID, um dich bei der App anzumelden.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
-        <target>Aufgrund eines kürzlich durchgeführten App-Updates müssen Sie sich erneut anmelden. Bitte entschuldigen Sie die Unannehmlichkeiten.</target>
+        <target>Aufgrund eines kürzlich durchgeführten App-Updates musst du dich erneut anmelden. Bitte entschuldige die Unannehmlichkeiten.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Sie müssen bei %@ angemeldet sein, bevor „Automatisch ausfüllen“ den Zugriff auf die darin enthaltenen Passwörter ermöglicht.</target>
+        <target>Du musst bei %@ angemeldet sein, bevor „Automatisch ausfüllen“ den Zugriff auf die darin enthaltenen Passwörter ermöglicht.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back">
@@ -195,7 +195,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
-        <target>Dadurch werden Ihre Firefox-Kontodaten und alle gespeicherten Zugangsdaten von %@ gelöscht.</target>
+        <target>Dadurch werden deine Firefox-Kontodaten und alle gespeicherten Zugangsdaten von %@ gelöscht.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
@@ -235,12 +235,12 @@
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
-        <target>%@ ist deaktiviert, installieren Sie diesen Browser, um es verfügbar zu machen</target>
+        <target>%@ ist deaktiviert, installiere diesen Browser, um es verfügbar zu machen</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
-        <target>Mit %@ können Sie auf Passwörter zugreifen, die Sie bereits in Firefox gespeichert haben. Um Ihre Zugangsdaten hier anzuzeigen, müssen Sie sich anmelden und mit Firefox synchronisieren.</target>
+        <target>Mit %@ kannst du auf Passwörter zugreifen, die du bereits in Firefox gespeichert hast. Um deine Zugangsdaten hier anzuzeigen, musst du dich anmelden und mit Firefox synchronisieren.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -255,7 +255,7 @@
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
-        <target>Sie verwenden keinen Passcode.</target>
+        <target>Du verwendest keinen Passcode.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
@@ -280,12 +280,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
-        <target>Um %@ zu sperren, muss auf Ihrem Gerät ein Passcode eingerichtet sein. Ohne Passcode kann jeder, der Zugang zu Ihrem Gerät hat, auf die hier gespeicherten Informationen zugreifen.</target>
+        <target>Um %@ zu sperren, muss auf deinem Gerät ein Passcode eingerichtet sein. Ohne Passcode kann jeder, der Zugang zu deinem Gerät hat, auf die hier gespeicherten Informationen zugreifen.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
-        <target>Sie sollten einen Passcode anlegen, um Ihr Gerät zu sperren. Ohne Passcode kann jeder, der Zugang zu Ihrem Gerät hat, auf die hier gespeicherten Informationen zugreifen.</target>
+        <target>Du solltest einen Passcode anlegen, um dein Gerät zu sperren. Ohne Passcode kann jeder, der Zugang zu deinem Gerät hat, auf die hier gespeicherten Informationen zugreifen.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices">
         <source>Sync between devices with secure 256-bit encryption</source>
-        <target>Synchronisieren Sie zwischen Geräten mit sicherer 256-Bit-Verschlüsselung</target>
+        <target>Synchronisiere zwischen Geräten mit sicherer 256-Bit-Verschlüsselung</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode">
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
         <source>Select when to lock after a period of inactivity</source>
-        <target>Wählen Sie aus, wann die Sperre nach einer bestimmten Zeit der Inaktivität erfolgen soll</target>
+        <target>Wähle aus, wann die Sperre nach einer bestimmten Zeit der Inaktivität erfolgen soll</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
@@ -415,7 +415,7 @@
       </trans-unit>
       <trans-unit id="settings.browser.header">
         <source>Select which browser use with Lockwise</source>
-        <target>Wählen Sie aus, welcher Browser mit Lockwise verwendet werden soll</target>
+        <target>Wähle aus, welcher Browser mit Lockwise verwendet werden soll</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar">
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="settings.getSupport">
         <source>Ask a Question</source>
-        <target>Stellen Sie eine Frage</target>
+        <target>Stelle eine Frage</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore">
@@ -470,7 +470,7 @@
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
-        <target>Dadurch werden synchronisierte Zugangsdaten von %@ entfernt. Ihre Zugangsdaten werden jedoch nicht aus Firefox gelöscht.</target>
+        <target>Dadurch werden synchronisierte Zugangsdaten von %@ entfernt. Deine Zugangsdaten werden jedoch nicht aus Firefox gelöscht.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
@@ -505,7 +505,7 @@
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
-        <target>Optionen zum Sortieren der Liste Ihrer Zugangsdaten auswählen (derzeit %@)</target>
+        <target>Optionen zum Sortieren der Liste deiner Zugangsdaten auswählen (derzeit %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout">
@@ -592,7 +592,7 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
-        <target>Um Änderungen an Ihrem Konto vorzunehmen, melden Sie sich in einem beliebigen Browser bei Ihrem Firefox-Konto an.</target>
+        <target>Um Änderungen an deinem Konto vorzunehmen, melde dich in einem beliebigen Browser bei deinem Firefox-Konto an.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
@@ -614,12 +614,12 @@
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
         <source>AutoFill your logins right from your browser or app.</source>
-        <target>Lassen Sie Ihre Zugangsdaten direkt in Ihrem Browser oder Ihrer App automatisch ausfüllen.</target>
+        <target>Lass deine Zugangsdaten direkt in deinem Browser oder deiner App automatisch ausfüllen.</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text">
         <source>Easily fill usernames and passwords where you need them most.</source>
-        <target>Benutzernamen und Passwörter werden einfach dort eintragen, wo Sie diese am dringendsten benötigen.</target>
+        <target>Benutzernamen und Passwörter werden einfach dort eintragen, wo du diese am dringendsten benötigen.</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
@@ -651,7 +651,7 @@
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle">
         <source>Learn how to edit this entry</source>
-        <target>Wie Sie diese Zugangsdaten bearbeiten können</target>
+        <target>So kannst du diese Zugangsdaten bearbeiten </target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text">
@@ -678,17 +678,17 @@
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text">
         <source>Access logins saved to Firefox for desktop from your device</source>
-        <target>Greifen Sie über Ihr Gerät auf alle in Firefox für Desktop gespeicherten Zugangsdaten zu</target>
+        <target>Greife über dein Gerät auf alle in Firefox für Desktop gespeicherten Zugangsdaten zu</target>
         <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
       </trans-unit>
       <trans-unit id="o0t-1T-rrA.text">
         <source>Sync between devices with secure 256-bit encryption</source>
-        <target>Synchronisieren Sie zwischen Geräten mit sicherer 256-Bit-Verschlüsselung</target>
+        <target>Synchronisiere zwischen Geräten mit sicherer 256-Bit-Verschlüsselung</target>
         <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
-        <target>Entsperren Sie die App einfach per Touch ID oder Face ID</target>
+        <target>Entsperre die App einfach per Touch ID oder Face ID</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
