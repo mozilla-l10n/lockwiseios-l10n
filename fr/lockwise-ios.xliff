@@ -79,6 +79,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Délai de synchronisation dépassé</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
@@ -100,6 +101,7 @@
     <body>
       <trans-unit id="ehm-2v-Rbb.accessibilityLabel">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Class = "UIImageView"; accessibilityLabel = "Firefox Lockwise"; ObjectID = "ehm-2v-Rbb"; Note = "Text logo of the product name for screenreaders";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
@@ -116,6 +118,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
@@ -125,6 +128,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise utilisera Face ID pour vous connecter à l’application.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -316,6 +320,7 @@
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synchronisez vos appareils avec un chiffrement sécurisé à 256 bits</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode">
@@ -505,6 +510,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Délai de synchronisation dépassé</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries">
@@ -741,6 +747,7 @@
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text">
         <source>Deselect iCloud Keychain</source>
+        <target>Désélectionnez Trousseau iCloud</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text">
