@@ -79,6 +79,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Tempo sincronizzazione scaduto</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
@@ -127,6 +128,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise utilizzerà Face ID per accedere all’app.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -318,6 +320,7 @@
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Sincronizza i tuoi dispositivi con crittografia sicura a 256-bit</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode">
@@ -507,6 +510,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Tempo sincronizzazione scaduto</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries">
@@ -743,6 +747,7 @@
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text">
         <source>Deselect iCloud Keychain</source>
+        <target>Deseleziona il portachiavi iCloud</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text">
