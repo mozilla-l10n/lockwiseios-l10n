@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
-        <target>Um %@ zu verwenden, benötigen Sie ein Firefox-Konto mit gespeicherten Zugangsdaten.</target>
+        <target>Um %@ zu verwenden, benötigst du ein Firefox-Konto mit gespeicherten Zugangsdaten.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
@@ -651,7 +651,7 @@
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle">
         <source>Learn how to edit this entry</source>
-        <target>So kannst du diese Zugangsdaten bearbeiten </target>
+        <target>So kannst du diese Zugangsdaten bearbeiten</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text">
