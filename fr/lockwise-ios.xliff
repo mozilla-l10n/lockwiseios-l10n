@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Vous devez être connecté(e) à %@ pour que le remplissage automatique autorise l’accès aux mots de passe qu’il contient.</target>
+        <target>Vous devez être connecté⋅e à %@ pour que le remplissage automatique autorise l’accès aux mots de passe qu’il contient.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Vous devez être connecté(e) à %@ pour que le remplissage automatique autorise l’accès aux mots de passe qu’il contient.</target>
+        <target>Vous devez être connecté·e à %@ pour que le remplissage automatique autorise l’accès aux mots de passe qu’il contient.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back">
