@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>CredentialProvider</source>
+        <target>CredentialProvider</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>CredentialProvider</source>
+        <target>CredentialProvider</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -22,18 +24,22 @@
     <body>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Uppdaterar Autofyll…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Färdig med uppdatering av Autofyll</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Inloggning krävs</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Du måste vara inloggad på %@ innan Autofyll tillåter åtkomst till lösenord den innehåller.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
@@ -48,6 +54,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ låter dig komma åt lösenord som du redan har sparat i Firefox. Om du vill se dina inloggningar här måste du logga in och synkronisera med Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -62,6 +69,7 @@
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Sök inloggningar</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn">
@@ -71,14 +79,17 @@
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Synkroniseringen avbröts</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
+        <target>Detta låser upp appen.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>(inget användarnamn)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
     </body>
@@ -95,6 +106,7 @@
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Ta med dina lösenord överallt</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -116,6 +128,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise använder Face ID för att logga in på appen.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -127,6 +140,7 @@
     <body>
       <trans-unit id="a_to_z">
         <source>A-Z</source>
+        <target>A-Ö</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="account">
@@ -141,22 +155,27 @@
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>På grund av den senaste app-uppdateringen kommer du att behöva logga in igen. Ursäkta besväret.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Uppdaterar Autofyll…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Färdig med uppdatering av Autofyll</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Inloggning krävs</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Du måste vara inloggad på %@ innan Autofyll tillåter åtkomst till lösenord den innehåller.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back">
@@ -176,10 +195,12 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Detta tar bort dina Firefox-kontouppgifter och alla sparade inloggningar från %@.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
         <source>Disconnect %@?</source>
+        <target>Koppla ner %@?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue">
@@ -194,10 +215,12 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries">
         <source>Done Syncing your logins</source>
+        <target>Klar med att synkronisera dina inloggningar</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied">
         <source>%@ copied</source>
+        <target>%@ kopierad</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
@@ -212,10 +235,12 @@
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ inaktiverad, installera den här webbläsaren för att göra den tillgänglig</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ låter dig komma åt lösenord som du redan har sparat i Firefox. Om du vill se dina inloggningar här måste du logga in och synkronisera med Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -225,14 +250,17 @@
       </trans-unit>
       <trans-unit id="no_username">
         <source>(no username)</source>
+        <target>(inget användarnamn)</target>
         <note>placeholder text when there is no username</note>
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
+        <target>Du använder inte ett lösenord.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
         <source>Notes</source>
+        <target>Anteckningar</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok">
@@ -242,42 +270,52 @@
       </trans-unit>
       <trans-unit id="onboarding.encryption">
         <source>256-bit encryption</source>
+        <target>256-bitars kryptering</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title">
         <source>Welcome to %@</source>
+        <target>Välkommen till %@</target>
         <note>Title on onboarding screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>För att låsa %@, måste ett lösenord anges på din enhet. Utan lösenord kan alla som har tillgång till din enhet få åtkomst till informationen som sparats där.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Du bör använda ett lösenord för att låsa din enhet. Utan lösenord kan alla som har tillgång till din enhet få åtkomst till informationen som sparats där.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
         <source>Password</source>
+        <target>Lösenord</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Lösenord: dubbelklicka för att kopiera %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
         <source>Reauthentication Required</source>
+        <target>Återautentisering krävs</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent">
         <source>Recent</source>
+        <target>Senaste</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used">
         <source>Recently Used</source>
+        <target>Nyligen använd</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Sök inloggningar</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices">
@@ -290,10 +328,12 @@
       </trans-unit>
       <trans-unit id="settings.account">
         <source>Account</source>
+        <target>Konto</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion">
         <source>App Version</source>
+        <target>Appversion</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
@@ -306,10 +346,12 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes">
         <source>15 minutes</source>
+        <target>15 minuter</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes">
         <source>5 minutes</source>
+        <target>5 minuter</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
@@ -318,26 +360,32 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
         <source>Never</source>
+        <target>Aldrig</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour">
         <source>1 hour</source>
+        <target>1 timme</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute">
         <source>1 minute</source>
+        <target>1 minut</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes">
         <source>30 minutes</source>
+        <target>30 minuter</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour">
         <source>12 hours</source>
+        <target>12 timmar</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour">
         <source>24 hours</source>
+        <target>24 timmar</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser">
@@ -346,14 +394,17 @@
       </trans-unit>
       <trans-unit id="settings.browser.chrome">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header">
@@ -362,10 +413,12 @@
       </trans-unit>
       <trans-unit id="settings.browser.klar">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header">
@@ -374,6 +427,7 @@
       </trans-unit>
       <trans-unit id="settings.faq">
         <source>FAQ</source>
+        <target>FAQ</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport">
@@ -394,6 +448,7 @@
       </trans-unit>
       <trans-unit id="settings.title">
         <source>Settings</source>
+        <target>Inställningar</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
@@ -414,10 +469,12 @@
       </trans-unit>
       <trans-unit id="settings_button">
         <source>Settings</source>
+        <target>Inställningar</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign In</source>
+        <target>Logga in</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip">
@@ -450,6 +507,7 @@
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
         <source>Unlock with Face ID</source>
+        <target>Lås upp med Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin">
@@ -458,6 +516,7 @@
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
         <source>Unlock with Touch ID</source>
+        <target>Lås upp med Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry">
@@ -466,6 +525,7 @@
       </trans-unit>
       <trans-unit id="username">
         <source>Username</source>
+        <target>Användarnamn</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
@@ -478,6 +538,7 @@
       </trans-unit>
       <trans-unit id="web_address">
         <source>Web Address</source>
+        <target>Webbadress</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
@@ -516,6 +577,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Not Now</source>
+        <target>Inte nu</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
@@ -539,14 +601,17 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel">
         <source>Copy value</source>
+        <target>Kopiera värde</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel">
         <source>Reveal password in plaintext</source>
+        <target>Visa lösenord i klartext</target>
         <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel">
         <source>Open this web address in browser</source>
+        <target>Öppna denna webbadress i webbläsaren</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle">
