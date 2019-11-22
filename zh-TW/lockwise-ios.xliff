@@ -248,6 +248,7 @@
       </trans-unit>
       <trans-unit id="notes">
         <source>Notes</source>
+        <target>附註</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok">
@@ -284,6 +285,7 @@
       </trans-unit>
       <trans-unit id="reauth_required">
         <source>Reauthentication Required</source>
+        <target>需要重新驗證</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent">
