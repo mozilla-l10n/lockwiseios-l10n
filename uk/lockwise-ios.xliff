@@ -435,78 +435,97 @@
       </trans-unit>
       <trans-unit id="settings.faq">
         <source>FAQ</source>
+        <target>ЧаП</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport">
         <source>Ask a Question</source>
+        <target>Запитати</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore">
         <source>Learn More</source>
+        <target>Докладніше</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback">
         <source>Send Feedback</source>
+        <target>Надіслати відгук</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header">
         <source>SUPPORT</source>
+        <target>ПІДТРИМКА</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title">
         <source>Settings</source>
+        <target>Параметри</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
         <source>Disconnect %@</source>
+        <target>Від'єднати %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Це вилучає синхронізовані паролі з %@, але не видалить їх з Firefox.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
         <source>Send Usage Data</source>
+        <target>Надсилати дані про використання</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla намагається збирати лише дані, що необхідні для роботи і вдосконалення %@.</target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button">
         <source>Settings</source>
+        <target>Параметри</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign In</source>
+        <target>Увійти</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip">
         <source>Skip</source>
+        <target>Пропустити</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries">
         <source>Sort Logins</source>
+        <target>Сортувати записи</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Оберіть варіанти сортування списку записів (використовується %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Час синхронізації минув</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries">
         <source>Syncing your logins</source>
+        <target>Ваші паролі синхронізуються</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink">
         <source>Disconnect</source>
+        <target>Від'єднатися</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
+        <target>Це розблокує додаток.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
