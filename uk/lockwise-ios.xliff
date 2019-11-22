@@ -270,134 +270,167 @@
       </trans-unit>
       <trans-unit id="onboarding.encryption">
         <source>256-bit encryption</source>
+        <target>256-бітове шифрування</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title">
         <source>Welcome to %@</source>
+        <target>Вітаємо в %@</target>
         <note>Title on onboarding screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Щоб заблокувати %@, на вашому пристрої повинен бути налаштований код допуску. Без цього будь-хто може отримати доступ до збереженої тут інформації.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Вам слід використовувати код допуску для блокування пристрою. Без цього будь-хто може отримати доступ до збереженої тут інформації.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
         <source>Password</source>
+        <target>Пароль</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Пароль: подвійний дотик для копії %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
         <source>Reauthentication Required</source>
+        <target>Необхідна повторна автентифікація</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent">
         <source>Recent</source>
+        <target>Недавні</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used">
         <source>Recently Used</source>
+        <target>Недавно використані</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Шукати паролі</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Синхронізуйте між пристроями із захищеним 256-бітним шифруванням</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
+        <target>Встановити код допуску</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account">
         <source>Account</source>
+        <target>Обліковий запис</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion">
         <source>App Version</source>
+        <target>Версія додатка</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
         <source>AutoFill Instructions</source>
+        <target>Інструкції з автозаповнення</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock">
         <source>Auto Lock</source>
+        <target>Автоблокування</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes">
         <source>15 minutes</source>
+        <target>15 хвилин</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes">
         <source>5 minutes</source>
+        <target>5 хвилин</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Оберіть час блокування при бездіяльності</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
         <source>Never</source>
+        <target>Ніколи</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour">
         <source>1 hour</source>
+        <target>1 година</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute">
         <source>1 minute</source>
+        <target>1 хвилина</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes">
         <source>30 minutes</source>
+        <target>30 хвилин</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour">
         <source>12 hours</source>
+        <target>12 годин</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour">
         <source>24 hours</source>
+        <target>24 години</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser">
         <source>Preferred Browser</source>
+        <target>Бажаний браузер</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header">
         <source>Select which browser use with Lockwise</source>
+        <target>Оберіть, який браузер використовувати з Lockwise</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header">
         <source>CONFIGURATION</source>
+        <target>КОНФІГУРАЦІЯ</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq">
