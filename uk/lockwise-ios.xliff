@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Ви повинні увійти до% @, перш ніж автозаповнення дозволить отримати доступ до паролів.</target>
+        <target>Ви повинні увійти до %@, перш ніж автозаповнення дозволить отримати доступ до паролів.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
@@ -59,30 +59,37 @@
       </trans-unit>
       <trans-unit id="lockwise">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="ok">
         <source>OK</source>
+        <target>Гаразд</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Шукати паролі</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign In</source>
+        <target>Увійти</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Час синхронізації минув</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
+        <target>Це розблокує додаток.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>(без імені користувача)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
     </body>
@@ -94,10 +101,12 @@
     <body>
       <trans-unit id="ehm-2v-Rbb.accessibilityLabel">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Class = "UIImageView"; accessibilityLabel = "Firefox Lockwise"; ObjectID = "ehm-2v-Rbb"; Note = "Text logo of the product name for screenreaders";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Майте доступ до своїх паролів всюди</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -109,14 +118,17 @@
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>Firefox Lockbox</source>
+        <target>Firefox Lockbox</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise використовуватиме Face ID для входу в додаток.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
