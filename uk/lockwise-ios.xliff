@@ -106,7 +106,7 @@
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
-        <target>Майте доступ до своїх паролів всюди</target>
+        <target>Візьміть свої паролі всюди</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -230,34 +230,42 @@
       </trans-unit>
       <trans-unit id="get.started">
         <source>Get Started</source>
+        <target>Розпочнімо</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ вимкнено. Встановіть цей браузер, щоб зробити його доступним</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ дозволяє отримати доступ до паролів, які ви вже зберегли у Firefox. Щоб переглянути тут свої паролі, вам необхідно буде увійти та синхронізуватися з Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="no_username">
         <source>(no username)</source>
+        <target>(без імені користувача)</target>
         <note>placeholder text when there is no username</note>
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
+        <target>Ви не використовуєте код допуску.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
         <source>Notes</source>
+        <target>Примітки</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok">
         <source>OK</source>
+        <target>Гаразд</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="onboarding.encryption">
