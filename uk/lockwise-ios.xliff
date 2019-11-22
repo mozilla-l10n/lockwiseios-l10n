@@ -530,46 +530,57 @@
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
         <source>Unlock with Face ID</source>
+        <target>Розблокувати з Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin">
         <source>Unlock with Passcode</source>
+        <target>Розблокувати з кодом допуску</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
         <source>Unlock with Touch ID</source>
+        <target>Розблокувати з Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry">
         <source>unnamed entry</source>
+        <target>запис без назви</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username">
         <source>Username</source>
+        <target>Ім’я користувача</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
         <source>Username: double tap to copy %@</source>
+        <target>Ім’я користувача: подвійний дотик для копії %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
         <source>(no username)</source>
+        <target>(немає імені користувача)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
       <trans-unit id="web_address">
         <source>Web Address</source>
+        <target>Веб-адреса</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Веб-адреса: подвійний дотик для відкриття в браузері %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>Щоб використовувати %@, вам необхідний обліковий запис Firefox зі збереженими паролями.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
         <source>Unlock</source>
+        <target>Розблокувати</target>
         <note>Text on button to unlock app</note>
       </trans-unit>
     </body>
@@ -581,10 +592,12 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>Щоб внести зміни до свого облікового запису, увійдіть до нього з будь-якого браузера.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
         <source>Firefox Account</source>
+        <target>Обліковий запис Firefox</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -596,18 +609,22 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Not Now</source>
+        <target>Не зараз</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
         <source>AutoFill your logins right from your browser or app.</source>
+        <target>Автозаповнення паролів прямо з браузера чи додатка.</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text">
         <source>Easily fill usernames and passwords where you need them most.</source>
+        <target>Легко заповнюйте ім'я користувача і пароль, де вам потрібно.</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
         <source>Set Up AutoFill</source>
+        <target>Налаштувати автозаповнення</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -619,6 +636,7 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel">
         <source>Copy value</source>
+        <target>Копіювати значення</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel">
