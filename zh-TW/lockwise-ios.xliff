@@ -24,10 +24,12 @@
     <body>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>正在更新 AutoFill…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>AutoFill 更新完成</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
@@ -37,6 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>必須先登入 %@，AutoFill 才可使用當中儲存的密碼。</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
