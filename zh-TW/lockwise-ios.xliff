@@ -155,6 +155,7 @@
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>由於近期的應用程式更新，需要請您重新登入。造成不便敬請見諒。</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
@@ -194,6 +195,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>將從 %@ 刪除您的 Firefox 帳號資訊與所有儲存的登入資訊。</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
@@ -238,6 +240,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ 讓您可以使用儲存於 Firefox 的密碼。若要在此檢視登入資訊，需要先登入並與 Firefox 同步。</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -277,10 +280,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>若要鎖定 %@，必須設定裝置的解鎖碼。若沒有解鎖碼，任何碰得到您的裝置的人，都可以獲得您的登入資訊。</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>您應該為裝置設定解鎖碼。若沒有解鎖碼，任何碰得到您的裝置的人，都可以獲得您的登入資訊。</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
@@ -290,7 +295,7 @@
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
-        <target>密碼: 雙擊擊可複製 %@</target>
+        <target>密碼: 雙擊即可複製 %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
@@ -355,6 +360,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
         <source>Select when to lock after a period of inactivity</source>
+        <target>選擇不使用裝置多久後就鎖定資料</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
@@ -459,10 +465,12 @@
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
         <source>Disconnect %@</source>
+        <target>與 %@ 取消連線</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>將從 %@ 移除同步的登入資訊，但不會刪除您儲存於 Firefox 的登入資訊。</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
@@ -497,6 +505,7 @@
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>選擇要如何排序您的登入資訊（目前為 %@）</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout">
@@ -546,6 +555,7 @@
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
         <source>Username: double tap to copy %@</source>
+        <target>使用者名稱: 雙擊即可複製 %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
@@ -560,10 +570,12 @@
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
         <source>Web address: double tap to open in browser %@</source>
+        <target>網址: 雙擊用 %@ 瀏覽器開啟</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>若要使用 %@，需要有儲存了登入資訊的 Firefox 帳號。</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
@@ -580,6 +592,7 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>若要變更您的帳號資訊，請使用任何瀏覽器登入您的 Firefox 帳號。</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
@@ -665,14 +678,17 @@
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text">
         <source>Access logins saved to Firefox for desktop from your device</source>
+        <target>從您的裝置使用儲存到 Firefox 桌面版的登入資訊</target>
         <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
       </trans-unit>
       <trans-unit id="o0t-1T-rrA.text">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>使用 256 位元加密，安全於裝置間同步</target>
         <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <target>使用 Touch ID 或 Face ID 輕鬆解鎖程式</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
@@ -706,6 +722,7 @@
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <target>完成下列步驟，即可使用 Lockwise 進行自動填寫。</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text">
@@ -767,6 +784,7 @@
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>若要使用 Firefox Lockwise，需要有儲存了登入資訊的 Firefox 帳號。</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -788,6 +806,7 @@
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>請先把登入資訊儲存到 Firefox，才能在此看到更多登入資訊。</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text">
