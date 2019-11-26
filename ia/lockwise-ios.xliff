@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Tu debe jam esser connexe a %@ ante que AutoFill consentirà accesso al contrasignos incorporate.</target>
+        <target>Tu debe jam esser connexe a %@ ante que AutoFill consentira accesso al contrasignos incorporate.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
@@ -54,6 +54,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ te pone in grado de acceder al contrasignos que tu ha jam salvate in Firefox. A vider tu credentiales ci, tu debera acceder e synchronisar te con Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -127,6 +128,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise usara Face ID facer te acceder in al application.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -138,6 +140,7 @@
     <body>
       <trans-unit id="a_to_z">
         <source>A-Z</source>
+        <target>A-Z</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="account">
@@ -147,10 +150,12 @@
       </trans-unit>
       <trans-unit id="alphabetically">
         <source>Alphabetically</source>
+        <target>Alphabeticamente</target>
         <note>Label for the option sheet action allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>Per un recente actualisation del application, nos debera facer te acceder de novo. Nos excusa nos pro le inconveniente.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
@@ -190,10 +195,12 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Isto delera informationes de tu conto Firefox e tote le credentiales salvate ex %@.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
         <source>Disconnect %@?</source>
+        <target>Disconnecter %@?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue">
@@ -208,10 +215,12 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries">
         <source>Done Syncing your logins</source>
+        <target>Synchronisation de tu credentiales facite</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied">
         <source>%@ copied</source>
+        <target>%@  copiate</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
@@ -221,6 +230,7 @@
       </trans-unit>
       <trans-unit id="get.started">
         <source>Get Started</source>
+        <target>Comenciar</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt">
