@@ -360,6 +360,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Eliger quando blocar post un periodo de inactivitate</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
@@ -394,6 +395,7 @@
       </trans-unit>
       <trans-unit id="settings.browser">
         <source>Preferred Browser</source>
+        <target>Navigator preferite</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome">
@@ -413,6 +415,7 @@
       </trans-unit>
       <trans-unit id="settings.browser.header">
         <source>Select which browser use with Lockwise</source>
+        <target>Eliger qual navigator usar con Lockwise</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar">
@@ -467,14 +470,17 @@
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Isto remove credentiales synchronisate ex %@, ma non delera tu accessos de Firefox.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
         <source>Send Usage Data</source>
+        <target>Inviar le datos de uso</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla se effortia a colliger solo lo que nos besonia pro fornir e meliorar %@ pro totes.</target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button">
@@ -494,10 +500,12 @@
       </trans-unit>
       <trans-unit id="sort_entries">
         <source>Sort Logins</source>
+        <target>Ordinar credentiales</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Elige optiones pro ordinar tu lista de accessos (actualmente %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout">
@@ -522,18 +530,22 @@
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
         <source>Unlock with Face ID</source>
+        <target>Disblocar con Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin">
         <source>Unlock with Passcode</source>
+        <target>Disblocar con Codice de accesso</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
         <source>Unlock with Touch ID</source>
+        <target>Disblocar con Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry">
         <source>unnamed entry</source>
+        <target>sin nomine</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username">
@@ -543,6 +555,7 @@
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
         <source>Username: double tap to copy %@</source>
+        <target>Nomine de usator: toccar duple pro copiar %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
@@ -557,10 +570,12 @@
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Web adresse: duple toccar pro aperir in le navigator %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>Usar %@, tu besoniara de un conto Firefox con credentiales salvate.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
@@ -577,6 +592,7 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>Pro facer cambios, accede a tu conto Firefox ab ulle navigator.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
@@ -606,6 +622,7 @@
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
         <source>Set Up AutoFill</source>
+        <target>Configurar AutoFill</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -675,6 +692,7 @@
     <body>
       <trans-unit id="KPq-Rv-WTJ.normalTitle">
         <source>Lock Now</source>
+        <target>Blocar ora</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
       </trans-unit>
     </body>
@@ -711,6 +729,7 @@
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text">
         <source>Select Lockwise</source>
+        <target>Eliger Lockwise</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text">
