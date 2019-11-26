@@ -295,6 +295,7 @@
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Contrasigno: tocca duple pro copiar %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
