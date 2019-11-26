@@ -309,14 +309,17 @@
       </trans-unit>
       <trans-unit id="recently_used">
         <source>Recently Used</source>
+        <target>Usate recentemente</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder">
         <source>Search logins</source>
+        <target>Cercar credentiales</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synchronisar inter apparatos con cryptographia secur a 256-bit</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode">
@@ -336,10 +339,12 @@
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
         <source>AutoFill Instructions</source>
+        <target>Instructiones pro AutoFill</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock">
         <source>Auto Lock</source>
+        <target>Bloco automatic</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes">
