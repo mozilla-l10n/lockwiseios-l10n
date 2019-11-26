@@ -299,6 +299,7 @@
       </trans-unit>
       <trans-unit id="reauth_required">
         <source>Reauthentication Required</source>
+        <target>Re-authentication obligatori</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent">
@@ -320,6 +321,7 @@
       </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
+        <target>Definir codice de accesso</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account">
@@ -329,6 +331,7 @@
       </trans-unit>
       <trans-unit id="settings.appVersion">
         <source>App Version</source>
+        <target>Version del application</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
@@ -346,6 +349,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes">
         <source>5 minutes</source>
+        <target>5 minutas</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
@@ -369,14 +373,17 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes">
         <source>30 minutes</source>
+        <target>30 minutas</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour">
         <source>12 hours</source>
+        <target>12 horas</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour">
         <source>24 hours</source>
+        <target>24 horas</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser">
@@ -385,14 +392,17 @@
       </trans-unit>
       <trans-unit id="settings.browser.chrome">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header">
@@ -401,42 +411,52 @@
       </trans-unit>
       <trans-unit id="settings.browser.klar">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header">
         <source>CONFIGURATION</source>
+        <target>CONFIGURATION</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq">
         <source>FAQ</source>
+        <target>Questiones frequente</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport">
         <source>Ask a Question</source>
+        <target>Pone un question</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore">
         <source>Learn More</source>
+        <target>Saper plus</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback">
         <source>Send Feedback</source>
+        <target>Inviar commentos</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header">
         <source>SUPPORT</source>
+        <target>SUPPORTO</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title">
         <source>Settings</source>
+        <target>Parametros</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
         <source>Disconnect %@</source>
+        <target>Disconnecter %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
@@ -453,6 +473,7 @@
       </trans-unit>
       <trans-unit id="settings_button">
         <source>Settings</source>
+        <target>Parametros</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn">
@@ -538,6 +559,7 @@
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
         <source>Unlock</source>
+        <target>Disblocar</target>
         <note>Text on button to unlock app</note>
       </trans-unit>
     </body>
@@ -553,6 +575,7 @@
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
         <source>Firefox Account</source>
+        <target>Conto Firefox</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -564,6 +587,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Not Now</source>
+        <target>Non ora</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
@@ -587,6 +611,7 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel">
         <source>Copy value</source>
+        <target>Copiar le valor</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel">
@@ -603,10 +628,12 @@
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text">
         <source>Label</source>
+        <target>Etiquetta</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "t0H-71-xTp"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="tuK-Xc-guT.text">
         <source>Label</source>
+        <target>Etiquetta</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "tuK-Xc-guT"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
     </body>
@@ -618,6 +645,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle">
         <source>Finish</source>
+        <target>Finir</target>
         <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text">
@@ -652,6 +680,7 @@
     <body>
       <trans-unit id="KnK-nY-NyH.normalTitle">
         <source>Got it</source>
+        <target>Comprendite</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "KnK-nY-NyH"; Note = "The message on a confirmation button that the user understands or followed the instructions and will close out of these instructions";</note>
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text">
@@ -749,6 +778,7 @@
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text">
         <source>No logins found.</source>
+        <target>Nulle credentiales trovate.</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
       <trans-unit id="n2T-XM-ua9.text">
@@ -758,6 +788,7 @@
       </trans-unit>
       <trans-unit id="qZc-w1-SRT.text">
         <source>No matching logins.</source>
+        <target>Nulle credentiales concordante.</target>
         <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
       </trans-unit>
     </body>
@@ -769,6 +800,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text">
         <source>Syncing your logins…</source>
+        <target>Synchronisation de tu credentiales…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
