@@ -54,7 +54,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
-        <target>Mae %@ yn gadael i chi gel mynediad i gyfrineiriau rydych chi eisoes wedi'u cadw i Firefox. I weld eich mewngofnodion yma, bydd angen i chi fewngofnodi a chydweddu gyda Firefox.</target>
+        <target>Mae %@ yn gadael i chi gael mynediad i gyfrineiriau rydych chi eisoes wedi'u cadw i Firefox. I weld eich mewngofnodion yma, bydd angen i chi fewngofnodi a chydweddu gyda Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
-        <target>Bydd hyn yn datgloi'r app.</target>
+        <target>Bydd hyn yn datgloi'r ap.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
-        <target>Mae %@ yn gadael i chi gel mynediad i gyfrineiriau rydych chi eisoes wedi'u cadw i Firefox. I weld eich mewngofnodion yma, bydd angen i chi fewngofnodi a chydweddu gyda Firefox.</target>
+        <target>Mae %@ yn gadael i chi gael mynediad i gyfrineiriau rydych chi eisoes wedi'u cadw i Firefox. I weld eich mewngofnodion yma, bydd angen i chi fewngofnodi a chydweddu gyda Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -255,7 +255,7 @@
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
-        <target>Nid ydych yn defnyddio pasgod.</target>
+        <target>Nid ydych yn defnyddio cyfringod.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
@@ -525,7 +525,7 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder">
         <source>This will unlock the app.</source>
-        <target>Bydd hyn yn datgloi'r app.</target>
+        <target>Bydd hyn yn datgloi'r ap.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
@@ -717,34 +717,42 @@
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text">
         <source>Tap into AutoFill Passwords</source>
+        <target>Tapiwch i fewn i Gyfrineiriau AutoFill</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <target>Cwblhewch y camau canlynol er mwyn defnyddio Lockwise fel darparwr AutoFill.</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text">
         <source>Turn on AutoFill Passwords</source>
+        <target>Cychwynnwch Gyfrineiriau AutoFill</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>Tapiwch i Gyfrineiriau a Chyfrifon</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text">
         <source>How to Set up AutoFill</source>
+        <target>Sut i Osod AutoFill</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text">
         <source>Select Lockwise</source>
+        <target>Dewis Lockwise</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text">
         <source>Deselect iCloud Keychain</source>
+        <target>Dad-ddewis Keychain iCloud</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text">
         <source>Open the Settings app</source>
+        <target>Agor yr ap Gosodiadau</target>
         <note>Class = "UILabel"; text = "Open the Settings app"; ObjectID = "xig-s8-dim"; Note = "The instruction to open the system Settings app";</note>
       </trans-unit>
     </body>
@@ -756,22 +764,27 @@
     <body>
       <trans-unit id="8rH-vt-4bG.normalTitle">
         <source>Unlock</source>
+        <target>Datgloi</target>
         <note>Class = "UIButton"; normalTitle = "Unlock"; ObjectID = "8rH-vt-4bG"; Note = "This is the text on the unlock button when the app is opened and locked";</note>
       </trans-unit>
       <trans-unit id="JTP-OD-6TF.normalTitle">
         <source>Learn more</source>
+        <target>Dysgu rhagor</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
       </trans-unit>
       <trans-unit id="cuz-yd-F4J.normalTitle">
         <source>Get Started</source>
+        <target>Cychwyn Arni</target>
         <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
         <source>Take your passwords everywhere</source>
+        <target>Ewch â'ch cyfrineiriau i bob man</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>I ddefnyddio Firefox Lockwis, bydd angen Cyfrif Firefox arnoch gyda mewngofnodion wedi'u cadw.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -783,34 +796,42 @@
     <body>
       <trans-unit id="3A5-nI-aV6.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle">
         <source>Learn more</source>
+        <target>Dysgu rhagor</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>I weld ragor o fewngofnodion yma, bydd angen i chi eu cadw i Firefox.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text">
         <source>Select a password to fill</source>
+        <target>Dewiswch gyfrinair i'w lenwi</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle">
         <source>Learn more</source>
+        <target>Dysgu rhagor</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text">
         <source>No logins found.</source>
+        <target>Heb ganfod mewngofnodion.</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
       <trans-unit id="n2T-XM-ua9.text">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "n2T-XM-ua9"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="qZc-w1-SRT.text">
         <source>No matching logins.</source>
+        <target>Dim cofnodion sy'n cyfateb.</target>
         <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
       </trans-unit>
     </body>
@@ -822,6 +843,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text">
         <source>Syncing your logins…</source>
+        <target>Cydweddu eich mewngofnodion…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
