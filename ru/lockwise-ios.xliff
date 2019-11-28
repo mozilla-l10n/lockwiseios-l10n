@@ -186,6 +186,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
         <source>Disconnect %@?</source>
+        <target>Отсоединить %@?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue">
@@ -200,6 +201,7 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries">
         <source>Done Syncing your logins</source>
+        <target>Синхронизация ваших логинов закончена</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied">
@@ -213,6 +215,7 @@
       </trans-unit>
       <trans-unit id="get.started">
         <source>Get Started</source>
+        <target>Начать</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt">
