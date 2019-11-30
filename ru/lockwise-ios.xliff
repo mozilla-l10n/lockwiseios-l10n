@@ -24,14 +24,17 @@
     <body>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Обновление данных автозаполнения…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Обновление данных автозаполнения завершено</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Необходимо войти</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
@@ -122,6 +125,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise будет использовать Face ID для входа в приложение.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -138,6 +142,7 @@
       </trans-unit>
       <trans-unit id="account">
         <source>Account</source>
+        <target>Аккаунт</target>
         <note>Title for settings page letting users manage their accounts</note>
       </trans-unit>
       <trans-unit id="alphabetically">
@@ -147,18 +152,22 @@
       </trans-unit>
       <trans-unit id="app_update_explanation">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>Из-за недавнего обновления приложения, вам необходимо войти заново. Извините за неудобства.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Обновление автозаполнения…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Обновление автозаполнения завершено</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
         <source>Sign in Required</source>
+        <target>Необходимо войти</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
@@ -182,6 +191,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Это действие удалит ваш Аккаунт Firefox и все сохранённые логины из %@.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
@@ -206,6 +216,7 @@
       </trans-unit>
       <trans-unit id="fieldNameCopied">
         <source>%@ copied</source>
+        <target>%@ скопировано</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox">
@@ -220,6 +231,7 @@
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ отключён, установите этот браузер, чтобы сделать его доступным</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
@@ -238,10 +250,12 @@
       </trans-unit>
       <trans-unit id="not_using_passcode">
         <source>You’re not using a passcode.</source>
+        <target>Вы не используете код-пароль.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes">
         <source>Notes</source>
+        <target>Примечания</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok">
@@ -261,10 +275,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Чтобы заблокировать %@, необходимо установить код-пароль на ваше устройство. Без код-пароля, любой человек, использующий ваше устройство, сможет получить доступ к сохранённой здесь информации.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Вам необходимо использовать код-пароль, чтобы заблокировать ваше устройство. Без код-пароля, любой человек, использующий ваше устройство, сможет получить доступ к сохранённой здесь информации.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
@@ -274,6 +290,7 @@
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Пароль: нажмите дважды, чтобы скопировать %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
@@ -302,6 +319,7 @@
       </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
+        <target>Установить код-пароль</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account">
@@ -500,6 +518,7 @@
       </trans-unit>
       <trans-unit id="unlock_with_pin">
         <source>Unlock with Passcode</source>
+        <target>Разблокировать с помощью код-пароля</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
