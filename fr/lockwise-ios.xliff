@@ -2,15 +2,15 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="CredentialProvider/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>CredentialProvider</source>
         <target>CredentialProvider</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName">
+      <trans-unit id="CFBundleName" xml:space="preserve">
         <source>CredentialProvider</source>
         <target>CredentialProvider</target>
         <note>Bundle name</note>
@@ -19,75 +19,79 @@
   </file>
   <file original="CredentialProvider/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="autofill.enabling">
+      <trans-unit id="autofill.enabling" xml:space="preserve">
         <source>Updating AutoFill…</source>
         <target>Mise à jour du remplissage automatique…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
-      <trans-unit id="autofill.finished_enabling">
+      <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
         <target>Mise à jour du remplissage automatique terminée</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
-      <trans-unit id="autofill.signInRequired">
+      <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
         <target>Connexion nécessaire</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
-      <trans-unit id="autofill.signInRequiredBody">
+      <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
         <target>Vous devez être connecté·e à %@ pour que le remplissage automatique autorise l’accès aux mots de passe qu’il contient.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="cancel">
+      <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Annuler</target>
         <note>Cancel button title</note>
       </trans-unit>
-      <trans-unit id="firefoxLockbox">
+      <trans-unit id="delete" xml:space="preserve">
+        <source>Delete</source>
+        <note>Delete button title</note>
+      </trans-unit>
+      <trans-unit id="firefoxLockbox" xml:space="preserve">
         <source>Firefox Lockwise</source>
         <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
-      <trans-unit id="list.empty">
+      <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
         <target>%@ vous permet d’accéder aux mots de passe que vous avez déjà enregistrés dans Firefox. Pour afficher vos identifiants ici, vous devez vous connecter et activer la synchronisation dans Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="lockwise">
+      <trans-unit id="lockwise" xml:space="preserve">
         <source>Lockwise</source>
         <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
-      <trans-unit id="ok">
+      <trans-unit id="ok" xml:space="preserve">
         <source>OK</source>
         <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
-      <trans-unit id="search.placeholder">
+      <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
         <target>Rechercher des identifiants</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
-      <trans-unit id="signIn">
+      <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
         <target>Connexion</target>
         <note>Sign in button text</note>
       </trans-unit>
-      <trans-unit id="sync.timeout">
+      <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
         <target>Délai de synchronisation dépassé</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
-      <trans-unit id="unlock_placeholder">
+      <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
         <target>Ceci va déverrouiller l’application.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
-      <trans-unit id="username_placeholder">
+      <trans-unit id="username_placeholder" xml:space="preserve">
         <source>(no username)</source>
         <target>(aucun nom d’utilisateur)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
@@ -96,15 +100,15 @@
   </file>
   <file original="CredentialProvider/Storyboard/Base.lproj/CredentialWelcome.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="ehm-2v-Rbb.accessibilityLabel">
+      <trans-unit id="ehm-2v-Rbb.accessibilityLabel" xml:space="preserve">
         <source>Firefox Lockwise</source>
         <target>Firefox Lockwise</target>
         <note>Class = "UIImageView"; accessibilityLabel = "Firefox Lockwise"; ObjectID = "ehm-2v-Rbb"; Note = "Text logo of the product name for screenreaders";</note>
       </trans-unit>
-      <trans-unit id="hwO-wS-oS4.text">
+      <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
         <source>Take your passwords everywhere</source>
         <target>Emportez vos mots de passe partout.</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
@@ -113,20 +117,20 @@
   </file>
   <file original="lockbox-ios/Common/Resources/Strings/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Lockwise</source>
         <target>Lockwise</target>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName">
+      <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Firefox Lockbox</source>
         <target>Firefox Lockbox</target>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSFaceIDUsageDescription">
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
         <target>Firefox Lockwise utilisera Face ID pour vous connecter à l’application.</target>
         <note>Privacy - Face ID Usage Description</note>
@@ -135,450 +139,466 @@
   </file>
   <file original="lockbox-ios/Common/Resources/Strings/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="a_to_z">
+      <trans-unit id="a_to_z" xml:space="preserve">
         <source>A-Z</source>
         <target>A à Z</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
-      <trans-unit id="account">
+      <trans-unit id="account" xml:space="preserve">
         <source>Account</source>
         <target>Compte</target>
         <note>Title for settings page letting users manage their accounts</note>
       </trans-unit>
-      <trans-unit id="alphabetically">
+      <trans-unit id="alphabetically" xml:space="preserve">
         <source>Alphabetically</source>
         <target>Alphabétiquement</target>
         <note>Label for the option sheet action allowing users to sort the logins list alphabetically</note>
       </trans-unit>
-      <trans-unit id="app_update_explanation">
+      <trans-unit id="app_update_explanation" xml:space="preserve">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
         <target>En raison d’une mise à jour récente de l’application, nous devons vous demander de vous reconnecter. Nous sommes désolés pour ce désagrément.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
-      <trans-unit id="autofill.enabling">
+      <trans-unit id="autofill.enabling" xml:space="preserve">
         <source>Updating AutoFill…</source>
         <target>Mise à jour du remplissage automatique…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
-      <trans-unit id="autofill.finished_enabling">
+      <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
         <target>Mise à jour du remplissage automatique terminée</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
-      <trans-unit id="autofill.signInRequired">
+      <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
         <target>Connexion nécessaire</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
-      <trans-unit id="autofill.signInRequiredBody">
+      <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
         <target>Vous devez être connecté·e à %@ pour que le remplissage automatique autorise l’accès aux mots de passe qu’il contient.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="back">
+      <trans-unit id="back" xml:space="preserve">
         <source>Back</source>
         <target>Retour</target>
         <note>Back button title</note>
       </trans-unit>
-      <trans-unit id="cancel">
+      <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Annuler</target>
         <note>Cancel button title</note>
       </trans-unit>
-      <trans-unit id="close">
+      <trans-unit id="close" xml:space="preserve">
         <source>Close</source>
         <target>Fermer</target>
         <note>Close button title</note>
       </trans-unit>
-      <trans-unit id="confirm_dialog_message">
+      <trans-unit id="confirm_dialog_message" xml:space="preserve">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
         <target>Cette action supprimera de %@ les informations de votre compte Firefox et tous les identifiants enregistrés.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
-      <trans-unit id="confirm_dialog_title">
+      <trans-unit id="confirm_dialog_title" xml:space="preserve">
         <source>Disconnect %@?</source>
         <target>Déconnecter %@ ?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="continue">
+      <trans-unit id="continue" xml:space="preserve">
         <source>Continue</source>
         <target>Continuer</target>
         <note>Button title when agreeing to proceed to access the application.</note>
       </trans-unit>
-      <trans-unit id="done">
+      <trans-unit id="delete" xml:space="preserve">
+        <source>Delete</source>
+        <note>Delete button title</note>
+      </trans-unit>
+      <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
+        <source>This will delete the entry from both %@ and Firefox.</source>
+        <note>Message in confirmation dialog when a login is deleted</note>
+      </trans-unit>
+      <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
+        <source>Delete this login?</source>
+        <note>Title for confirmation dialog when a login is deleted</note>
+      </trans-unit>
+      <trans-unit id="delete.statusAlert" xml:space="preserve">
+        <source>%@ deleted</source>
+        <note>Text in the status alert after a login has been deleted. %@ is the hostname of the login</note>
+      </trans-unit>
+      <trans-unit id="done" xml:space="preserve">
         <source>Done</source>
         <target>Terminé</target>
         <note>Text on button to close settings</note>
       </trans-unit>
-      <trans-unit id="done_syncing_entries">
+      <trans-unit id="done_syncing_entries" xml:space="preserve">
         <source>Done Syncing your logins</source>
         <target>Synchronisation de vos identifiants terminée</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
-      <trans-unit id="fieldNameCopied">
+      <trans-unit id="fieldNameCopied" xml:space="preserve">
         <source>%@ copied</source>
         <target>%@ copié</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
-      <trans-unit id="firefoxLockbox">
+      <trans-unit id="firefoxLockbox" xml:space="preserve">
         <source>Firefox Lockwise</source>
         <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
-      <trans-unit id="get.started">
+      <trans-unit id="get.started" xml:space="preserve">
         <source>Get Started</source>
         <target>Pour commencer</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
-      <trans-unit id="install_browser_prompt">
+      <trans-unit id="install_browser_prompt" xml:space="preserve">
         <source>%@ disabled, install this browser to make it available</source>
         <target>%@ est désactivé, installez ce navigateur pour le rendre disponible</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
-      <trans-unit id="list.empty">
+      <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
         <target>%@ vous permet d’accéder aux mots de passe que vous avez déjà enregistrés dans Firefox. Pour afficher vos identifiants ici, vous devez vous connecter et activer la synchronisation dans Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="lockwise">
+      <trans-unit id="lockwise" xml:space="preserve">
         <source>Lockwise</source>
         <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
-      <trans-unit id="no_username">
+      <trans-unit id="no_username" xml:space="preserve">
         <source>(no username)</source>
         <target>(aucun nom d’utilisateur)</target>
         <note>placeholder text when there is no username</note>
       </trans-unit>
-      <trans-unit id="not_using_passcode">
+      <trans-unit id="not_using_passcode" xml:space="preserve">
         <source>You’re not using a passcode.</source>
         <target>Vous n’utilisez pas de code d’accès.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
-      <trans-unit id="notes">
+      <trans-unit id="notes" xml:space="preserve">
         <source>Notes</source>
         <target>Notes</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
-      <trans-unit id="ok">
+      <trans-unit id="ok" xml:space="preserve">
         <source>OK</source>
         <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
-      <trans-unit id="onboarding.encryption">
+      <trans-unit id="onboarding.encryption" xml:space="preserve">
         <source>256-bit encryption</source>
         <target>Chiffrement 256 bits</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
-      <trans-unit id="onboarding.title">
+      <trans-unit id="onboarding.title" xml:space="preserve">
         <source>Welcome to %@</source>
         <target>Bienvenue dans %@</target>
         <note>Title on onboarding screen. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="passcode_detail_information">
+      <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
         <target>Pour verrouiller %@, un code d’accès doit être configuré sur votre appareil. Sinon, toute personne disposant de votre téléphone peut accéder aux informations qui y sont enregistrées.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="passcode_info">
+      <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
         <target>Vous devriez utiliser un code d’accès pour verrouiller votre appareil. Sinon, toute personne disposant de votre téléphone peut accéder aux informations qui y sont enregistrées.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
-      <trans-unit id="password">
+      <trans-unit id="password" xml:space="preserve">
         <source>Password</source>
         <target>Mot de passe</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
-      <trans-unit id="password_accessibility_instructions">
+      <trans-unit id="password_accessibility_instructions" xml:space="preserve">
         <source>Password: double tap to copy %@</source>
         <target>Mot de passe : appuyez deux fois pour copier %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
-      <trans-unit id="reauth_required">
+      <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
         <target>Nouvelle authentification nécessaire</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
-      <trans-unit id="recent">
+      <trans-unit id="recent" xml:space="preserve">
         <source>Recent</source>
         <target>Récents</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
-      <trans-unit id="recently_used">
+      <trans-unit id="recently_used" xml:space="preserve">
         <source>Recently Used</source>
         <target>Récemment utilisés</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
-      <trans-unit id="search.placeholder">
+      <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
         <target>Rechercher des identifiants</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
-      <trans-unit id="securityTheather.syncBetweenDevices">
+      <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
         <target>Synchronisez vos appareils avec un chiffrement sécurisé à 256 bits</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
-      <trans-unit id="set_passcode">
+      <trans-unit id="set_passcode" xml:space="preserve">
         <source>Set Passcode</source>
         <target>Définir un code d’accès</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
-      <trans-unit id="settings.account">
+      <trans-unit id="settings.account" xml:space="preserve">
         <source>Account</source>
         <target>Compte</target>
         <note>Account option in settings</note>
       </trans-unit>
-      <trans-unit id="settings.appVersion">
+      <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
         <target>Version de l’application</target>
         <note>App Version setting label</note>
       </trans-unit>
-      <trans-unit id="settings.autoFillSettings">
+      <trans-unit id="settings.autoFillSettings" xml:space="preserve">
         <source>AutoFill Instructions</source>
         <target>Instructions pour le remplissage automatique</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock">
+      <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
         <target>Verrouillage automatique</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.fifteenMinutes">
+      <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
         <source>15 minutes</source>
         <target>15 minutes</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.fiveMinutes">
+      <trans-unit id="settings.autoLock.fiveMinutes" xml:space="preserve">
         <source>5 minutes</source>
         <target>5 minutes</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.header">
+      <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
         <target>Sélectionnez quand verrouiller après une période d’inactivité</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.never">
+      <trans-unit id="settings.autoLock.never" xml:space="preserve">
         <source>Never</source>
         <target>Jamais</target>
         <note>Never</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.oneHour">
+      <trans-unit id="settings.autoLock.oneHour" xml:space="preserve">
         <source>1 hour</source>
         <target>1 heure</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.oneMinute">
+      <trans-unit id="settings.autoLock.oneMinute" xml:space="preserve">
         <source>1 minute</source>
         <target>1 minute</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.thirtyMinutes">
+      <trans-unit id="settings.autoLock.thirtyMinutes" xml:space="preserve">
         <source>30 minutes</source>
         <target>30 minutes</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.twelveHour">
+      <trans-unit id="settings.autoLock.twelveHour" xml:space="preserve">
         <source>12 hours</source>
         <target>12 heures</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
-      <trans-unit id="settings.autoLock.twentyFourHour">
+      <trans-unit id="settings.autoLock.twentyFourHour" xml:space="preserve">
         <source>24 hours</source>
         <target>24 heures</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
-      <trans-unit id="settings.browser">
+      <trans-unit id="settings.browser" xml:space="preserve">
         <source>Preferred Browser</source>
         <target>Navigateur préféré</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
-      <trans-unit id="settings.browser.chrome">
+      <trans-unit id="settings.browser.chrome" xml:space="preserve">
         <source>Google Chrome</source>
         <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
-      <trans-unit id="settings.browser.firefox">
+      <trans-unit id="settings.browser.firefox" xml:space="preserve">
         <source>Firefox</source>
         <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
-      <trans-unit id="settings.browser.focus">
+      <trans-unit id="settings.browser.focus" xml:space="preserve">
         <source>Firefox Focus</source>
         <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
-      <trans-unit id="settings.browser.header">
+      <trans-unit id="settings.browser.header" xml:space="preserve">
         <source>Select which browser use with Lockwise</source>
         <target>Sélectionnez le navigateur à utiliser avec Lockwise</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
-      <trans-unit id="settings.browser.klar">
+      <trans-unit id="settings.browser.klar" xml:space="preserve">
         <source>Firefox Klar</source>
         <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
-      <trans-unit id="settings.browser.safari">
+      <trans-unit id="settings.browser.safari" xml:space="preserve">
         <source>Safari</source>
         <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
-      <trans-unit id="settings.configuration.header">
+      <trans-unit id="settings.configuration.header" xml:space="preserve">
         <source>CONFIGURATION</source>
         <target>CONFIGURATION</target>
         <note>Configuration label in settings</note>
       </trans-unit>
-      <trans-unit id="settings.faq">
+      <trans-unit id="settings.faq" xml:space="preserve">
         <source>FAQ</source>
         <target>FAQ</target>
         <note>FAQ option in settings</note>
       </trans-unit>
-      <trans-unit id="settings.getSupport">
+      <trans-unit id="settings.getSupport" xml:space="preserve">
         <source>Ask a Question</source>
         <target>Poser une question</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
-      <trans-unit id="settings.learnMore">
+      <trans-unit id="settings.learnMore" xml:space="preserve">
         <source>Learn More</source>
         <target>En savoir plus</target>
         <note>Label for link to learn more</note>
       </trans-unit>
-      <trans-unit id="settings.provideFeedback">
+      <trans-unit id="settings.provideFeedback" xml:space="preserve">
         <source>Send Feedback</source>
         <target>Donner mon avis</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
-      <trans-unit id="settings.support.header">
+      <trans-unit id="settings.support.header" xml:space="preserve">
         <source>SUPPORT</source>
         <target>ASSISTANCE</target>
         <note>Support section label in settings</note>
       </trans-unit>
-      <trans-unit id="settings.title">
+      <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
         <target>Paramètres</target>
         <note>Title on settings screen</note>
       </trans-unit>
-      <trans-unit id="settings.unlinkAccount">
+      <trans-unit id="settings.unlinkAccount" xml:space="preserve">
         <source>Disconnect %@</source>
         <target>Déconnecter %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="settings.unlinkDisclaimer">
+      <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
         <target>Cette action supprimera les identifiants synchronisés de %@, mais ne supprimera pas vos identifiants de Firefox.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="settings.usageData">
+      <trans-unit id="settings.usageData" xml:space="preserve">
         <source>Send Usage Data</source>
         <target>Envoyer des données d’utilisation</target>
         <note>Setting to send usage data</note>
       </trans-unit>
-      <trans-unit id="settings.usageData.subtitle">
+      <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
         <target>Mozilla veille à collecter uniquement les données nécessaires afin d’offrir et d’améliorer %@ pour tout le monde.</target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="settings_button">
+      <trans-unit id="settings_button" xml:space="preserve">
         <source>Settings</source>
         <target>Paramètres</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
-      <trans-unit id="signIn">
+      <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
         <target>Connexion</target>
         <note>Sign in button text</note>
       </trans-unit>
-      <trans-unit id="skip">
+      <trans-unit id="skip" xml:space="preserve">
         <source>Skip</source>
         <target>Ignorer</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
-      <trans-unit id="sort_entries">
+      <trans-unit id="sort_entries" xml:space="preserve">
         <source>Sort Logins</source>
         <target>Trier les identifiants</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
-      <trans-unit id="sorting_options">
+      <trans-unit id="sorting_options" xml:space="preserve">
         <source>Select options for sorting your list of logins (currently %@)</source>
         <target>Sélectionnez des options pour trier votre liste d’identifiants (actuellement %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
-      <trans-unit id="sync.timeout">
+      <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
         <target>Délai de synchronisation dépassé</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
-      <trans-unit id="syncing_entries">
+      <trans-unit id="syncing_entries" xml:space="preserve">
         <source>Syncing your logins</source>
         <target>Synchronisation de vos identifiants</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
-      <trans-unit id="unlink">
+      <trans-unit id="unlink" xml:space="preserve">
         <source>Disconnect</source>
         <target>Se déconnecter</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
-      <trans-unit id="unlock_placeholder">
+      <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
         <target>Ceci va déverrouiller l’application.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
-      <trans-unit id="unlock_with_faceid">
+      <trans-unit id="unlock_with_faceid" xml:space="preserve">
         <source>Unlock with Face ID</source>
         <target>Déverrouiller avec Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
-      <trans-unit id="unlock_with_pin">
+      <trans-unit id="unlock_with_pin" xml:space="preserve">
         <source>Unlock with Passcode</source>
         <target>Déverrouiller avec le code d’accès</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
-      <trans-unit id="unlock_with_touchid">
+      <trans-unit id="unlock_with_touchid" xml:space="preserve">
         <source>Unlock with Touch ID</source>
         <target>Déverrouiller avec Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
-      <trans-unit id="unnamed_entry">
+      <trans-unit id="unnamed_entry" xml:space="preserve">
         <source>unnamed entry</source>
         <target>entrée sans nom</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
-      <trans-unit id="username">
+      <trans-unit id="username" xml:space="preserve">
         <source>Username</source>
         <target>Nom d’utilisateur</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
-      <trans-unit id="username_accessibility_instructions">
+      <trans-unit id="username_accessibility_instructions" xml:space="preserve">
         <source>Username: double tap to copy %@</source>
         <target>Nom d’utilisateur : appuyez deux fois pour copier %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
-      <trans-unit id="username_placeholder">
+      <trans-unit id="username_placeholder" xml:space="preserve">
         <source>(no username)</source>
         <target>(aucun nom d’utilisateur)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
-      <trans-unit id="web_address">
+      <trans-unit id="web_address" xml:space="preserve">
         <source>Web Address</source>
         <target>Adresse web</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
-      <trans-unit id="website_accessibility_instructions">
+      <trans-unit id="website_accessibility_instructions" xml:space="preserve">
         <source>Web address: double tap to open in browser %@</source>
         <target>Adresse web : appuyez deux fois pour ouvrir dans le navigateur %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
-      <trans-unit id="welcome.accessProduct">
+      <trans-unit id="welcome.accessProduct" xml:space="preserve">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
         <target>Pour utiliser %@, vous aurez besoin d’un compte Firefox avec des identifiants enregistrés.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
-      <trans-unit id="welcome.unlockButton">
+      <trans-unit id="welcome.unlockButton" xml:space="preserve">
         <source>Unlock</source>
         <target>Déverrouiller</target>
         <note>Text on button to unlock app</note>
@@ -587,15 +607,15 @@
   </file>
   <file original="lockbox-ios/Storyboard/Base.lproj/AccountSetting.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="6A6-i9-hvw.text">
+      <trans-unit id="6A6-i9-hvw.text" xml:space="preserve">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
         <target>Pour apporter des modifications à votre compte, connectez-vous à votre compte Firefox à partir de n’importe quel navigateur.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
-      <trans-unit id="f32-KR-4Nm.text">
+      <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
         <source>Firefox Account</source>
         <target>Compte Firefox</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
@@ -604,25 +624,25 @@
   </file>
   <file original="lockbox-ios/Storyboard/Base.lproj/AutofillOnboarding.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="GdN-75-tz4.normalTitle">
+      <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Not Now</source>
         <target>Plus tard</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
-      <trans-unit id="Krc-YI-yKW.text">
+      <trans-unit id="Krc-YI-yKW.text" xml:space="preserve">
         <source>AutoFill your logins right from your browser or app.</source>
         <target>Remplissez automatiquement vos identifiants directement depuis votre navigateur ou votre application.</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
-      <trans-unit id="xVH-GK-wIb.text">
+      <trans-unit id="xVH-GK-wIb.text" xml:space="preserve">
         <source>Easily fill usernames and passwords where you need them most.</source>
         <target>Renseignez facilement les noms d’utilisateur et mots de passe là où vous en avez le plus besoin.</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
-      <trans-unit id="yEI-pU-vMZ.normalTitle">
+      <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
         <source>Set Up AutoFill</source>
         <target>Configurer le remplissage automatique</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
@@ -631,62 +651,77 @@
   </file>
   <file original="lockbox-ios/Storyboard/Base.lproj/ItemDetail.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="HfY-Wo-gMH.accessibilityLabel">
+      <trans-unit id="HfY-Wo-gMH.accessibilityLabel" xml:space="preserve">
         <source>Copy value</source>
         <target>Copier la valeur</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
-      <trans-unit id="Mhp-Pp-rfw.accessibilityLabel">
+      <trans-unit id="Mhp-Pp-rfw.accessibilityLabel" xml:space="preserve">
         <source>Reveal password in plaintext</source>
         <target>Révéler le mot de passe en texte brut</target>
         <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
       </trans-unit>
-      <trans-unit id="Tbk-ki-qGK.accessibilityLabel">
+      <trans-unit id="Tbk-ki-qGK.accessibilityLabel" xml:space="preserve">
         <source>Open this web address in browser</source>
         <target>Ouvrir l’adresse web dans un navigateur</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
-      <trans-unit id="YaD-WB-pbb.normalTitle">
+      <trans-unit id="YaD-WB-pbb.normalTitle" xml:space="preserve">
         <source>Learn how to edit this entry</source>
         <target>Apprendre à modifier cet élément</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
-      <trans-unit id="t0H-71-xTp.text">
+      <trans-unit id="t0H-71-xTp.text" xml:space="preserve">
         <source>Label</source>
         <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "t0H-71-xTp"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
-      <trans-unit id="tuK-Xc-guT.text">
+      <trans-unit id="tuK-Xc-guT.text" xml:space="preserve">
         <source>Label</source>
         <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "tuK-Xc-guT"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
     </body>
   </file>
-  <file original="lockbox-ios/Storyboard/Base.lproj/OnboardingConfirmation.storyboard" source-language="en" target-language="fr" datatype="plaintext">
+  <file original="lockbox-ios/Storyboard/Base.lproj/NoNetwork.xib" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="GdN-75-tz4.normalTitle">
+      <trans-unit id="5P1-M2-UaK.normalTitle" xml:space="preserve">
+        <source>Retry</source>
+        <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "5P1-M2-UaK";</note>
+      </trans-unit>
+      <trans-unit id="Js7-wv-X33.text" xml:space="preserve">
+        <source>No Internet Connection</source>
+        <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "Js7-wv-X33";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/OnboardingConfirmation.storyboard" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Finish</source>
         <target>Terminer</target>
         <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
       </trans-unit>
-      <trans-unit id="afK-Kw-Hqs.text">
+      <trans-unit id="afK-Kw-Hqs.text" xml:space="preserve">
         <source>Access logins saved to Firefox for desktop from your device</source>
         <target>Accédez depuis votre appareil aux identifiants enregistrés dans Firefox pour ordinateur</target>
         <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
       </trans-unit>
-      <trans-unit id="o0t-1T-rrA.text">
+      <trans-unit id="o0t-1T-rrA.text" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
         <target>Synchronisez vos appareils avec un chiffrement sécurisé à 256 bits</target>
         <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
       </trans-unit>
-      <trans-unit id="sKa-b5-lgD.text">
+      <trans-unit id="sKa-b5-lgD.text" xml:space="preserve">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
         <target>Déverrouillez facilement l’application avec Touch ID ou Face ID</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
@@ -695,10 +730,10 @@
   </file>
   <file original="lockbox-ios/Storyboard/Base.lproj/SettingList.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="KPq-Rv-WTJ.normalTitle">
+      <trans-unit id="KPq-Rv-WTJ.normalTitle" xml:space="preserve">
         <source>Lock Now</source>
         <target>Verrouiller maintenant</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
@@ -707,50 +742,50 @@
   </file>
   <file original="lockbox-ios/Storyboard/Base.lproj/SetupAutofill.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="KnK-nY-NyH.normalTitle">
+      <trans-unit id="KnK-nY-NyH.normalTitle" xml:space="preserve">
         <source>Got it</source>
         <target>J’ai compris</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "KnK-nY-NyH"; Note = "The message on a confirmation button that the user understands or followed the instructions and will close out of these instructions";</note>
       </trans-unit>
-      <trans-unit id="YaL-kM-bTV.text">
+      <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
         <source>Tap into AutoFill Passwords</source>
         <target>Sélectionnez Préremplir mots de passe</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
-      <trans-unit id="Ycw-sN-cFL.text">
+      <trans-unit id="Ycw-sN-cFL.text" xml:space="preserve">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
         <target>Effectuez les étapes suivantes pour utiliser Lockwise comme source du remplissage automatique.</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
-      <trans-unit id="Ys5-RP-RQg.text">
+      <trans-unit id="Ys5-RP-RQg.text" xml:space="preserve">
         <source>Turn on AutoFill Passwords</source>
         <target>Activez Préremplir les mots de passe</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
-      <trans-unit id="daO-QU-3p5.text">
+      <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
         <source>Tap into Passwords &amp; Accounts</source>
         <target>Sélectionnez Mots de passe et comptes</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
-      <trans-unit id="dbo-05-zWe.text">
+      <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
         <source>How to Set up AutoFill</source>
         <target>Comment configurer le remplissage automatique</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
-      <trans-unit id="r0I-o4-2Ym.text">
+      <trans-unit id="r0I-o4-2Ym.text" xml:space="preserve">
         <source>Select Lockwise</source>
         <target>Sélectionnez Lockwise</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
       </trans-unit>
-      <trans-unit id="vcZ-pI-Mgz.text">
+      <trans-unit id="vcZ-pI-Mgz.text" xml:space="preserve">
         <source>Deselect iCloud Keychain</source>
         <target>Désélectionnez Trousseau iCloud</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
-      <trans-unit id="xig-s8-dim.text">
+      <trans-unit id="xig-s8-dim.text" xml:space="preserve">
         <source>Open the Settings app</source>
         <target>Ouvrez l’application Réglages</target>
         <note>Class = "UILabel"; text = "Open the Settings app"; ObjectID = "xig-s8-dim"; Note = "The instruction to open the system Settings app";</note>
@@ -759,30 +794,30 @@
   </file>
   <file original="lockbox-ios/Storyboard/Base.lproj/Welcome.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="8rH-vt-4bG.normalTitle">
+      <trans-unit id="8rH-vt-4bG.normalTitle" xml:space="preserve">
         <source>Unlock</source>
         <target>Déverrouiller</target>
         <note>Class = "UIButton"; normalTitle = "Unlock"; ObjectID = "8rH-vt-4bG"; Note = "This is the text on the unlock button when the app is opened and locked";</note>
       </trans-unit>
-      <trans-unit id="JTP-OD-6TF.normalTitle">
+      <trans-unit id="JTP-OD-6TF.normalTitle" xml:space="preserve">
         <source>Learn more</source>
         <target>En savoir plus</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
       </trans-unit>
-      <trans-unit id="cuz-yd-F4J.normalTitle">
+      <trans-unit id="cuz-yd-F4J.normalTitle" xml:space="preserve">
         <source>Get Started</source>
         <target>Lancez-vous</target>
         <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
       </trans-unit>
-      <trans-unit id="hwO-wS-oS4.text">
+      <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
         <source>Take your passwords everywhere</source>
         <target>Emportez vos mots de passe partout</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
       </trans-unit>
-      <trans-unit id="xyY-bk-Xw8.text">
+      <trans-unit id="xyY-bk-Xw8.text" xml:space="preserve">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
         <target>Pour utiliser Firefox Lockwise, vous aurez besoin d’un compte Firefox avec des identifiants enregistrés.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
@@ -791,45 +826,53 @@
   </file>
   <file original="Shared/Storyboard/Base.lproj/ItemList.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="3A5-nI-aV6.text">
+      <trans-unit id="3A5-nI-aV6.text" xml:space="preserve">
         <source>Label</source>
         <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
-      <trans-unit id="5gN-a0-N6V.normalTitle">
+      <trans-unit id="5gN-a0-N6V.normalTitle" xml:space="preserve">
         <source>Learn more</source>
         <target>En savoir plus</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
-      <trans-unit id="JpV-eG-grp.text">
+      <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
         <target>Pour voir plus d’identifiants ici, vous devrez les enregistrer dans Firefox.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
-      <trans-unit id="RpZ-Z7-u0I.text">
+      <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
         <source>Select a password to fill</source>
         <target>Sélectionnez un mot de passe à remplir</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
-      <trans-unit id="aQB-Vr-ObR.normalTitle">
+      <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
+        <source>Retry</source>
+        <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SWH-yo-sI7";</note>
+      </trans-unit>
+      <trans-unit id="V5S-CG-n11.text" xml:space="preserve">
+        <source>No Internet Connection</source>
+        <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "V5S-CG-n11"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
+      </trans-unit>
+      <trans-unit id="aQB-Vr-ObR.normalTitle" xml:space="preserve">
         <source>Learn more</source>
         <target>En savoir plus</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
-      <trans-unit id="gQr-4J-xpv.text">
+      <trans-unit id="gQr-4J-xpv.text" xml:space="preserve">
         <source>No logins found.</source>
         <target>Aucun identifiant trouvé.</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
-      <trans-unit id="n2T-XM-ua9.text">
+      <trans-unit id="n2T-XM-ua9.text" xml:space="preserve">
         <source>Label</source>
         <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "n2T-XM-ua9"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
-      <trans-unit id="qZc-w1-SRT.text">
+      <trans-unit id="qZc-w1-SRT.text" xml:space="preserve">
         <source>No matching logins.</source>
         <target>Aucun identifiant correspondant.</target>
         <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
@@ -838,10 +881,10 @@
   </file>
   <file original="Shared/Storyboard/Base.lproj/SpinnerAlert.xib" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
     </header>
     <body>
-      <trans-unit id="1Mj-QY-mDP.text">
+      <trans-unit id="1Mj-QY-mDP.text" xml:space="preserve">
         <source>Syncing your logins…</source>
         <target>Synchronisation de vos identifiants…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
