@@ -49,6 +49,7 @@
       </trans-unit>
       <trans-unit id="delete" xml:space="preserve">
         <source>Delete</source>
+        <target>Elimina</target>
         <note>Delete button title</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
@@ -214,6 +215,7 @@
       </trans-unit>
       <trans-unit id="delete" xml:space="preserve">
         <source>Delete</source>
+        <target>Elimina</target>
         <note>Delete button title</note>
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
@@ -222,10 +224,12 @@
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
         <source>Delete this login?</source>
+        <target>Eliminare queste credenziali?</target>
         <note>Title for confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.statusAlert" xml:space="preserve">
         <source>%@ deleted</source>
+        <target>%@ eliminato</target>
         <note>Text in the status alert after a login has been deleted. %@ is the hostname of the login</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
@@ -693,10 +697,12 @@
     <body>
       <trans-unit id="5P1-M2-UaK.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>Riprova</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "5P1-M2-UaK";</note>
       </trans-unit>
       <trans-unit id="Js7-wv-X33.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>Nessuna connessione a Internet</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "Js7-wv-X33";</note>
       </trans-unit>
     </body>
@@ -851,10 +857,12 @@
       </trans-unit>
       <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>Riprova</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SWH-yo-sI7";</note>
       </trans-unit>
       <trans-unit id="V5S-CG-n11.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>Nessuna connessione a Internet</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "V5S-CG-n11"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle" xml:space="preserve">
