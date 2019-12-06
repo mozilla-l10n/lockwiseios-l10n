@@ -1,0 +1,842 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="CredentialProvider/InfoPlist.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>CredentialProvider</source>
+        <target>CredentialProvider</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>CredentialProvider</source>
+        <target>CredentialProvider</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CredentialProvider/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="autofill.enabling" xml:space="preserve">
+        <source>Updating AutoFill…</source>
+        <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
+      </trans-unit>
+      <trans-unit id="autofill.finished_enabling" xml:space="preserve">
+        <source>Finished updating AutoFill</source>
+        <note>Accessibility notification when AutoFill is done being enabled</note>
+      </trans-unit>
+      <trans-unit id="autofill.signInRequired" xml:space="preserve">
+        <source>Sign in Required</source>
+        <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
+      </trans-unit>
+      <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
+        <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Zrušiť</target>
+        <note>Cancel button title</note>
+      </trans-unit>
+      <trans-unit id="delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Odstrániť</target>
+        <note>Delete button title</note>
+      </trans-unit>
+      <trans-unit id="firefoxLockbox" xml:space="preserve">
+        <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
+        <note>Product Name</note>
+      </trans-unit>
+      <trans-unit id="list.empty" xml:space="preserve">
+        <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="lockwise" xml:space="preserve">
+        <source>Lockwise</source>
+        <target>Lockwise</target>
+        <note>This is the name displayed instead of Firefox Lockwise in some places</note>
+      </trans-unit>
+      <trans-unit id="ok" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Ok button title</note>
+      </trans-unit>
+      <trans-unit id="search.placeholder" xml:space="preserve">
+        <source>Search logins</source>
+        <target>Hľadať</target>
+        <note>Placeholder text for search field</note>
+      </trans-unit>
+      <trans-unit id="signIn" xml:space="preserve">
+        <source>Sign In</source>
+        <target>Prihlásiť sa</target>
+        <note>Sign in button text</note>
+      </trans-unit>
+      <trans-unit id="sync.timeout" xml:space="preserve">
+        <source>Sync timed out</source>
+        <note>This is the message displayed when syncing entries from the server times out</note>
+      </trans-unit>
+      <trans-unit id="unlock_placeholder" xml:space="preserve">
+        <source>This will unlock the app.</source>
+        <target>Toto vám umožňuje odomknúť aplikáciu.</target>
+        <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
+      </trans-unit>
+      <trans-unit id="username_placeholder" xml:space="preserve">
+        <source>(no username)</source>
+        <target>(žiadne používateľské meno)</target>
+        <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CredentialProvider/Storyboard/Base.lproj/CredentialWelcome.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="ehm-2v-Rbb.accessibilityLabel" xml:space="preserve">
+        <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
+        <note>Class = "UIImageView"; accessibilityLabel = "Firefox Lockwise"; ObjectID = "ehm-2v-Rbb"; Note = "Text logo of the product name for screenreaders";</note>
+      </trans-unit>
+      <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
+        <source>Take your passwords everywhere</source>
+        <target>Vezmite si svoje heslá so sebou</target>
+        <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Common/Resources/Strings/InfoPlist.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Lockwise</source>
+        <target>Lockwise</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Firefox Lockbox</source>
+        <target>Firefox Lockbox</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
+        <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise použije na prihlásenie do aplikácie Face ID.</target>
+        <note>Privacy - Face ID Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Common/Resources/Strings/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="a_to_z" xml:space="preserve">
+        <source>A-Z</source>
+        <target>A-Z</target>
+        <note>Label for the button allowing users to sort the logins list alphabetically</note>
+      </trans-unit>
+      <trans-unit id="account" xml:space="preserve">
+        <source>Account</source>
+        <target>Účet</target>
+        <note>Title for settings page letting users manage their accounts</note>
+      </trans-unit>
+      <trans-unit id="alphabetically" xml:space="preserve">
+        <source>Alphabetically</source>
+        <target>Abecedne</target>
+        <note>Label for the option sheet action allowing users to sort the logins list alphabetically</note>
+      </trans-unit>
+      <trans-unit id="app_update_explanation" xml:space="preserve">
+        <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <note>Message in dialog box when users need to reauthenticate explaining application update</note>
+      </trans-unit>
+      <trans-unit id="autofill.enabling" xml:space="preserve">
+        <source>Updating AutoFill…</source>
+        <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
+      </trans-unit>
+      <trans-unit id="autofill.finished_enabling" xml:space="preserve">
+        <source>Finished updating AutoFill</source>
+        <note>Accessibility notification when AutoFill is done being enabled</note>
+      </trans-unit>
+      <trans-unit id="autofill.signInRequired" xml:space="preserve">
+        <source>Sign in Required</source>
+        <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
+      </trans-unit>
+      <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
+        <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="back" xml:space="preserve">
+        <source>Back</source>
+        <target>Späť</target>
+        <note>Back button title</note>
+      </trans-unit>
+      <trans-unit id="cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Zrušiť</target>
+        <note>Cancel button title</note>
+      </trans-unit>
+      <trans-unit id="close" xml:space="preserve">
+        <source>Close</source>
+        <target>Zavrieť</target>
+        <note>Close button title</note>
+      </trans-unit>
+      <trans-unit id="confirm_dialog_message" xml:space="preserve">
+        <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <note>Confirm dialog message</note>
+      </trans-unit>
+      <trans-unit id="confirm_dialog_title" xml:space="preserve">
+        <source>Disconnect %@?</source>
+        <target>Odpojiť %@?</target>
+        <note>Confirm dialog title. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="continue" xml:space="preserve">
+        <source>Continue</source>
+        <target>Pokračovať</target>
+        <note>Button title when agreeing to proceed to access the application.</note>
+      </trans-unit>
+      <trans-unit id="delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Odstrániť</target>
+        <note>Delete button title</note>
+      </trans-unit>
+      <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
+        <source>This will delete the entry from both %@ and Firefox.</source>
+        <note>Message in confirmation dialog when a login is deleted</note>
+      </trans-unit>
+      <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
+        <source>Delete this login?</source>
+        <target>Odstrániť tieto prihlasovacie údaje?</target>
+        <note>Title for confirmation dialog when a login is deleted</note>
+      </trans-unit>
+      <trans-unit id="delete.statusAlert" xml:space="preserve">
+        <source>%@ deleted</source>
+        <note>Text in the status alert after a login has been deleted. %@ is the hostname of the login</note>
+      </trans-unit>
+      <trans-unit id="done" xml:space="preserve">
+        <source>Done</source>
+        <target>Hotovo</target>
+        <note>Text on button to close settings</note>
+      </trans-unit>
+      <trans-unit id="done_syncing_entries" xml:space="preserve">
+        <source>Done Syncing your logins</source>
+        <note>Accessibility callout for finishing Syncing your logins</note>
+      </trans-unit>
+      <trans-unit id="fieldNameCopied" xml:space="preserve">
+        <source>%@ copied</source>
+        <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
+      </trans-unit>
+      <trans-unit id="firefoxLockbox" xml:space="preserve">
+        <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
+        <note>Product Name</note>
+      </trans-unit>
+      <trans-unit id="get.started" xml:space="preserve">
+        <source>Get Started</source>
+        <target>Začíname</target>
+        <note>Title for the FxA login screen.</note>
+      </trans-unit>
+      <trans-unit id="install_browser_prompt" xml:space="preserve">
+        <source>%@ disabled, install this browser to make it available</source>
+        <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
+      </trans-unit>
+      <trans-unit id="list.empty" xml:space="preserve">
+        <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="lockwise" xml:space="preserve">
+        <source>Lockwise</source>
+        <target>Lockwise</target>
+        <note>This is the name displayed instead of Firefox Lockwise in some places</note>
+      </trans-unit>
+      <trans-unit id="no_username" xml:space="preserve">
+        <source>(no username)</source>
+        <target>(žiadne používateľské meno)</target>
+        <note>placeholder text when there is no username</note>
+      </trans-unit>
+      <trans-unit id="not_using_passcode" xml:space="preserve">
+        <source>You’re not using a passcode.</source>
+        <target>Nepoužívate kód.</target>
+        <note>Title for dialog box with passcode setting information</note>
+      </trans-unit>
+      <trans-unit id="notes" xml:space="preserve">
+        <source>Notes</source>
+        <target>Poznámky</target>
+        <note>Section title for the notes field on the item detail screen</note>
+      </trans-unit>
+      <trans-unit id="ok" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Ok button title</note>
+      </trans-unit>
+      <trans-unit id="onboarding.encryption" xml:space="preserve">
+        <source>256-bit encryption</source>
+        <target>256-bitové šifrovanie</target>
+        <note>Name of link to algorithm used by application for encryption</note>
+      </trans-unit>
+      <trans-unit id="onboarding.title" xml:space="preserve">
+        <source>Welcome to %@</source>
+        <target>Víta vás %@</target>
+        <note>Title on onboarding screen. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="passcode_detail_information" xml:space="preserve">
+        <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="passcode_info" xml:space="preserve">
+        <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <note>Informative text about the security need for a passcode</note>
+      </trans-unit>
+      <trans-unit id="password" xml:space="preserve">
+        <source>Password</source>
+        <target>Heslo</target>
+        <note>Section title text for the password on the item detail screen</note>
+      </trans-unit>
+      <trans-unit id="password_accessibility_instructions" xml:space="preserve">
+        <source>Password: double tap to copy %@</source>
+        <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
+      </trans-unit>
+      <trans-unit id="reauth_required" xml:space="preserve">
+        <source>Reauthentication Required</source>
+        <target>Vyžaduje sa opätovné overenie</target>
+        <note>Title of dialog box displayed when users need to reauthenticate</note>
+      </trans-unit>
+      <trans-unit id="recent" xml:space="preserve">
+        <source>Recent</source>
+        <note>Button title when logins list is sorted by most recently used login</note>
+      </trans-unit>
+      <trans-unit id="recently_used" xml:space="preserve">
+        <source>Recently Used</source>
+        <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
+      </trans-unit>
+      <trans-unit id="search.placeholder" xml:space="preserve">
+        <source>Search logins</source>
+        <target>Hľadať</target>
+        <note>Placeholder text for search field</note>
+      </trans-unit>
+      <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
+        <source>Sync between devices with secure 256-bit encryption</source>
+        <note>Text shown on security screen during onboarding.</note>
+      </trans-unit>
+      <trans-unit id="set_passcode" xml:space="preserve">
+        <source>Set Passcode</source>
+        <target>Nastavenie kódu</target>
+        <note>Label for button allowing users to go to passcode settings</note>
+      </trans-unit>
+      <trans-unit id="settings.account" xml:space="preserve">
+        <source>Account</source>
+        <target>Účet</target>
+        <note>Account option in settings</note>
+      </trans-unit>
+      <trans-unit id="settings.appVersion" xml:space="preserve">
+        <source>App Version</source>
+        <target>Verzia aplikácie</target>
+        <note>App Version setting label</note>
+      </trans-unit>
+      <trans-unit id="settings.autoFillSettings" xml:space="preserve">
+        <source>AutoFill Instructions</source>
+        <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock" xml:space="preserve">
+        <source>Auto Lock</source>
+        <target>Automatické uzamknutie</target>
+        <note>Auto Lock option in settings</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
+        <source>15 minutes</source>
+        <target>Po 15 minútach</target>
+        <note>15 minutes auto lock setting</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.fiveMinutes" xml:space="preserve">
+        <source>5 minutes</source>
+        <target>Po 5 minútach</target>
+        <note>5 minutes auto lock setting</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.header" xml:space="preserve">
+        <source>Select when to lock after a period of inactivity</source>
+        <note>Header displayed above auto lock settings.</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.never" xml:space="preserve">
+        <source>Never</source>
+        <target>Nikdy</target>
+        <note>Never</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.oneHour" xml:space="preserve">
+        <source>1 hour</source>
+        <target>Po 1 hodine</target>
+        <note>1 hour auto lock setting</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.oneMinute" xml:space="preserve">
+        <source>1 minute</source>
+        <target>Po 1 minúte</target>
+        <note>1 minute auto lock setting</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.thirtyMinutes" xml:space="preserve">
+        <source>30 minutes</source>
+        <target>Po 30 minútach</target>
+        <note>30 minutes auto lock setting</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.twelveHour" xml:space="preserve">
+        <source>12 hours</source>
+        <target>Po 12 hodinách</target>
+        <note>12 hours auto lock setting</note>
+      </trans-unit>
+      <trans-unit id="settings.autoLock.twentyFourHour" xml:space="preserve">
+        <source>24 hours</source>
+        <target>Po 24 hodinách</target>
+        <note>24 hours auto lock setting</note>
+      </trans-unit>
+      <trans-unit id="settings.browser" xml:space="preserve">
+        <source>Preferred Browser</source>
+        <target>Obľúbený prehliadač</target>
+        <note>Preferred Browser option in settings</note>
+      </trans-unit>
+      <trans-unit id="settings.browser.chrome" xml:space="preserve">
+        <source>Google Chrome</source>
+        <target>Google Chrome</target>
+        <note>Chrome Browser</note>
+      </trans-unit>
+      <trans-unit id="settings.browser.firefox" xml:space="preserve">
+        <source>Firefox</source>
+        <target>Firefox</target>
+        <note>Firefox Browser</note>
+      </trans-unit>
+      <trans-unit id="settings.browser.focus" xml:space="preserve">
+        <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
+        <note>Focus Browser</note>
+      </trans-unit>
+      <trans-unit id="settings.browser.header" xml:space="preserve">
+        <source>Select which browser use with Lockwise</source>
+        <note>Header displayed above browser choice settings.</note>
+      </trans-unit>
+      <trans-unit id="settings.browser.klar" xml:space="preserve">
+        <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
+        <note>Klar Browser</note>
+      </trans-unit>
+      <trans-unit id="settings.browser.safari" xml:space="preserve">
+        <source>Safari</source>
+        <target>Safari</target>
+        <note>Safari Browser</note>
+      </trans-unit>
+      <trans-unit id="settings.configuration.header" xml:space="preserve">
+        <source>CONFIGURATION</source>
+        <note>Configuration label in settings</note>
+      </trans-unit>
+      <trans-unit id="settings.faq" xml:space="preserve">
+        <source>FAQ</source>
+        <target>Často kladené otázky</target>
+        <note>FAQ option in settings</note>
+      </trans-unit>
+      <trans-unit id="settings.getSupport" xml:space="preserve">
+        <source>Ask a Question</source>
+        <target>Položiť otázku</target>
+        <note>Support link to Discourse discussion forum</note>
+      </trans-unit>
+      <trans-unit id="settings.learnMore" xml:space="preserve">
+        <source>Learn More</source>
+        <target>Ďalšie informácie</target>
+        <note>Label for link to learn more</note>
+      </trans-unit>
+      <trans-unit id="settings.provideFeedback" xml:space="preserve">
+        <source>Send Feedback</source>
+        <target>Odoslať spätnú väzbu</target>
+        <note>Send feedback option in settings</note>
+      </trans-unit>
+      <trans-unit id="settings.support.header" xml:space="preserve">
+        <source>SUPPORT</source>
+        <target>PODPORA</target>
+        <note>Support section label in settings</note>
+      </trans-unit>
+      <trans-unit id="settings.title" xml:space="preserve">
+        <source>Settings</source>
+        <target>Nastavenia</target>
+        <note>Title on settings screen</note>
+      </trans-unit>
+      <trans-unit id="settings.unlinkAccount" xml:space="preserve">
+        <source>Disconnect %@</source>
+        <target>Odpojiť %@</target>
+        <note>Text on button to unlink account. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
+        <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="settings.usageData" xml:space="preserve">
+        <source>Send Usage Data</source>
+        <target>Odosielať údaje o používaní</target>
+        <note>Setting to send usage data</note>
+      </trans-unit>
+      <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
+        <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla sa usiluje zbierať len údaje, ktoré potrebujeme na vylepšenie aplikácie %@ pre všetkých. </target>
+        <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="settings_button" xml:space="preserve">
+        <source>Settings</source>
+        <target>Nastavenia</target>
+        <note>Accessibility identifier for the settings button</note>
+      </trans-unit>
+      <trans-unit id="signIn" xml:space="preserve">
+        <source>Sign In</source>
+        <target>Prihlásiť sa</target>
+        <note>Sign in button text</note>
+      </trans-unit>
+      <trans-unit id="skip" xml:space="preserve">
+        <source>Skip</source>
+        <target>Preskočiť</target>
+        <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
+      </trans-unit>
+      <trans-unit id="sort_entries" xml:space="preserve">
+        <source>Sort Logins</source>
+        <target>Usporiadať prihlasovacie údaje</target>
+        <note>Title for the option sheet allowing users to sort logins</note>
+      </trans-unit>
+      <trans-unit id="sorting_options" xml:space="preserve">
+        <source>Select options for sorting your list of logins (currently %@)</source>
+        <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
+      </trans-unit>
+      <trans-unit id="sync.timeout" xml:space="preserve">
+        <source>Sync timed out</source>
+        <note>This is the message displayed when syncing entries from the server times out</note>
+      </trans-unit>
+      <trans-unit id="syncing_entries" xml:space="preserve">
+        <source>Syncing your logins</source>
+        <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
+      </trans-unit>
+      <trans-unit id="unlink" xml:space="preserve">
+        <source>Disconnect</source>
+        <target>Odpojiť</target>
+        <note>Unlink aka Disconnect button title</note>
+      </trans-unit>
+      <trans-unit id="unlock_placeholder" xml:space="preserve">
+        <source>This will unlock the app.</source>
+        <target>Toto odomkne aplikáciu.</target>
+        <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
+      </trans-unit>
+      <trans-unit id="unlock_with_faceid" xml:space="preserve">
+        <source>Unlock with Face ID</source>
+        <target>Odomknúť pomocou Face ID</target>
+        <note>Label for the button to unlock the device using Face ID</note>
+      </trans-unit>
+      <trans-unit id="unlock_with_pin" xml:space="preserve">
+        <source>Unlock with Passcode</source>
+        <target>Odomknúť pomocou kódu</target>
+        <note>Label for the button to unlock the device using a device passcode</note>
+      </trans-unit>
+      <trans-unit id="unlock_with_touchid" xml:space="preserve">
+        <source>Unlock with Touch ID</source>
+        <target>Odomknúť pomocou Touch ID</target>
+        <note>Label for the button to unlock the device using Touch ID</note>
+      </trans-unit>
+      <trans-unit id="unnamed_entry" xml:space="preserve">
+        <source>unnamed entry</source>
+        <target>nepomenovaný záznam</target>
+        <note>Placeholder text for when there is no login name</note>
+      </trans-unit>
+      <trans-unit id="username" xml:space="preserve">
+        <source>Username</source>
+        <target>Používateľské meno</target>
+        <note>Section title text for username on the item detail screen</note>
+      </trans-unit>
+      <trans-unit id="username_accessibility_instructions" xml:space="preserve">
+        <source>Username: double tap to copy %@</source>
+        <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
+      </trans-unit>
+      <trans-unit id="username_placeholder" xml:space="preserve">
+        <source>(no username)</source>
+        <target>(žiadne používateľské meno)</target>
+        <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
+      </trans-unit>
+      <trans-unit id="web_address" xml:space="preserve">
+        <source>Web Address</source>
+        <target>Webová adresa</target>
+        <note>Section title text for the web address on the item detail screen</note>
+      </trans-unit>
+      <trans-unit id="website_accessibility_instructions" xml:space="preserve">
+        <source>Web address: double tap to open in browser %@</source>
+        <note>Accessibility label and instructions for web address section of login details</note>
+      </trans-unit>
+      <trans-unit id="welcome.accessProduct" xml:space="preserve">
+        <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
+      </trans-unit>
+      <trans-unit id="welcome.unlockButton" xml:space="preserve">
+        <source>Unlock</source>
+        <target>Odomknúť</target>
+        <note>Text on button to unlock app</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/AccountSetting.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="6A6-i9-hvw.text" xml:space="preserve">
+        <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
+      </trans-unit>
+      <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
+        <source>Firefox Account</source>
+        <target>Účet Firefox</target>
+        <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/AutofillOnboarding.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
+        <source>Not Now</source>
+        <target>Teraz nie</target>
+        <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
+      </trans-unit>
+      <trans-unit id="Krc-YI-yKW.text" xml:space="preserve">
+        <source>AutoFill your logins right from your browser or app.</source>
+        <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
+      </trans-unit>
+      <trans-unit id="xVH-GK-wIb.text" xml:space="preserve">
+        <source>Easily fill usernames and passwords where you need them most.</source>
+        <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
+      </trans-unit>
+      <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
+        <source>Set Up AutoFill</source>
+        <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/ItemDetail.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="HfY-Wo-gMH.accessibilityLabel" xml:space="preserve">
+        <source>Copy value</source>
+        <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
+      </trans-unit>
+      <trans-unit id="Mhp-Pp-rfw.accessibilityLabel" xml:space="preserve">
+        <source>Reveal password in plaintext</source>
+        <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
+      </trans-unit>
+      <trans-unit id="Tbk-ki-qGK.accessibilityLabel" xml:space="preserve">
+        <source>Open this web address in browser</source>
+        <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
+      </trans-unit>
+      <trans-unit id="YaD-WB-pbb.normalTitle" xml:space="preserve">
+        <source>Learn how to edit this entry</source>
+        <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
+      </trans-unit>
+      <trans-unit id="t0H-71-xTp.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Popis</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "t0H-71-xTp"; Note = "This is a placeholder string for development purposes only";</note>
+      </trans-unit>
+      <trans-unit id="tuK-Xc-guT.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Popis</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "tuK-Xc-guT"; Note = "This is a placeholder string for development purposes only";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/NoNetwork.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="5P1-M2-UaK.normalTitle" xml:space="preserve">
+        <source>Retry</source>
+        <target>Znova</target>
+        <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "5P1-M2-UaK";</note>
+      </trans-unit>
+      <trans-unit id="Js7-wv-X33.text" xml:space="preserve">
+        <source>No Internet Connection</source>
+        <target>Žiadne internetové pripojenie</target>
+        <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "Js7-wv-X33";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/OnboardingConfirmation.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
+        <source>Finish</source>
+        <target>Dokončiť</target>
+        <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
+      </trans-unit>
+      <trans-unit id="afK-Kw-Hqs.text" xml:space="preserve">
+        <source>Access logins saved to Firefox for desktop from your device</source>
+        <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
+      </trans-unit>
+      <trans-unit id="o0t-1T-rrA.text" xml:space="preserve">
+        <source>Sync between devices with secure 256-bit encryption</source>
+        <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
+      </trans-unit>
+      <trans-unit id="sKa-b5-lgD.text" xml:space="preserve">
+        <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/SettingList.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="KPq-Rv-WTJ.normalTitle" xml:space="preserve">
+        <source>Lock Now</source>
+        <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/SetupAutofill.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="KnK-nY-NyH.normalTitle" xml:space="preserve">
+        <source>Got it</source>
+        <target>Rozumiem</target>
+        <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "KnK-nY-NyH"; Note = "The message on a confirmation button that the user understands or followed the instructions and will close out of these instructions";</note>
+      </trans-unit>
+      <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
+        <source>Tap into AutoFill Passwords</source>
+        <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
+      </trans-unit>
+      <trans-unit id="Ycw-sN-cFL.text" xml:space="preserve">
+        <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
+      </trans-unit>
+      <trans-unit id="Ys5-RP-RQg.text" xml:space="preserve">
+        <source>Turn on AutoFill Passwords</source>
+        <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
+      </trans-unit>
+      <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
+        <source>Tap into Passwords &amp; Accounts</source>
+        <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
+      </trans-unit>
+      <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
+        <source>How to Set up AutoFill</source>
+        <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
+      </trans-unit>
+      <trans-unit id="r0I-o4-2Ym.text" xml:space="preserve">
+        <source>Select Lockwise</source>
+        <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
+      </trans-unit>
+      <trans-unit id="vcZ-pI-Mgz.text" xml:space="preserve">
+        <source>Deselect iCloud Keychain</source>
+        <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
+      </trans-unit>
+      <trans-unit id="xig-s8-dim.text" xml:space="preserve">
+        <source>Open the Settings app</source>
+        <note>Class = "UILabel"; text = "Open the Settings app"; ObjectID = "xig-s8-dim"; Note = "The instruction to open the system Settings app";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lockbox-ios/Storyboard/Base.lproj/Welcome.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="8rH-vt-4bG.normalTitle" xml:space="preserve">
+        <source>Unlock</source>
+        <target>Odomknúť</target>
+        <note>Class = "UIButton"; normalTitle = "Unlock"; ObjectID = "8rH-vt-4bG"; Note = "This is the text on the unlock button when the app is opened and locked";</note>
+      </trans-unit>
+      <trans-unit id="JTP-OD-6TF.normalTitle" xml:space="preserve">
+        <source>Learn more</source>
+        <target>Ďalšie informácie</target>
+        <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
+      </trans-unit>
+      <trans-unit id="cuz-yd-F4J.normalTitle" xml:space="preserve">
+        <source>Get Started</source>
+        <target>Začíname</target>
+        <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
+      </trans-unit>
+      <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
+        <source>Take your passwords everywhere</source>
+        <target>Vezmite si svoje heslá so sebou</target>
+        <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
+      </trans-unit>
+      <trans-unit id="xyY-bk-Xw8.text" xml:space="preserve">
+        <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Shared/Storyboard/Base.lproj/ItemList.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="3A5-nI-aV6.text" xml:space="preserve">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
+      </trans-unit>
+      <trans-unit id="5gN-a0-N6V.normalTitle" xml:space="preserve">
+        <source>Learn more</source>
+        <target>Ďalšie informácie</target>
+        <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
+      </trans-unit>
+      <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
+        <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
+      </trans-unit>
+      <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
+        <source>Select a password to fill</source>
+        <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
+      </trans-unit>
+      <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
+        <source>Retry</source>
+        <target>Znova</target>
+        <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SWH-yo-sI7";</note>
+      </trans-unit>
+      <trans-unit id="V5S-CG-n11.text" xml:space="preserve">
+        <source>No Internet Connection</source>
+        <target>Žiadne internetové pripojenie</target>
+        <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "V5S-CG-n11"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
+      </trans-unit>
+      <trans-unit id="aQB-Vr-ObR.normalTitle" xml:space="preserve">
+        <source>Learn more</source>
+        <target>Ďalšie informácie</target>
+        <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
+      </trans-unit>
+      <trans-unit id="gQr-4J-xpv.text" xml:space="preserve">
+        <source>No logins found.</source>
+        <target>Nenašli sa žiadne prihlasovacie údaje.</target>
+        <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
+      </trans-unit>
+      <trans-unit id="n2T-XM-ua9.text" xml:space="preserve">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "n2T-XM-ua9"; Note = "This is a placeholder string for development purposes only";</note>
+      </trans-unit>
+      <trans-unit id="qZc-w1-SRT.text" xml:space="preserve">
+        <source>No matching logins.</source>
+        <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Shared/Storyboard/Base.lproj/SpinnerAlert.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B53"/>
+    </header>
+    <body>
+      <trans-unit id="1Mj-QY-mDP.text" xml:space="preserve">
+        <source>Syncing your logins…</source>
+        <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
