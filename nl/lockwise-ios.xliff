@@ -265,7 +265,7 @@
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
-        <target>%@ geeft u toegang tot wachtwoorden die u al in Firefox hebt opgeslagen. Om uw aanmeldegevens hier te bekijken, moet u zich aanmelden en synchroniseren met Firefox.</target>
+        <target>%@ geeft u toegang tot wachtwoorden die u al in Firefox hebt opgeslagen. Om uw aanmeldgegevens hier te bekijken, moet u zich aanmelden en synchroniseren met Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
