@@ -24,10 +24,12 @@
     <body>
       <trans-unit id="autofill.enabling" xml:space="preserve">
         <source>Updating AutoFill…</source>
+        <target>Automatisch invullen aan het bijwerken…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
+        <target>Het bijwerken van Automatisch invullen is voltooid</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
@@ -37,6 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>U moet bij %@ zijn aangemeld voordat Automatisch invullen toegang geeft tot de wachtwoorden daarin.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
@@ -81,6 +84,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Time-out tijdens synchronisatie</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
@@ -156,14 +160,17 @@
       </trans-unit>
       <trans-unit id="app_update_explanation" xml:space="preserve">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>Vanwege een recente update van de app, moeten we u opnieuw aanmelden. Excuses voor het ongemak.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling" xml:space="preserve">
         <source>Updating AutoFill…</source>
+        <target>Automatisch invullen wordt bijgewerkt…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
+        <target>Het bijwerken van Automatisch invullen is voltooid</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
@@ -173,6 +180,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>U moet bij %@ zijn aangemeld voordat Automatisch invullen toegang geeft tot de wachtwoorden daarin.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back" xml:space="preserve">
@@ -212,6 +220,7 @@
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
         <source>This will delete the entry from both %@ and Firefox.</source>
+        <target>Hiermee wordt de vermelding uit zowel %@ als Firefox verwijderd.</target>
         <note>Message in confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
@@ -341,6 +350,7 @@
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
         <source>Set Passcode</source>
+        <target>Toegangscode instellen</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account" xml:space="preserve">
@@ -375,6 +385,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Kies wanneer u, na een periode van inactiviteit, wilt vergrendelen</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
@@ -414,150 +425,187 @@
       </trans-unit>
       <trans-unit id="settings.browser.chrome" xml:space="preserve">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox" xml:space="preserve">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus" xml:space="preserve">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header" xml:space="preserve">
         <source>Select which browser use with Lockwise</source>
+        <target>Selecteer welke browser Lockwise gebruikt</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar" xml:space="preserve">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header" xml:space="preserve">
         <source>CONFIGURATION</source>
+        <target>CONFIGURATIE</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq" xml:space="preserve">
         <source>FAQ</source>
+        <target>FAQ</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport" xml:space="preserve">
         <source>Ask a Question</source>
+        <target>Een vraag stellen</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>Meer info</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback" xml:space="preserve">
         <source>Send Feedback</source>
+        <target>Feedback verzenden</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header" xml:space="preserve">
         <source>SUPPORT</source>
+        <target>ONDERSTEUNING</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
+        <target>Instellingen</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount" xml:space="preserve">
         <source>Disconnect %@</source>
+        <target>Verbinding met %@ verbreken</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Hiermee worden gesynchroniseerde aanmeldingen uit %@ verwijderd, maar worden uw aanmeldingen niet uit Firefox verwijderd.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData" xml:space="preserve">
         <source>Send Usage Data</source>
+        <target>Gebruiksgegevens verzenden</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla streeft ernaar alleen te verzamelen wat nodig is om %@ voor iedereen aan te bieden en te verbeteren. </target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button" xml:space="preserve">
         <source>Settings</source>
+        <target>Instellingen</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
+        <target>Aanmelden</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip" xml:space="preserve">
         <source>Skip</source>
+        <target>Overslaan</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries" xml:space="preserve">
         <source>Sort Logins</source>
+        <target>Aanmeldingen sorteren</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Selecteer opties voor het sorteren van uw lijst met aanmeldingen (momenteel %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Time-out tijdens synchronisatie</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries" xml:space="preserve">
         <source>Syncing your logins</source>
+        <target>Synchronisatie aanmeldgegevens</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink" xml:space="preserve">
         <source>Disconnect</source>
+        <target>Verbreken</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
+        <target>Hiermee wordt de app ontgrendeld.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid" xml:space="preserve">
         <source>Unlock with Face ID</source>
+        <target>Ontgrendel met Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin" xml:space="preserve">
         <source>Unlock with Passcode</source>
+        <target>Ontgrendel met toegangscode</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid" xml:space="preserve">
         <source>Unlock with Touch ID</source>
+        <target>Ontgrendel met Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry" xml:space="preserve">
         <source>unnamed entry</source>
+        <target>niet benoemde invoer</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username" xml:space="preserve">
         <source>Username</source>
+        <target>Gebruikersnaam</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions" xml:space="preserve">
         <source>Username: double tap to copy %@</source>
+        <target>Gebruikersnaam: dubbeltik om %@ te kopiëren</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder" xml:space="preserve">
         <source>(no username)</source>
+        <target>(geen gebruikersnaam)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
       <trans-unit id="web_address" xml:space="preserve">
         <source>Web Address</source>
+        <target>Internetadres</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions" xml:space="preserve">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Internetadres: dubbeltik om te openen in browser %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct" xml:space="preserve">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>Als u %@ wilt gebruiken, hebt u een Firefox-account met opgeslagen aanmeldingen nodig.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton" xml:space="preserve">
         <source>Unlock</source>
+        <target>Ontgrendelen</target>
         <note>Text on button to unlock app</note>
       </trans-unit>
     </body>
@@ -573,6 +621,7 @@
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
         <source>Firefox Account</source>
+        <target>Firefox Account</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -584,6 +633,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Not Now</source>
+        <target>Niet nu</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text" xml:space="preserve">
@@ -596,6 +646,7 @@
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
         <source>Set Up AutoFill</source>
+        <target>Automatisch aanvullen instellen</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -607,26 +658,32 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel" xml:space="preserve">
         <source>Copy value</source>
+        <target>Waarde kopiëren</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel" xml:space="preserve">
         <source>Reveal password in plaintext</source>
+        <target>Wachtwoord in platte tekst tonen</target>
         <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel" xml:space="preserve">
         <source>Open this web address in browser</source>
+        <target>Dit internetadres in de browser openen</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle" xml:space="preserve">
         <source>Learn how to edit this entry</source>
+        <target>Zo kunt u deze invoer bewerken</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text" xml:space="preserve">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "t0H-71-xTp"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="tuK-Xc-guT.text" xml:space="preserve">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "tuK-Xc-guT"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
     </body>
@@ -638,10 +695,12 @@
     <body>
       <trans-unit id="5P1-M2-UaK.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>Opnieuw proberen</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "5P1-M2-UaK";</note>
       </trans-unit>
       <trans-unit id="Js7-wv-X33.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>Geen internetverbinding</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "Js7-wv-X33";</note>
       </trans-unit>
     </body>
@@ -653,6 +712,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Finish</source>
+        <target>Voltooien</target>
         <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text" xml:space="preserve">
@@ -676,6 +736,7 @@
     <body>
       <trans-unit id="KPq-Rv-WTJ.normalTitle" xml:space="preserve">
         <source>Lock Now</source>
+        <target>Nu vergrendelen</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
       </trans-unit>
     </body>
@@ -687,6 +748,7 @@
     <body>
       <trans-unit id="KnK-nY-NyH.normalTitle" xml:space="preserve">
         <source>Got it</source>
+        <target>Begrepen</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "KnK-nY-NyH"; Note = "The message on a confirmation button that the user understands or followed the instructions and will close out of these instructions";</note>
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
@@ -711,6 +773,7 @@
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text" xml:space="preserve">
         <source>Select Lockwise</source>
+        <target>Selecteer Lockwise</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text" xml:space="preserve">
@@ -730,22 +793,27 @@
     <body>
       <trans-unit id="8rH-vt-4bG.normalTitle" xml:space="preserve">
         <source>Unlock</source>
+        <target>Ontgrendelen</target>
         <note>Class = "UIButton"; normalTitle = "Unlock"; ObjectID = "8rH-vt-4bG"; Note = "This is the text on the unlock button when the app is opened and locked";</note>
       </trans-unit>
       <trans-unit id="JTP-OD-6TF.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>Meer info</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
       </trans-unit>
       <trans-unit id="cuz-yd-F4J.normalTitle" xml:space="preserve">
         <source>Get Started</source>
+        <target>Beginnen</target>
         <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
         <source>Take your passwords everywhere</source>
+        <target>Neem uw wachtwoorden overal mee naartoe</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text" xml:space="preserve">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>Als u Firefox Lockwise wilt gebruiken, hebt u een Firefox-account met opgeslagen aanmeldingen nodig.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -757,42 +825,52 @@
     <body>
       <trans-unit id="3A5-nI-aV6.text" xml:space="preserve">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>Meer info</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>Om hier meer aanmeldingen te zien, moet u ze opslaan in Firefox.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
         <source>Select a password to fill</source>
+        <target>Selecteer een wachtwoord om in te vullen</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>Opnieuw proberen</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SWH-yo-sI7";</note>
       </trans-unit>
       <trans-unit id="V5S-CG-n11.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>Geen internetverbinding</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "V5S-CG-n11"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>Meer info</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text" xml:space="preserve">
         <source>No logins found.</source>
+        <target>Geen aanmeldingen gevonden.</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
       <trans-unit id="n2T-XM-ua9.text" xml:space="preserve">
         <source>Label</source>
+        <target>Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "n2T-XM-ua9"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="qZc-w1-SRT.text" xml:space="preserve">
         <source>No matching logins.</source>
+        <target>Geen overeenkomende aanmeldingen.</target>
         <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
       </trans-unit>
     </body>
@@ -804,6 +882,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text" xml:space="preserve">
         <source>Syncing your logins…</source>
+        <target>Synchronisatie aanmeldgegevens…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
