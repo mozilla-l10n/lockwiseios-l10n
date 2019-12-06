@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>CredentialProvider</source>
+        <target>AanmeldProvider</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>CredentialProvider</source>
+        <target>AanmeldProvider</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
@@ -30,6 +32,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Aanmelden vereist</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
@@ -38,10 +41,12 @@
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>Annuleren</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="delete" xml:space="preserve">
         <source>Delete</source>
+        <target>Verwijderen</target>
         <note>Delete button title</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
@@ -51,6 +56,7 @@
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ geeft u toegang tot wachtwoorden die u al in Firefox hebt opgeslagen. Om uw aanmeldgegevens hier te bekijken, moet u zich aanmelden en synchroniseren met Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -65,6 +71,7 @@
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>Aanmeldingen zoeken</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
@@ -161,6 +168,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Aanmelden vereist</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
@@ -174,26 +182,32 @@
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>Annuleren</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="close" xml:space="preserve">
         <source>Close</source>
+        <target>Sluiten</target>
         <note>Close button title</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Hiermee worden uw Firefox-accountgegevens en alle opgeslagen aanmeldgegevens van %@ verwijderd.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title" xml:space="preserve">
         <source>Disconnect %@?</source>
+        <target>Verbinding met %@ verbreken?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue" xml:space="preserve">
         <source>Continue</source>
+        <target>Doorgaan</target>
         <note>Button title when agreeing to proceed to access the application.</note>
       </trans-unit>
       <trans-unit id="delete" xml:space="preserve">
         <source>Delete</source>
+        <target>Verwijderen</target>
         <note>Delete button title</note>
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
@@ -202,6 +216,7 @@
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
         <source>Delete this login?</source>
+        <target>Deze aanmeldgegevens verwijderen?</target>
         <note>Title for confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.statusAlert" xml:space="preserve">
@@ -216,6 +231,7 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries" xml:space="preserve">
         <source>Done Syncing your logins</source>
+        <target>De synchronisatie van uw aanmeldgegevens is voltooid</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied" xml:space="preserve">
@@ -235,10 +251,12 @@
       </trans-unit>
       <trans-unit id="install_browser_prompt" xml:space="preserve">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ is uitgeschakeld, installeer deze browser om het beschikbaar te maken</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ geeft u toegang tot wachtwoorden die u al in Firefox hebt opgeslagen. Om uw aanmeldegevens hier te bekijken, moet u zich aanmelden en synchroniseren met Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -268,6 +286,7 @@
       </trans-unit>
       <trans-unit id="onboarding.encryption" xml:space="preserve">
         <source>256-bit encryption</source>
+        <target>256-bits codering</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title" xml:space="preserve">
@@ -277,10 +296,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Om %@ te vergrendelen, moet een toegangscode op uw apparaat zijn ingesteld. Zonder een toegangscode heeft iedereen die uw apparaat heeft, toegang tot de hierop opgeslagen informatie.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>U zou een toegangscode moeten gebruiken om uw apparaat te vergrendelen. Zonder een toegangscode heeft iedereen die uw apparaat heeft, toegang tot de hier opgeslagen informatie.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
@@ -295,6 +316,7 @@
       </trans-unit>
       <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
+        <target>Opnieuw aanmelden vereist</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
@@ -309,10 +331,12 @@
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>Aanmeldingen zoeken</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synchroniseer tussen apparaten met een veilige 256-bits codering</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
@@ -321,26 +345,32 @@
       </trans-unit>
       <trans-unit id="settings.account" xml:space="preserve">
         <source>Account</source>
+        <target>Account</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
+        <target>App-versie</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
         <source>AutoFill Instructions</source>
+        <target>Instructies voor automatisch invullen</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
+        <target>Automatische vergrendeling</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
         <source>15 minutes</source>
+        <target>15 minuten</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes" xml:space="preserve">
         <source>5 minutes</source>
+        <target>5 minuten</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
@@ -349,30 +379,37 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
         <source>Never</source>
+        <target>Nooit</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour" xml:space="preserve">
         <source>1 hour</source>
+        <target>1 uur</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute" xml:space="preserve">
         <source>1 minute</source>
+        <target>1 minuut</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes" xml:space="preserve">
         <source>30 minutes</source>
+        <target>30 minuten</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour" xml:space="preserve">
         <source>12 hours</source>
+        <target>12 uur</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour" xml:space="preserve">
         <source>24 hours</source>
+        <target>24 uur</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser" xml:space="preserve">
         <source>Preferred Browser</source>
+        <target>Voorkeursbrowser</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome" xml:space="preserve">
