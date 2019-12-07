@@ -200,86 +200,107 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>St’azzione squasserà da %@ l'infurmazioni di u vostru contu Firefox è tutte l’identificazioni di cunnessione arregistrate.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title" xml:space="preserve">
         <source>Disconnect %@?</source>
+        <target>Disghjunghje %@ ?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue" xml:space="preserve">
         <source>Continue</source>
+        <target>Cuntinuà</target>
         <note>Button title when agreeing to proceed to access the application.</note>
       </trans-unit>
       <trans-unit id="delete" xml:space="preserve">
         <source>Delete</source>
+        <target>Squassà</target>
         <note>Delete button title</note>
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
         <source>This will delete the entry from both %@ and Firefox.</source>
+        <target>St’azzione squasserà l’elementu da %@ è ancu da Firefox.</target>
         <note>Message in confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
         <source>Delete this login?</source>
+        <target>Squassà st’identificazione di cunnessione</target>
         <note>Title for confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.statusAlert" xml:space="preserve">
         <source>%@ deleted</source>
+        <target>%@ squassatu</target>
         <note>Text in the status alert after a login has been deleted. %@ is the hostname of the login</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
         <source>Done</source>
+        <target>Compiu</target>
         <note>Text on button to close settings</note>
       </trans-unit>
       <trans-unit id="done_syncing_entries" xml:space="preserve">
         <source>Done Syncing your logins</source>
+        <target>Sincrunizazione di e vostre identificazioni di cunnessione compia</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied" xml:space="preserve">
         <source>%@ copied</source>
+        <target>%@ cupiatu</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="get.started" xml:space="preserve">
         <source>Get Started</source>
+        <target>Firefox Lockwise</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt" xml:space="preserve">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ hè disattivatu, installate stu navigatore per rendelu dispunibule</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ vi permette d'accede à e vostre parolle d’entrata chì voi avete dighjà arregistrate in Firefox. Per affissà e vostre identificazioni di cunnessione quì, ci vole à cunnettassi à Firefox è attivà a sincrunizazione.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="no_username" xml:space="preserve">
         <source>(no username)</source>
+        <target>(alcunu nome d’utilizatore)</target>
         <note>placeholder text when there is no username</note>
       </trans-unit>
       <trans-unit id="not_using_passcode" xml:space="preserve">
         <source>You’re not using a passcode.</source>
+        <target>Ùn impiegate micca di codice d’accessu.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes" xml:space="preserve">
         <source>Notes</source>
+        <target>Note</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
         <source>OK</source>
+        <target>Vai</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="onboarding.encryption" xml:space="preserve">
         <source>256-bit encryption</source>
+        <target>Cifratura 256-bit</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title" xml:space="preserve">
         <source>Welcome to %@</source>
+        <target>Benvenuta in %@</target>
         <note>Title on onboarding screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
