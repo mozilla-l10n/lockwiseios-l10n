@@ -29,6 +29,7 @@
       </trans-unit>
       <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
+        <target>Rinnovu di u riempiimentu autumaticu compiu</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
