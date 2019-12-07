@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Ci vole à esse cunnettu à %@  per chì u riempiimentu autumaticu permette l’accessu à e parolle d’entrata ch’ellu cuntene.</target>
+        <target>Ci vole à esse cunnettu à %@ per chì u riempiimentu autumaticu permette l’accessu à e parolle d’entrata ch’ellu cuntene.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
-        <target>%@ vi permette d'accede à e vostre parolle d’entrata chì voi avete dighjà arregistrate in Firefox. Per affissà e vostre identificazioni di cunnessione quì, ci vole à cunnettassi à Firefox è attivà a sincrunizazione.</target>
+        <target>%@ vi permette d’accede à e vostre parolle d’entrata chì voi avete dighjà arregistrate in Firefox. Per affissà e vostre identificazioni di cunnessione quì, ci vole à cunnettassi à Firefox è attivà a sincrunizazione</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
-        <target>Ci vole à esse cunnettu à %@  per chì u riempiimentu autumaticu permette l’accessu à e parolle d’entrata ch’ellu cuntene.</target>
+        <target>Ci vole à esse cunnettu à %@ per chì u riempiimentu autumaticu permette l’accessu à e parolle d’entrata ch’ellu cuntene.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back" xml:space="preserve">
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
-        <target>St’azzione squasserà da %@ l'infurmazioni di u vostru contu Firefox è tutte l’identificazioni di cunnessione arregistrate.</target>
+        <target>St’azzione squasserà da %@ l’infurmazioni di u vostru contu Firefox è tutte l’identificazioni di cunnessione arregistrate.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title" xml:space="preserve">
@@ -265,7 +265,7 @@
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
-        <target>%@ vi permette d'accede à e vostre parolle d’entrata chì voi avete dighjà arregistrate in Firefox. Per affissà e vostre identificazioni di cunnessione quì, ci vole à cunnettassi à Firefox è attivà a sincrunizazione.</target>
+        <target>%@ vi permette d’accede à e vostre parolle d’entrata chì voi avete dighjà arregistrate in Firefox. Per affissà e vostre identificazioni di cunnessione quì, ci vole à cunnettassi à Firefox è attivà a sincrunizazione.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -759,6 +759,7 @@
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
         <source>Tap into AutoFill Passwords</source>
+        <target>Picchichjate nant’à Riempie e parolle d’entrata</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text" xml:space="preserve">
@@ -768,10 +769,12 @@
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text" xml:space="preserve">
         <source>Turn on AutoFill Passwords</source>
+        <target>Attivate Riempie e parolle d’entrata</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>Picchichjate nant’à Parolle d’entrata è conti</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
@@ -786,6 +789,7 @@
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text" xml:space="preserve">
         <source>Deselect iCloud Keychain</source>
+        <target>Deselezziunate u Portachjavi iCloud</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text" xml:space="preserve">
