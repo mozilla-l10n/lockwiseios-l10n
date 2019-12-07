@@ -305,54 +305,67 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Per ammarchjunà %@, un codice d’accessu deve esse definitu nant’à u vostru apparechju. Osinnò, qualvogliasia chì hà st’apparechju pò accede à l’infurmazioni chì ci sò arregistrate.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Duveriate impiegà un codice d’accessu per ammarchjunà u vostru apparechju. Osinnò, qualvogliasia chì hà st’apparechju pò accede à l’infurmazioni chì ci sò arregistrate.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
         <source>Password</source>
+        <target>Parolla d’entrata</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions" xml:space="preserve">
         <source>Password: double tap to copy %@</source>
+        <target>Parolla d’entrata : picchichjà duie volte per cupià %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
+        <target>Nova autenticazione richiesta</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
         <source>Recent</source>
+        <target>Recente</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used" xml:space="preserve">
         <source>Recently Used</source>
+        <target>Impiegati pocu fà</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>Circà identificazioni di cunnessione</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Sincrunizate i vostri apparechji cù una cifratura assicurizata à 256-bit</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
         <source>Set Passcode</source>
+        <target>Definisce un codice d’accessu</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account" xml:space="preserve">
         <source>Account</source>
+        <target>Contu</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
+        <target>Versione di l’appiecazione</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
         <source>AutoFill Instructions</source>
+        <target>Instruzzioni per u riempiimentu autumaticu</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
