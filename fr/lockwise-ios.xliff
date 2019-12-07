@@ -220,6 +220,7 @@
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
         <source>This will delete the entry from both %@ and Firefox.</source>
+        <target>Cette action supprimera l’entrée à la fois pour %@ et pour Firefox.</target>
         <note>Message in confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
