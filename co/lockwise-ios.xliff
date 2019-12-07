@@ -525,70 +525,87 @@
       </trans-unit>
       <trans-unit id="sort_entries" xml:space="preserve">
         <source>Sort Logins</source>
+        <target>Classificà l’identificazioni di cunnessione</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Selezziunate l’ozzioni per classificà a vostra lista d’identificazioni di cunnessione (attualmente %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Cumportu di sincrunizazione eccidutu</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries" xml:space="preserve">
         <source>Syncing your logins</source>
+        <target>Sincrunizazione di e vostre identificazioni di cunnessione</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink" xml:space="preserve">
         <source>Disconnect</source>
+        <target>Disghjunghjesi</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
+        <target>Quessu à da sbluccà l’appiecazione.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid" xml:space="preserve">
         <source>Unlock with Face ID</source>
+        <target>Sbluccà cù Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin" xml:space="preserve">
         <source>Unlock with Passcode</source>
+        <target>Sbluccà cù u codice d’accessu</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid" xml:space="preserve">
         <source>Unlock with Touch ID</source>
+        <target>Sbluccà cù Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry" xml:space="preserve">
         <source>unnamed entry</source>
+        <target>elementu senza nome</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username" xml:space="preserve">
         <source>Username</source>
+        <target>Nome d’utilizatore</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions" xml:space="preserve">
         <source>Username: double tap to copy %@</source>
+        <target>Nome d’utilizatore : picchichjà duie volte per cupià %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder" xml:space="preserve">
         <source>(no username)</source>
+        <target>(alcunu nome d’utilizatore)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
       <trans-unit id="web_address" xml:space="preserve">
         <source>Web Address</source>
+        <target>Indirizzu web</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions" xml:space="preserve">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Indirizzu web : picchichjà duie volte per cupià %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct" xml:space="preserve">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>Per impiegà %@, averete bisognu d’un contu Firefox cù identificazioni di cunnessione arregistrate.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton" xml:space="preserve">
         <source>Unlock</source>
+        <target>Sbluccà</target>
         <note>Text on button to unlock app</note>
       </trans-unit>
     </body>
@@ -600,10 +617,12 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text" xml:space="preserve">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>Per fà mudificazioni à u vostru contu, cunnettatevi à u vostru contu Firefox da qualsisia navigatore.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
         <source>Firefox Account</source>
+        <target>Contu Firefox</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -615,10 +634,12 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Not Now</source>
+        <target>Micca subitu</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text" xml:space="preserve">
         <source>AutoFill your logins right from your browser or app.</source>
+        <target>Riempiite autumaticamente e vostre identificazioni di cunnessione direttamente à partesi da u vostru navigatore o a vostra appiecazione.</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text" xml:space="preserve">
