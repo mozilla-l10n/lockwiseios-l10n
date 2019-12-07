@@ -370,126 +370,157 @@
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
+        <target>Chjuditura autumatica</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
         <source>15 minutes</source>
+        <target>15 minuti</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes" xml:space="preserve">
         <source>5 minutes</source>
+        <target>5 minuti</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Selezziunà quandu ammarchjunà dopu à una durata d’inattività</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
         <source>Never</source>
+        <target>Mai</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour" xml:space="preserve">
         <source>1 hour</source>
+        <target>1 ora</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute" xml:space="preserve">
         <source>1 minute</source>
+        <target>1 minutu</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes" xml:space="preserve">
         <source>30 minutes</source>
+        <target>30 minuti</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour" xml:space="preserve">
         <source>12 hours</source>
+        <target>12 ore</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour" xml:space="preserve">
         <source>24 hours</source>
+        <target>24 ore</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser" xml:space="preserve">
         <source>Preferred Browser</source>
+        <target>Navigatore preferitu</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome" xml:space="preserve">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox" xml:space="preserve">
         <source>Firefox</source>
+        <target>FireFox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus" xml:space="preserve">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header" xml:space="preserve">
         <source>Select which browser use with Lockwise</source>
+        <target>Selezziunà u navigatore à impiegà cù Lockwise</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar" xml:space="preserve">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header" xml:space="preserve">
         <source>CONFIGURATION</source>
+        <target>CUNFIGURAZIONE</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq" xml:space="preserve">
         <source>FAQ</source>
+        <target>FAQ</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport" xml:space="preserve">
         <source>Ask a Question</source>
+        <target>Fà una dumanda</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>Sapene di più</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback" xml:space="preserve">
         <source>Send Feedback</source>
+        <target>Dà u mo avisu</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header" xml:space="preserve">
         <source>SUPPORT</source>
+        <target>ASSISTENZA</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
+        <target>Preferenze</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount" xml:space="preserve">
         <source>Disconnect %@</source>
+        <target>Disghjunghje %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>St’azzione caccierà da %@ l’infurmazioni di cunnessione sincrunizate, ma ùn e squasserà micca da Firefox.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData" xml:space="preserve">
         <source>Send Usage Data</source>
+        <target>Mandà dati d’adopru</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla face casu à cullettà solu i dati chì sò ghjuvevule per rigalà è amendà %@ à tutti. </target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button" xml:space="preserve">
         <source>Settings</source>
+        <target>Preferenze</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
+        <target>Cunnettassi</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip" xml:space="preserve">
         <source>Skip</source>
+        <target>Ignurà</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries" xml:space="preserve">
