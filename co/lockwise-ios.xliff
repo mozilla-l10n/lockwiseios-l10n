@@ -64,30 +64,37 @@
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
         <source>OK</source>
+        <target>Vai</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>Circà identificazioni di cunnessione</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
+        <target>Cunnettassi</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Cumportu di sincrunizazione eccidutu</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
+        <target>Quessu à da sbluccà l’appiecazione.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder" xml:space="preserve">
         <source>(no username)</source>
+        <target>(alcunu nome d’utilizatore)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
     </body>
@@ -99,10 +106,12 @@
     <body>
       <trans-unit id="ehm-2v-Rbb.accessibilityLabel" xml:space="preserve">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Class = "UIImageView"; accessibilityLabel = "Firefox Lockwise"; ObjectID = "ehm-2v-Rbb"; Note = "Text logo of the product name for screenreaders";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
         <source>Take your passwords everywhere</source>
+        <target>Purtatevi e vostre parolle d’entrata dapertuttu</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -114,14 +123,17 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Firefox Lockbox</source>
+        <target>Firefox Lockbox</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise impiegherà Face ID per cunnettavvi à l’appiecazione.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -133,46 +145,57 @@
     <body>
       <trans-unit id="a_to_z" xml:space="preserve">
         <source>A-Z</source>
+        <target>A à Z</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="account" xml:space="preserve">
         <source>Account</source>
+        <target>Contu</target>
         <note>Title for settings page letting users manage their accounts</note>
       </trans-unit>
       <trans-unit id="alphabetically" xml:space="preserve">
         <source>Alphabetically</source>
+        <target>Alfabeticamente</target>
         <note>Label for the option sheet action allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="app_update_explanation" xml:space="preserve">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>Per via d’un rinnovu recente di l’appiecazione, ci vole à ricunnettavvi torna. Scusateci per stu penseru.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling" xml:space="preserve">
         <source>Updating AutoFill…</source>
+        <target>Rinnovu di u riempiimentu autumaticu…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
+        <target>Rinnovu di u riempiimentu autumaticu compiu</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Autenticazione richiesta</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Ci vole à esse cunnettu à %@  per chì u riempiimentu autumaticu permette l’accessu à e parolle d’entrata ch’ellu cuntene.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back" xml:space="preserve">
         <source>Back</source>
+        <target>Precedente</target>
         <note>Back button title</note>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>Abbandunà</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="close" xml:space="preserve">
         <source>Close</source>
+        <target>Chjode</target>
         <note>Close button title</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
