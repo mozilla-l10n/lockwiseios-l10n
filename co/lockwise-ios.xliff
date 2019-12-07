@@ -34,26 +34,32 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Autenticazione richiesta</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Ci vole à esse cunnettu à %@  per chì u riempiimentu autumaticu permette l’accessu à e parolle d’entrata ch’ellu cuntene.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>Abbandunà</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="delete" xml:space="preserve">
         <source>Delete</source>
+        <target>Squassà</target>
         <note>Delete button title</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ vi permette d'accede à e vostre parolle d’entrata chì voi avete dighjà arregistrate in Firefox. Per affissà e vostre identificazioni di cunnessione quì, ci vole à cunnettassi à Firefox è attivà a sincrunizazione.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
