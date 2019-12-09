@@ -195,11 +195,12 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Ezzel törli a Firefox-fiók adatait és az összes elmentett bejelentkezést a %@ból.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
         <source>Disconnect %@?</source>
-        <target>Leválasztja: %@?</target>
+        <target>%@ leválasztása?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue">
@@ -279,10 +280,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>A %@ zárolásához be kell állítania egy jelkódot az eszközén. Jelkód nélkül bárki, aki hozzáfér az eszközhöz, elérheti az itt mentett információkat.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Állítson be egy jelkódot az eszköze zárolásához. Jelkód nélkül bárki, aki hozzáfér az eszközhöz, elérheti az itt mentett információkat.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
@@ -292,6 +295,7 @@
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Jelszó: dupla koppintás a(z) %@ másolásához</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
@@ -356,6 +360,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Adja meg, hogy mennyi tétlenség után zárolja</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never">
@@ -460,10 +465,12 @@
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
         <source>Disconnect %@</source>
+        <target>A %@ leválasztása</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Ez eltávolítja a szinkronizált bejelentkezéseket a %@ból, de nem törli a bejelentkezéseket a Firefoxból.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
@@ -498,6 +505,7 @@
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Válassza ki a bejelentkezési lista rendezési lehetőségeit (jelenleg: %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout">
@@ -567,6 +575,7 @@
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>A %@ használatához egy Firefox-fiókra lesz szüksége, mentett bejelentkezésekkel.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
