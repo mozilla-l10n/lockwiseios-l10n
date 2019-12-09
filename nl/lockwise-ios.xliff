@@ -345,7 +345,7 @@
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
-        <target>Synchroniseer tussen apparaten met een veilige 256-bits codering</target>
+        <target>Synchroniseer tussen apparaten met een veilige 256-bits versleuteling</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
