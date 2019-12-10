@@ -759,6 +759,7 @@
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
         <source>Tap into AutoFill Passwords</source>
+        <target>Tik in Wachtwoorden automatisch invullen</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text" xml:space="preserve">
