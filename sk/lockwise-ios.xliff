@@ -32,6 +32,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Vyžaduje sa prihlásenie</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
@@ -79,6 +80,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Časový limit synchronizácie vypršal</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
@@ -166,6 +168,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Vyžaduje sa prihlásenie</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
@@ -428,6 +431,7 @@
       </trans-unit>
       <trans-unit id="settings.configuration.header" xml:space="preserve">
         <source>CONFIGURATION</source>
+        <target>KONFIGURÁCIA</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq" xml:space="preserve">
@@ -505,6 +509,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Časový limit synchronizácie vypršal</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries" xml:space="preserve">
@@ -622,6 +627,7 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel" xml:space="preserve">
         <source>Copy value</source>
+        <target>Kopírovať hodnotu</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel" xml:space="preserve">
@@ -834,9 +840,9 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text" xml:space="preserve">
         <source>Syncing your logins…</source>
+        <target>Synchronizácia prihlásení…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
   </file>
 </xliff>
-
