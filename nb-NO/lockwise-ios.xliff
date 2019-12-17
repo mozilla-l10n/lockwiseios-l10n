@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="app_update_explanation" xml:space="preserve">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
-        <target>På grunn av en den siste appoppdatering, vil du behøve å logge inn igjen. Beklager for ulempen.</target>
+        <target>På grunn av en den siste app-oppdateringen, vil du måtte logge inn igjen. Beklager ulempen.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling" xml:space="preserve">
@@ -315,7 +315,7 @@
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
         <source>Password</source>
-        <target>Password</target>
+        <target>Passord</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions" xml:space="preserve">
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
-        <target>Appversjon</target>
+        <target>App-versjon</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
