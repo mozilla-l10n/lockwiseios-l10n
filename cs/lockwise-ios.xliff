@@ -50,6 +50,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>S aplikací %@ získáte přístup k heslům uloženým ve vašem Firefoxu. Pro jejich zobrazení a synchronizaci se přihlaste ke svému účtu Firefoxu.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -222,6 +223,7 @@
       </trans-unit>
       <trans-unit id="list.empty">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>S aplikací %@ získáte přístup k heslům uloženým ve vašem Firefoxu. Pro jejich zobrazení a synchronizaci se přihlaste ke svému účtu Firefoxu.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise">
@@ -782,4 +784,3 @@
     </body>
   </file>
 </xliff>
-
