@@ -444,38 +444,47 @@
       </trans-unit>
       <trans-unit id="settings.browser.safari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header" xml:space="preserve">
         <source>CONFIGURATION</source>
+        <target>KONFIGURASJON</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq" xml:space="preserve">
         <source>FAQ</source>
+        <target>Ofte stilte spørsmål</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport" xml:space="preserve">
         <source>Ask a Question</source>
+        <target>Still eit spørsmål</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>Les meir</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback" xml:space="preserve">
         <source>Send Feedback</source>
+        <target>Send tilbakemelding</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header" xml:space="preserve">
         <source>SUPPORT</source>
+        <target>BRUKARSTØTTE</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
+        <target>Innstillingar</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount" xml:space="preserve">
         <source>Disconnect %@</source>
+        <target>Kople frå %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
@@ -484,6 +493,7 @@
       </trans-unit>
       <trans-unit id="settings.usageData" xml:space="preserve">
         <source>Send Usage Data</source>
+        <target>Send bruksdata</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
@@ -492,18 +502,22 @@
       </trans-unit>
       <trans-unit id="settings_button" xml:space="preserve">
         <source>Settings</source>
+        <target>Innstillingar</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
+        <target>Logg inn</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip" xml:space="preserve">
         <source>Skip</source>
+        <target>Hopp over</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries" xml:space="preserve">
         <source>Sort Logins</source>
+        <target>Sorter innloggingar</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
@@ -512,14 +526,17 @@
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Synkroniseringa fekk tidsavbrot</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries" xml:space="preserve">
         <source>Syncing your logins</source>
+        <target>Synkroniserer innloggingane dine</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink" xml:space="preserve">
         <source>Disconnect</source>
+        <target>Kople frå</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
