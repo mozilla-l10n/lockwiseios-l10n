@@ -164,30 +164,37 @@
       </trans-unit>
       <trans-unit id="autofill.enabling" xml:space="preserve">
         <source>Updating AutoFill…</source>
+        <target>Oppdaterer Autoutfylling…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
+        <target>Ferdig med oppdatering av Autoutfylling</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Innlogging påkravd</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Du må vere innlogga på %@ før Autoutfylling gir tilgang til passorda den inneheld.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back" xml:space="preserve">
         <source>Back</source>
+        <target>Tilbake</target>
         <note>Back button title</note>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
         <source>Cancel</source>
+        <target>Avbryt</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="close" xml:space="preserve">
         <source>Close</source>
+        <target>Lat att</target>
         <note>Close button title</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
@@ -196,14 +203,17 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_title" xml:space="preserve">
         <source>Disconnect %@?</source>
+        <target>Kople frå %@?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue" xml:space="preserve">
         <source>Continue</source>
+        <target>Fortset</target>
         <note>Button title when agreeing to proceed to access the application.</note>
       </trans-unit>
       <trans-unit id="delete" xml:space="preserve">
         <source>Delete</source>
+        <target>Slett</target>
         <note>Delete button title</note>
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
@@ -212,34 +222,42 @@
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
         <source>Delete this login?</source>
+        <target>Slett denne innlogginga?</target>
         <note>Title for confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.statusAlert" xml:space="preserve">
         <source>%@ deleted</source>
+        <target>%@ sletta</target>
         <note>Text in the status alert after a login has been deleted. %@ is the hostname of the login</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
         <source>Done</source>
+        <target>Ferdig</target>
         <note>Text on button to close settings</note>
       </trans-unit>
       <trans-unit id="done_syncing_entries" xml:space="preserve">
         <source>Done Syncing your logins</source>
+        <target>Ferdig med synkronisering av innloggingar</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied" xml:space="preserve">
         <source>%@ copied</source>
+        <target>%@ kopiert</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="get.started" xml:space="preserve">
         <source>Get Started</source>
+        <target>Kom i gang</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt" xml:space="preserve">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ deaktivert, installer denne nettlesaren for å gjere han tilgjengeleg</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
@@ -248,30 +266,37 @@
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
         <source>Lockwise</source>
+        <target>Lockwise</target>
         <note>This is the name displayed instead of Firefox Lockwise in some places</note>
       </trans-unit>
       <trans-unit id="no_username" xml:space="preserve">
         <source>(no username)</source>
+        <target>(ingen brukernamn)</target>
         <note>placeholder text when there is no username</note>
       </trans-unit>
       <trans-unit id="not_using_passcode" xml:space="preserve">
         <source>You’re not using a passcode.</source>
+        <target>Du brukar ikkje kode.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes" xml:space="preserve">
         <source>Notes</source>
+        <target>Notat</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
         <source>OK</source>
+        <target>OK</target>
         <note>Ok button title</note>
       </trans-unit>
       <trans-unit id="onboarding.encryption" xml:space="preserve">
         <source>256-bit encryption</source>
+        <target>256-bit kryptering</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title" xml:space="preserve">
         <source>Welcome to %@</source>
+        <target>Velkomen til %@</target>
         <note>Title on onboarding screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
@@ -284,110 +309,137 @@
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
         <source>Password</source>
+        <target>Passord</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions" xml:space="preserve">
         <source>Password: double tap to copy %@</source>
+        <target>Passord: dobbeltrykk for å kopiere %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
+        <target>Reautentisering er nødvendig</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
         <source>Recent</source>
+        <target>Nyleg</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used" xml:space="preserve">
         <source>Recently Used</source>
+        <target>Nyleg brukt</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>Søk innloggingar</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synkroniser mellom einingar med sikker 256-bit kryptering</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
         <source>Set Passcode</source>
+        <target>Angi kode</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account" xml:space="preserve">
         <source>Account</source>
+        <target>Konto</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
+        <target>App-versjon</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
         <source>AutoFill Instructions</source>
+        <target>Instruksjonar for Autoutfylling</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
+        <target>Automatisk lås</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
         <source>15 minutes</source>
+        <target>15 minutt</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes" xml:space="preserve">
         <source>5 minutes</source>
+        <target>5 minutt</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Vel når du vil låse etter ein periode med inaktivitet</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
         <source>Never</source>
+        <target>Aldri</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour" xml:space="preserve">
         <source>1 hour</source>
+        <target>1 time</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute" xml:space="preserve">
         <source>1 minute</source>
+        <target>1 minutt</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes" xml:space="preserve">
         <source>30 minutes</source>
+        <target>30 minutt</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour" xml:space="preserve">
         <source>12 hours</source>
+        <target>12 timar</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour" xml:space="preserve">
         <source>24 hours</source>
+        <target>24 timar</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser" xml:space="preserve">
         <source>Preferred Browser</source>
+        <target>Føretrekt nettlesar</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome" xml:space="preserve">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox" xml:space="preserve">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus" xml:space="preserve">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header" xml:space="preserve">
         <source>Select which browser use with Lockwise</source>
+        <target>Vel kva for nettlesar som skal brukast med Lockwise</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar" xml:space="preserve">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari" xml:space="preserve">
