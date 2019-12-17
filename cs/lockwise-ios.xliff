@@ -184,10 +184,12 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Tímto z aplikace %@ odstraníte data ze svého účtu Firefoxu a všechny uložené přihlašovací údaje.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title">
         <source>Disconnect %@?</source>
+        <target>Odpojit aplikaci %@?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue">
@@ -202,6 +204,7 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries">
         <source>Done Syncing your logins</source>
+        <target>Synchronizace přihlašovacích údajů dokončena</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied">
@@ -215,6 +218,7 @@
       </trans-unit>
       <trans-unit id="get.started">
         <source>Get Started</source>
+        <target>Začít</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt">
@@ -252,6 +256,7 @@
       </trans-unit>
       <trans-unit id="onboarding.encryption">
         <source>256-bit encryption</source>
+        <target>256-bitové šifrování</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title">
@@ -261,10 +266,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Pro uzamčení aplikace %@ na svém zařízení nastavte heslo. Bez něj se do vašeho zařízení a k uloženým datům může dostat kdokoliv.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Pro ochranu svého zařízení bystě měli používat heslo. Bez něj se do vašeho zařízení a k uloženým datům může dostat kdokoliv.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password">
@@ -278,6 +285,7 @@
       </trans-unit>
       <trans-unit id="reauth_required">
         <source>Reauthentication Required</source>
+        <target>Požadována opětovná autentizace</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent">
@@ -297,10 +305,12 @@
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synchronizace mezi zařízeními zabezpečená pomocí 256-bitového šifrování</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode">
         <source>Set Passcode</source>
+        <target>Nastavení hesla</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account">
@@ -368,6 +378,7 @@
       </trans-unit>
       <trans-unit id="settings.browser">
         <source>Preferred Browser</source>
+        <target>Preferovaný prohlížeč</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome">
@@ -387,6 +398,7 @@
       </trans-unit>
       <trans-unit id="settings.browser.header">
         <source>Select which browser use with Lockwise</source>
+        <target>Vyberte, který prohlížeč má Lockwise používat</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar">
@@ -401,6 +413,7 @@
       </trans-unit>
       <trans-unit id="settings.configuration.header">
         <source>CONFIGURATION</source>
+        <target>KONFIGURACE</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq">
@@ -435,10 +448,12 @@
       </trans-unit>
       <trans-unit id="settings.unlinkAccount">
         <source>Disconnect %@</source>
+        <target>Odpojit %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Tímto z aplikace %@ odstraníte synchronizované přihlašovací údaje. Ve vašem Firefoxu ale zůstanou nadále uloženy.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData">
@@ -481,6 +496,7 @@
       </trans-unit>
       <trans-unit id="syncing_entries">
         <source>Syncing your logins</source>
+        <target>Synchronizace přihlašovacích údajů</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink">
@@ -495,14 +511,17 @@
       </trans-unit>
       <trans-unit id="unlock_with_faceid">
         <source>Unlock with Face ID</source>
+        <target>Odemknout pomocí Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin">
         <source>Unlock with Passcode</source>
+        <target>Odemknout heslem</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid">
         <source>Unlock with Touch ID</source>
+        <target>Odemknout pomocí Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry">
@@ -526,6 +545,7 @@
       </trans-unit>
       <trans-unit id="web_address">
         <source>Web Address</source>
+        <target>Adresa serveru</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
@@ -534,6 +554,7 @@
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>Pro používání aplikace %@ budete potřebovat účet Firefoxu a nějaká hesla k uložení.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
@@ -550,6 +571,7 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>Pro změnu nastavení vašeho účtu Firefoxu se k němu přihlaste v kterémkoliv prohlížeči.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text">
@@ -575,6 +597,7 @@
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text">
         <source>Easily fill usernames and passwords where you need them most.</source>
+        <target>Nechte si vyplnit přihlašovací údaje kamkoliv, kde je potřebujete.</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
@@ -599,10 +622,12 @@
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel">
         <source>Open this web address in browser</source>
+        <target>Otevře adresu ve webovém prohlížeči</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle">
         <source>Learn how to edit this entry</source>
+        <target>Jak upravit tento záznam</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text">
@@ -629,14 +654,17 @@
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text">
         <source>Access logins saved to Firefox for desktop from your device</source>
+        <target>Přistupujte ke svým přihlašovacím údajům uloženým ve Firefoxu i ze svého mobilního zařízení</target>
         <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
       </trans-unit>
       <trans-unit id="o0t-1T-rrA.text">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synchronizace mezi zařízeními zabezpečená pomocí 256-bitového šifrování</target>
         <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <target>Aplikaci snadno odemknete pomocí Touch ID nebo Face ID</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
@@ -648,6 +676,7 @@
     <body>
       <trans-unit id="KPq-Rv-WTJ.normalTitle">
         <source>Lock Now</source>
+        <target>Zamknout</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
       </trans-unit>
     </body>
@@ -714,6 +743,7 @@
       </trans-unit>
       <trans-unit id="cuz-yd-F4J.normalTitle">
         <source>Get Started</source>
+        <target>Začít</target>
         <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text">
@@ -723,6 +753,7 @@
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>Pro používání Firefox Lockwise budete potřebovat účet Firefoxu a nějaká hesla k uložení.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -748,6 +779,7 @@
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text">
         <source>Select a password to fill</source>
+        <target>Vyberte heslo, které chcete vyplnit</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle">
@@ -779,6 +811,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text">
         <source>Syncing your logins…</source>
+        <target>Synchronizace přihlašovacích údajů…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
