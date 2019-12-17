@@ -453,38 +453,47 @@
       </trans-unit>
       <trans-unit id="settings.faq" xml:space="preserve">
         <source>FAQ</source>
+        <target>Ofte stilte spørsmål</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport" xml:space="preserve">
         <source>Ask a Question</source>
+        <target>Still et spørsmål</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>Les mer</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback" xml:space="preserve">
         <source>Send Feedback</source>
+        <target>Send tilbakemelding</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header" xml:space="preserve">
         <source>SUPPORT</source>
+        <target>BRUKERSTØTTE</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
+        <target>Innstillinger</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount" xml:space="preserve">
         <source>Disconnect %@</source>
+        <target>Koble fra %@</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Dette fjerner synkroniserte innlogginger fra %@, men sletter ikke innloggingene dine fra Firefox.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData" xml:space="preserve">
         <source>Send Usage Data</source>
+        <target>Send bruksdata</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
@@ -493,18 +502,22 @@
       </trans-unit>
       <trans-unit id="settings_button" xml:space="preserve">
         <source>Settings</source>
+        <target>Innstillinger</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
+        <target>Logg inn</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip" xml:space="preserve">
         <source>Skip</source>
+        <target>Hopp over</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries" xml:space="preserve">
         <source>Sort Logins</source>
+        <target>Sorter innlogginger</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
@@ -513,54 +526,67 @@
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Synkroniseringen fikk tidsavbrudd</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries" xml:space="preserve">
         <source>Syncing your logins</source>
+        <target>Synkroniserer dine innlogginger</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink" xml:space="preserve">
         <source>Disconnect</source>
+        <target>Koble fra</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
+        <target>Dette vil låse opp appen.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid" xml:space="preserve">
         <source>Unlock with Face ID</source>
+        <target>Lås opp med Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin" xml:space="preserve">
         <source>Unlock with Passcode</source>
+        <target>Lås opp med kode</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid" xml:space="preserve">
         <source>Unlock with Touch ID</source>
+        <target>Lås opp med Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry" xml:space="preserve">
         <source>unnamed entry</source>
+        <target>navnløs post</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username" xml:space="preserve">
         <source>Username</source>
+        <target>Brukernavn</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions" xml:space="preserve">
         <source>Username: double tap to copy %@</source>
+        <target>Brukernavn: dobbelttrykk for å kopiere %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder" xml:space="preserve">
         <source>(no username)</source>
+        <target>(ingen brukernavn)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
       <trans-unit id="web_address" xml:space="preserve">
         <source>Web Address</source>
+        <target>Nettadresse</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions" xml:space="preserve">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Nettadresse: dobbelttrykk for å åpne i nettleser %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct" xml:space="preserve">
@@ -569,6 +595,7 @@
       </trans-unit>
       <trans-unit id="welcome.unlockButton" xml:space="preserve">
         <source>Unlock</source>
+        <target>Lås opp</target>
         <note>Text on button to unlock app</note>
       </trans-unit>
     </body>
@@ -584,6 +611,7 @@
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
         <source>Firefox Account</source>
+        <target>Firefox-konto</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -595,6 +623,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Not Now</source>
+        <target>Ikke nå</target>
         <note>Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "GdN-75-tz4"; Note = "This is the text on the button to allow the user to bypass the onboarding instructions on how to enable AutoFill";</note>
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text" xml:space="preserve">
@@ -607,6 +636,7 @@
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
         <source>Set Up AutoFill</source>
+        <target>Konfigurer Autoutfylling</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -618,26 +648,32 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel" xml:space="preserve">
         <source>Copy value</source>
+        <target>Kopier verdi</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel" xml:space="preserve">
         <source>Reveal password in plaintext</source>
+        <target>Vis passord i klartekst</target>
         <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel" xml:space="preserve">
         <source>Open this web address in browser</source>
+        <target>Åpne denne nettadressen i nettleseren</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle" xml:space="preserve">
         <source>Learn how to edit this entry</source>
+        <target>Lær hvordan du redigerer denne oppføringen</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text" xml:space="preserve">
         <source>Label</source>
+        <target>Etikett</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "t0H-71-xTp"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="tuK-Xc-guT.text" xml:space="preserve">
         <source>Label</source>
+        <target>Etikett</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "tuK-Xc-guT"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
     </body>
@@ -649,10 +685,12 @@
     <body>
       <trans-unit id="5P1-M2-UaK.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>Prøv igjen</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "5P1-M2-UaK";</note>
       </trans-unit>
       <trans-unit id="Js7-wv-X33.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>Ingen internettforbindelse</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "Js7-wv-X33";</note>
       </trans-unit>
     </body>
@@ -664,18 +702,22 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Finish</source>
+        <target>Fullfør</target>
         <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text" xml:space="preserve">
         <source>Access logins saved to Firefox for desktop from your device</source>
+        <target>Få tilgang til innlogginger som er lagret på Firefox for datamaskiner fra enheten din</target>
         <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
       </trans-unit>
       <trans-unit id="o0t-1T-rrA.text" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Synkroniser mellom enheter med sikker 256-bits kryptering</target>
         <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text" xml:space="preserve">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <target>Lås opp appen enkelt ved hjelp av Touch ID eller Face ID</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
@@ -687,6 +729,7 @@
     <body>
       <trans-unit id="KPq-Rv-WTJ.normalTitle" xml:space="preserve">
         <source>Lock Now</source>
+        <target>Lås nå</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
       </trans-unit>
     </body>
@@ -698,6 +741,7 @@
     <body>
       <trans-unit id="KnK-nY-NyH.normalTitle" xml:space="preserve">
         <source>Got it</source>
+        <target>Jeg forstår</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "KnK-nY-NyH"; Note = "The message on a confirmation button that the user understands or followed the instructions and will close out of these instructions";</note>
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
@@ -710,26 +754,32 @@
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text" xml:space="preserve">
         <source>Turn on AutoFill Passwords</source>
+        <target>Slå på Autoutfylling av passord</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>Velg passord og kontoer</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
         <source>How to Set up AutoFill</source>
+        <target>Slik konfigurerer du Autoutfylling av passord</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text" xml:space="preserve">
         <source>Select Lockwise</source>
+        <target>Velg Lockwise</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text" xml:space="preserve">
         <source>Deselect iCloud Keychain</source>
+        <target>Fjern merket for iCloud-nøkkelring</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text" xml:space="preserve">
         <source>Open the Settings app</source>
+        <target>Åpne appen Innstillinger</target>
         <note>Class = "UILabel"; text = "Open the Settings app"; ObjectID = "xig-s8-dim"; Note = "The instruction to open the system Settings app";</note>
       </trans-unit>
     </body>
@@ -741,22 +791,27 @@
     <body>
       <trans-unit id="8rH-vt-4bG.normalTitle" xml:space="preserve">
         <source>Unlock</source>
+        <target>Lås opp</target>
         <note>Class = "UIButton"; normalTitle = "Unlock"; ObjectID = "8rH-vt-4bG"; Note = "This is the text on the unlock button when the app is opened and locked";</note>
       </trans-unit>
       <trans-unit id="JTP-OD-6TF.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>Les mer</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
       </trans-unit>
       <trans-unit id="cuz-yd-F4J.normalTitle" xml:space="preserve">
         <source>Get Started</source>
+        <target>Kom i gang</target>
         <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
         <source>Take your passwords everywhere</source>
+        <target>Ta med deg passordene dine overalt</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text" xml:space="preserve">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>For å bruke Firefox Lockwise, trenger du en Firefox-konto med lagrede innlogginger.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -768,26 +823,32 @@
     <body>
       <trans-unit id="3A5-nI-aV6.text" xml:space="preserve">
         <source>Label</source>
+        <target>Etikett</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>Les mer</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>Hvis du vil se flere innlogginger her, må du lagre dem i Firefox.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
         <source>Select a password to fill</source>
+        <target>Velg et passord som skal fylles inn</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>Prøv igjen</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SWH-yo-sI7";</note>
       </trans-unit>
       <trans-unit id="V5S-CG-n11.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>Ingen internettforbindelse</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "V5S-CG-n11"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle" xml:space="preserve">
