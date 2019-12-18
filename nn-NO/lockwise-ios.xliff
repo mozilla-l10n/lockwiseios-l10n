@@ -265,6 +265,7 @@
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ lar deg få tilgang til passord du allereie har lagra i Firefox. For å sjå innloggingane dine her, må du logge på og synkronisere med Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -304,10 +305,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>For å låse %@, må det settast opp ein kode på eininga di. Utan kode kan alle som har eininga di få tilgang til informasjonen som er lagra her.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Du bør bruke ein kode for å låse eininga. Utan kode kan alle som har eininga di få tilgang til informasjonen som er lagra her.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
@@ -502,6 +505,7 @@
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
+        <target>Mozilla strevar etter å berre samle inn det vi treng for å tilby og forbetre %@ for alle. </target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button" xml:space="preserve">
