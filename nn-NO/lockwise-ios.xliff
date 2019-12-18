@@ -541,50 +541,62 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
+        <target>Dette vil låse opp appen.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid" xml:space="preserve">
         <source>Unlock with Face ID</source>
+        <target>Lås opp med Face ID</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin" xml:space="preserve">
         <source>Unlock with Passcode</source>
+        <target>Lås opp med kode</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid" xml:space="preserve">
         <source>Unlock with Touch ID</source>
+        <target>Lås opp med Touch ID</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry" xml:space="preserve">
         <source>unnamed entry</source>
+        <target>namnlaus oppføring</target>
         <note>Placeholder text for when there is no login name</note>
       </trans-unit>
       <trans-unit id="username" xml:space="preserve">
         <source>Username</source>
+        <target>Brukarnamn</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions" xml:space="preserve">
         <source>Username: double tap to copy %@</source>
+        <target>Brukarnamn: dobbeltrykk for å kopiere %@</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder" xml:space="preserve">
         <source>(no username)</source>
+        <target>(ingen brukarnamn)</target>
         <note>Placeholder text when there is no username. String should include appropriate open/close parenthetical or similar symbols to indicate this is a placeholder, not a real username.</note>
       </trans-unit>
       <trans-unit id="web_address" xml:space="preserve">
         <source>Web Address</source>
+        <target>Nettadresse</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions" xml:space="preserve">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Nettadresse: dobbeltrykk for å opne i nettlesar %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct" xml:space="preserve">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>For å bruke %@, treng du ein Firefox-konto med lagra innloggingar.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton" xml:space="preserve">
         <source>Unlock</source>
+        <target>Lås opp</target>
         <note>Text on button to unlock app</note>
       </trans-unit>
     </body>
