@@ -59,6 +59,7 @@
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ lar deg få tilgang til passord du alereie har lagra i Firefox. For å sjå innloggingane dine her, må du logge på og synkronisere med Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -199,6 +200,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Dette vil fjerne Firefox-kontoi-nformasjonenen din og alle lagra innloggingar frå %@.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title" xml:space="preserve">
@@ -218,6 +220,7 @@
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
         <source>This will delete the entry from both %@ and Firefox.</source>
+        <target>Dette vil slette oppføringa frå både %@ og Firefox.</target>
         <note>Message in confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
@@ -489,6 +492,7 @@
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
         <source>This removes synced logins from %@, but will not delete your logins from Firefox.</source>
+        <target>Dette fjernar synkroniserte innloggingar frå %@, men slettar ikkje innloggingane dine frå Firefox.</target>
         <note>Label on account setting explaining unlink. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.usageData" xml:space="preserve">
@@ -522,6 +526,7 @@
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Vel alternativ for å sortere lista over innloggingar (akkurat no %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
@@ -721,6 +726,7 @@
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text" xml:space="preserve">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <target>Lås opp appen enkelt ved hjelp av Touch ID eller Face ID</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
