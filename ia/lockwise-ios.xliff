@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="username">
         <source>Username</source>
-        <target>Nomine del usator</target>
+        <target>Nomine de usator</target>
         <note>Section title text for username on the item detail screen</note>
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
@@ -849,4 +849,3 @@
     </body>
   </file>
 </xliff>
-
