@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
-        <target>将解锁应用程序。</target>
+        <target>这将解锁该应用程序。</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder" xml:space="preserve">
@@ -145,7 +145,7 @@
     <body>
       <trans-unit id="a_to_z" xml:space="preserve">
         <source>A-Z</source>
-        <target>（名称）A-Z</target>
+        <target>名称（A-Z）</target>
         <note>Label for the button allowing users to sort the logins list alphabetically</note>
       </trans-unit>
       <trans-unit id="account" xml:space="preserve">
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
-        <target>将解锁应用程序。</target>
+        <target>这将解锁该应用程序。</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid" xml:space="preserve">
