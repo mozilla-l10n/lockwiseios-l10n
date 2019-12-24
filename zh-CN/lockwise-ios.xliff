@@ -111,7 +111,7 @@
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
         <source>Take your passwords everywhere</source>
-        <target>密码随身带着走</target>
+        <target>随身携带密码</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4";</note>
       </trans-unit>
     </body>
@@ -285,6 +285,7 @@
       </trans-unit>
       <trans-unit id="notes" xml:space="preserve">
         <source>Notes</source>
+        <target>注释</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
@@ -304,10 +305,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>若要锁定 %@，须设置设备的解锁密码。若没有解锁密码，任何接触到您设备的人，都可以获得您的登录信息。</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>您应该为设备设置解锁密码。若没有解锁密码，任何接触到您设备的人，都可以获得您的登录信息。</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
@@ -614,6 +617,7 @@
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
         <source>Firefox Account</source>
+        <target>Firefox 账户</target>
         <note>Class = "UILabel"; text = "Firefox Account"; ObjectID = "f32-KR-4Nm"; Note = "Placeholder string if the user's Firefox Account name is not returned. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
     </body>
@@ -638,6 +642,7 @@
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
         <source>Set Up AutoFill</source>
+        <target>设置自动填写</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -659,18 +664,22 @@
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel" xml:space="preserve">
         <source>Open this web address in browser</source>
+        <target>用浏览器打开此网址</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle" xml:space="preserve">
         <source>Learn how to edit this entry</source>
+        <target>了解如何编辑此条目</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text" xml:space="preserve">
         <source>Label</source>
+        <target>标签</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "t0H-71-xTp"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="tuK-Xc-guT.text" xml:space="preserve">
         <source>Label</source>
+        <target>标签</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "tuK-Xc-guT"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
     </body>
@@ -682,10 +691,12 @@
     <body>
       <trans-unit id="5P1-M2-UaK.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>重试</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "5P1-M2-UaK";</note>
       </trans-unit>
       <trans-unit id="Js7-wv-X33.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>无互联网连接</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "Js7-wv-X33";</note>
       </trans-unit>
     </body>
@@ -706,6 +717,7 @@
       </trans-unit>
       <trans-unit id="o0t-1T-rrA.text" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>使用 256 位加密，在设备间安全同步</target>
         <note>Class = "UITextView"; text = "Sync between devices with secure 256-bit encryption"; ObjectID = "o0t-1T-rrA"; Note = "Explains the app securely synchronizes the user's data";</note>
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text" xml:space="preserve">
@@ -739,10 +751,12 @@
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
         <source>Tap into AutoFill Passwords</source>
+        <target>点按“自动填写密码”</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text" xml:space="preserve">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <target>完成以下步骤，即可使用 Lockwise 进行自动填写。</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text" xml:space="preserve">
@@ -752,6 +766,7 @@
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>点按“密码和账户”</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
@@ -797,10 +812,12 @@
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
         <source>Take your passwords everywhere</source>
+        <target>随身携带密码</target>
         <note>Class = "UILabel"; text = "Take your passwords everywhere"; ObjectID = "hwO-wS-oS4"; Note = "This is the sentence consistently used across marketing and other applications";</note>
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text" xml:space="preserve">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>若要使用 Firefox Lockwise，您需要一个存有登录信息的 Firefox 账户。</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -812,6 +829,7 @@
     <body>
       <trans-unit id="3A5-nI-aV6.text" xml:space="preserve">
         <source>Label</source>
+        <target>标签</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle" xml:space="preserve">
@@ -821,10 +839,12 @@
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>请先将登录信息保存到 Firefox，才可在此看到更多登录信息。</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
         <source>Select a password to fill</source>
+        <target>选择要填写的密码</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
@@ -844,14 +864,17 @@
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text" xml:space="preserve">
         <source>No logins found.</source>
+        <target>未找到登录信息。</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
       <trans-unit id="n2T-XM-ua9.text" xml:space="preserve">
         <source>Label</source>
+        <target>标签</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "n2T-XM-ua9"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="qZc-w1-SRT.text" xml:space="preserve">
         <source>No matching logins.</source>
+        <target>没有匹配的登录信息。</target>
         <note>Class = "UILabel"; text = "No matching logins."; ObjectID = "qZc-w1-SRT"; Note = "This message is displayed when a user searches and no matches can be found against the search query";</note>
       </trans-unit>
     </body>
@@ -863,6 +886,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text" xml:space="preserve">
         <source>Syncing your logins…</source>
+        <target>正在同步您的登录信息…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
