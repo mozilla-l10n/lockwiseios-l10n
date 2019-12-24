@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="app_update_explanation" xml:space="preserve">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
-        <target>由于最近的应用程序更新，需要您重新登录。造成不便敬请谅解。</target>
+        <target>由于最近的更新，您需要重新登录。造成不便敬请谅解。</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling" xml:space="preserve">
@@ -285,7 +285,7 @@
       </trans-unit>
       <trans-unit id="notes" xml:space="preserve">
         <source>Notes</source>
-        <target>注释</target>
+        <target>备注</target>
         <note>Section title for the notes field on the item detail screen</note>
       </trans-unit>
       <trans-unit id="ok" xml:space="preserve">
@@ -305,12 +305,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
-        <target>若要锁定 %@，须设置设备的解锁密码。若没有解锁密码，任何接触到您设备的人，都可以获得您的登录信息。</target>
+        <target>为锁定 %@，您需要在设备上设置一个解锁密码。若没有解锁密码，任何能操作您的设备的人，都可以访问您的登录信息。</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
-        <target>您应该为设备设置解锁密码。若没有解锁密码，任何接触到您设备的人，都可以获得您的登录信息。</target>
+        <target>您应该为设备设置解锁密码。若没有解锁密码，任何能操作您的设备的人，都可以访问您的登录信息。</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
-        <target>应用程式版本</target>
+        <target>应用版本</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="settings.browser.header" xml:space="preserve">
         <source>Select which browser use with Lockwise</source>
-        <target>选择在 Lockwise 中使用的浏览器</target>
+        <target>选择配合 Lockwise 使用的浏览器</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar" xml:space="preserve">
@@ -595,12 +595,12 @@
       </trans-unit>
       <trans-unit id="website_accessibility_instructions" xml:space="preserve">
         <source>Web address: double tap to open in browser %@</source>
-        <target>网址：双击用 %@ 浏览器中打开</target>
+        <target>网址：双击用 %@ 浏览器打开</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct" xml:space="preserve">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
-        <target>若要使用 %@，您需要一个存有登录信息的 Firefox 账户。</target>
+        <target>若要使用 %@，您需要一个存放登录信息的 Firefox 账户。</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton" xml:space="preserve">
@@ -617,7 +617,7 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text" xml:space="preserve">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
-        <target>若要更改您的账户，请使用任何浏览器登录您的 Firefox 账户。</target>
+        <target>若要更改您的账户，请使用任意网页浏览器登录您的 Firefox 账户。</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
@@ -639,12 +639,12 @@
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text" xml:space="preserve">
         <source>AutoFill your logins right from your browser or app.</source>
-        <target>在您的浏览器或应用程序中，可直接自动填写登录信息。</target>
+        <target>在您的浏览器或应用中，自动填写您的登录信息。</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text" xml:space="preserve">
         <source>Easily fill usernames and passwords where you need them most.</source>
-        <target>在您需要的地方轻松代填账号密码。</target>
+        <target>在您需要的地方轻松填入账号密码。</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
@@ -826,7 +826,7 @@
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text" xml:space="preserve">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
-        <target>若要使用 Firefox Lockwise，您需要一个存有登录信息的 Firefox 账户。</target>
+        <target>若要使用 Firefox Lockwise，您需要一个存放登录信息的 Firefox 账户。</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
-        <target>请先将登录信息保存到 Firefox，才可在此看到更多登录信息。</target>
+        <target>先将登录信息保存到 Firefox，才能在这里看到登录信息。</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
