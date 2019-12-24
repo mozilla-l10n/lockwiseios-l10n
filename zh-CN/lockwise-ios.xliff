@@ -330,6 +330,7 @@
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
         <source>Recent</source>
+        <target>最近使用</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used" xml:space="preserve">
@@ -384,7 +385,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
-        <target>选择无活动自动锁定时间间隔</target>
+        <target>选择无活动自动锁定的时间间隔</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
@@ -439,6 +440,7 @@
       </trans-unit>
       <trans-unit id="settings.browser.header" xml:space="preserve">
         <source>Select which browser use with Lockwise</source>
+        <target>选择在 Lockwise 中使用的浏览器</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar" xml:space="preserve">
@@ -528,6 +530,7 @@
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>选择如何排序您的登录信息（当前为 %@）</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
@@ -597,6 +600,7 @@
       </trans-unit>
       <trans-unit id="welcome.accessProduct" xml:space="preserve">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
+        <target>若要使用 %@，您需要一个存有登录信息的 Firefox 账户。</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton" xml:space="preserve">
@@ -613,6 +617,7 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text" xml:space="preserve">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>若要更改您的账户，请使用任何浏览器登录您的 Firefox 账户。</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
@@ -634,10 +639,12 @@
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text" xml:space="preserve">
         <source>AutoFill your logins right from your browser or app.</source>
+        <target>在您的浏览器或应用程序中，可直接自动填写登录信息。</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text" xml:space="preserve">
         <source>Easily fill usernames and passwords where you need them most.</source>
+        <target>在您需要的地方轻松代填账号密码。</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
@@ -713,6 +720,7 @@
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text" xml:space="preserve">
         <source>Access logins saved to Firefox for desktop from your device</source>
+        <target>从您的设备访问存放在 Firefox 桌面版的登录信息</target>
         <note>Class = "UILabel"; text = "Access logins saved to Firefox for desktop from your device"; ObjectID = "afK-Kw-Hqs"; Note = "Explains the app gives the user the ability to access their Firefox logins. Firefox for desktop should match the intended product name";</note>
       </trans-unit>
       <trans-unit id="o0t-1T-rrA.text" xml:space="preserve">
@@ -766,7 +774,7 @@
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
         <source>Tap into Passwords &amp; Accounts</source>
-        <target>点按“密码和账户”</target>
+        <target>点按“密码与帐户”</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
@@ -786,6 +794,7 @@
       </trans-unit>
       <trans-unit id="xig-s8-dim.text" xml:space="preserve">
         <source>Open the Settings app</source>
+        <target>打开“设置”应用程序</target>
         <note>Class = "UILabel"; text = "Open the Settings app"; ObjectID = "xig-s8-dim"; Note = "The instruction to open the system Settings app";</note>
       </trans-unit>
     </body>
