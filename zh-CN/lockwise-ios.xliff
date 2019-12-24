@@ -303,14 +303,17 @@
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
         <source>Password</source>
+        <target>密码</target>
         <note>Section title text for the password on the item detail screen</note>
       </trans-unit>
       <trans-unit id="password_accessibility_instructions" xml:space="preserve">
         <source>Password: double tap to copy %@</source>
+        <target>密码：双击即可复制 ％@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
+        <target>需要重新验证</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
@@ -319,86 +322,107 @@
       </trans-unit>
       <trans-unit id="recently_used" xml:space="preserve">
         <source>Recently Used</source>
+        <target>最近使用</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>搜索登录信息</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>使用 256 位加密，在设备间安全同步</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
         <source>Set Passcode</source>
+        <target>设置密码</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account" xml:space="preserve">
         <source>Account</source>
+        <target>账户</target>
         <note>Account option in settings</note>
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
+        <target>应用程式版本</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
         <source>AutoFill Instructions</source>
+        <target>自动填写使用说明</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
+        <target>自动锁定</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
         <source>15 minutes</source>
+        <target>15 分钟</target>
         <note>15 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fiveMinutes" xml:space="preserve">
         <source>5 minutes</source>
+        <target>5 分钟</target>
         <note>5 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
+        <target>选择无活动自动锁定时间间隔</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
         <source>Never</source>
+        <target>永不</target>
         <note>Never</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneHour" xml:space="preserve">
         <source>1 hour</source>
+        <target>1 小时</target>
         <note>1 hour auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute" xml:space="preserve">
         <source>1 minute</source>
+        <target>1 分钟</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes" xml:space="preserve">
         <source>30 minutes</source>
+        <target>30 分钟</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour" xml:space="preserve">
         <source>12 hours</source>
+        <target>12 小时</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour" xml:space="preserve">
         <source>24 hours</source>
+        <target>24 小时</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser" xml:space="preserve">
         <source>Preferred Browser</source>
+        <target>首选浏览器</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome" xml:space="preserve">
         <source>Google Chrome</source>
+        <target>Google Chrome</target>
         <note>Chrome Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.firefox" xml:space="preserve">
         <source>Firefox</source>
+        <target>Firefox</target>
         <note>Firefox Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.focus" xml:space="preserve">
         <source>Firefox Focus</source>
+        <target>Firefox Focus</target>
         <note>Focus Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.header" xml:space="preserve">
@@ -407,42 +431,52 @@
       </trans-unit>
       <trans-unit id="settings.browser.klar" xml:space="preserve">
         <source>Firefox Klar</source>
+        <target>Firefox Klar</target>
         <note>Klar Browser</note>
       </trans-unit>
       <trans-unit id="settings.browser.safari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header" xml:space="preserve">
         <source>CONFIGURATION</source>
+        <target>配置</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq" xml:space="preserve">
         <source>FAQ</source>
+        <target>常见问题</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport" xml:space="preserve">
         <source>Ask a Question</source>
+        <target>我要提问</target>
         <note>Support link to Discourse discussion forum</note>
       </trans-unit>
       <trans-unit id="settings.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>详细了解</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback" xml:space="preserve">
         <source>Send Feedback</source>
+        <target>发送反馈</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header" xml:space="preserve">
         <source>SUPPORT</source>
+        <target>用户支持</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
+        <target>设置</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount" xml:space="preserve">
         <source>Disconnect %@</source>
+        <target>断开与 %@ 的连接</target>
         <note>Text on button to unlink account. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings.unlinkDisclaimer" xml:space="preserve">
@@ -451,6 +485,7 @@
       </trans-unit>
       <trans-unit id="settings.usageData" xml:space="preserve">
         <source>Send Usage Data</source>
+        <target>发送使用数据</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
@@ -459,18 +494,22 @@
       </trans-unit>
       <trans-unit id="settings_button" xml:space="preserve">
         <source>Settings</source>
+        <target>设置</target>
         <note>Accessibility identifier for the settings button</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
         <source>Sign In</source>
+        <target>登录</target>
         <note>Sign in button text</note>
       </trans-unit>
       <trans-unit id="skip" xml:space="preserve">
         <source>Skip</source>
+        <target>跳过</target>
         <note>Label for button allowing users to skip setting passcode or biometrics on device</note>
       </trans-unit>
       <trans-unit id="sort_entries" xml:space="preserve">
         <source>Sort Logins</source>
+        <target>排序登录信息</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
@@ -479,30 +518,37 @@
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>同步超时</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries" xml:space="preserve">
         <source>Syncing your logins</source>
+        <target>正在同步您的登录信息</target>
         <note>Label and accessibility callout for Syncing your logins spinner and HUD</note>
       </trans-unit>
       <trans-unit id="unlink" xml:space="preserve">
         <source>Disconnect</source>
+        <target>断开连接</target>
         <note>Unlink aka Disconnect button title</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
+        <target>将解锁应用程序。</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="unlock_with_faceid" xml:space="preserve">
         <source>Unlock with Face ID</source>
+        <target>使用面容 ID 解锁</target>
         <note>Label for the button to unlock the device using Face ID</note>
       </trans-unit>
       <trans-unit id="unlock_with_pin" xml:space="preserve">
         <source>Unlock with Passcode</source>
+        <target>使用密码解锁</target>
         <note>Label for the button to unlock the device using a device passcode</note>
       </trans-unit>
       <trans-unit id="unlock_with_touchid" xml:space="preserve">
         <source>Unlock with Touch ID</source>
+        <target>使用触控 ID 解锁</target>
         <note>Label for the button to unlock the device using Touch ID</note>
       </trans-unit>
       <trans-unit id="unnamed_entry" xml:space="preserve">
@@ -584,10 +630,12 @@
     <body>
       <trans-unit id="HfY-Wo-gMH.accessibilityLabel" xml:space="preserve">
         <source>Copy value</source>
+        <target>复制值</target>
         <note>Class = "UIButton"; accessibilityLabel = "Copy value"; ObjectID = "HfY-Wo-gMH"; Note = "The instruction a screenreader gives that this is how to copy the value of this item";</note>
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel" xml:space="preserve">
         <source>Reveal password in plaintext</source>
+        <target>明文显示密码</target>
         <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel" xml:space="preserve">
@@ -630,6 +678,7 @@
     <body>
       <trans-unit id="GdN-75-tz4.normalTitle" xml:space="preserve">
         <source>Finish</source>
+        <target>完成</target>
         <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "GdN-75-tz4";</note>
       </trans-unit>
       <trans-unit id="afK-Kw-Hqs.text" xml:space="preserve">
@@ -642,6 +691,7 @@
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text" xml:space="preserve">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <target>使用触控 ID 或面容 ID 轻松解锁应用</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
@@ -653,6 +703,7 @@
     <body>
       <trans-unit id="KPq-Rv-WTJ.normalTitle" xml:space="preserve">
         <source>Lock Now</source>
+        <target>立即锁定</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
       </trans-unit>
     </body>
@@ -664,6 +715,7 @@
     <body>
       <trans-unit id="KnK-nY-NyH.normalTitle" xml:space="preserve">
         <source>Got it</source>
+        <target>明白了</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "KnK-nY-NyH"; Note = "The message on a confirmation button that the user understands or followed the instructions and will close out of these instructions";</note>
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
@@ -676,6 +728,7 @@
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text" xml:space="preserve">
         <source>Turn on AutoFill Passwords</source>
+        <target>启用自动填写密码</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
@@ -684,14 +737,17 @@
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
         <source>How to Set up AutoFill</source>
+        <target>如何设置自动填写</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text" xml:space="preserve">
         <source>Select Lockwise</source>
+        <target>选择 Lockwise</target>
         <note>Class = "UILabel"; text = "Select Lockwise"; ObjectID = "r0I-o4-2Ym"; Note = "The instruction to tap the name of this application. Lockwise should not be translated";</note>
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text" xml:space="preserve">
         <source>Deselect iCloud Keychain</source>
+        <target>取消选择 iCloud 钥匙串</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text" xml:space="preserve">
@@ -707,14 +763,17 @@
     <body>
       <trans-unit id="8rH-vt-4bG.normalTitle" xml:space="preserve">
         <source>Unlock</source>
+        <target>解锁</target>
         <note>Class = "UIButton"; normalTitle = "Unlock"; ObjectID = "8rH-vt-4bG"; Note = "This is the text on the unlock button when the app is opened and locked";</note>
       </trans-unit>
       <trans-unit id="JTP-OD-6TF.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>详细了解</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "JTP-OD-6TF"; Note = "This is an link for the user to learn more about how the application requires a Firefox Account";</note>
       </trans-unit>
       <trans-unit id="cuz-yd-F4J.normalTitle" xml:space="preserve">
         <source>Get Started</source>
+        <target>开始使用</target>
         <note>Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "cuz-yd-F4J"; Note = "This message appears on the button for the user begin the sign in authorization flow";</note>
       </trans-unit>
       <trans-unit id="hwO-wS-oS4.text" xml:space="preserve">
@@ -738,6 +797,7 @@
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>详细了解</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "5gN-a0-N6V"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
@@ -750,14 +810,17 @@
       </trans-unit>
       <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
         <source>Retry</source>
+        <target>重试</target>
         <note>Class = "UIButton"; normalTitle = "Retry"; ObjectID = "SWH-yo-sI7";</note>
       </trans-unit>
       <trans-unit id="V5S-CG-n11.text" xml:space="preserve">
         <source>No Internet Connection</source>
+        <target>无互联网连接</target>
         <note>Class = "UILabel"; text = "No Internet Connection"; ObjectID = "V5S-CG-n11"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="aQB-Vr-ObR.normalTitle" xml:space="preserve">
         <source>Learn more</source>
+        <target>详细了解</target>
         <note>Class = "UIButton"; normalTitle = "Learn more"; ObjectID = "aQB-Vr-ObR"; Note = "This is the text suggestion the user open an informational page to learn more about this condition";</note>
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text" xml:space="preserve">
