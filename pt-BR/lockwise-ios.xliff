@@ -831,6 +831,7 @@
     <body>
       <trans-unit id="3A5-nI-aV6.text" xml:space="preserve">
         <source>Label</source>
+        <target>Etiqueta</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "3A5-nI-aV6"; Note = "This is a placeholder string for development purposes only";</note>
       </trans-unit>
       <trans-unit id="5gN-a0-N6V.normalTitle" xml:space="preserve">
