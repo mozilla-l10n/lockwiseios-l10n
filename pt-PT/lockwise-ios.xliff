@@ -240,10 +240,12 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries" xml:space="preserve">
         <source>Done Syncing your logins</source>
+        <target>A sincronização das suas credenciais foi concluída</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied" xml:space="preserve">
         <source>%@ copied</source>
+        <target>%@ copiado</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
@@ -253,14 +255,17 @@
       </trans-unit>
       <trans-unit id="get.started" xml:space="preserve">
         <source>Get Started</source>
+        <target>Começar</target>
         <note>Title for the FxA login screen.</note>
       </trans-unit>
       <trans-unit id="install_browser_prompt" xml:space="preserve">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ desativado, instale este navegador para o disponibilizar</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>O %@ permite aceder a palavras-passe que já tenha guardado no Firefox. Para visualizar as suas credenciais aqui, é necessário iniciar sessão e sincronizar com o Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -275,6 +280,7 @@
       </trans-unit>
       <trans-unit id="not_using_passcode" xml:space="preserve">
         <source>You’re not using a passcode.</source>
+        <target>Não está a utilizar um código.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes" xml:space="preserve">
@@ -289,6 +295,7 @@
       </trans-unit>
       <trans-unit id="onboarding.encryption" xml:space="preserve">
         <source>256-bit encryption</source>
+        <target>Criptografia de 256 bits</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title" xml:space="preserve">
@@ -298,10 +305,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Para bloquear %@, deve ser configurada uma palavra-passe no seu dispositivo. Sem uma palavra-passe, qualquer pessoa que tenha acesso ao seu dispositivo pode aceder às informações guardadas no mesmo.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Deve configurar um código para bloquear o seu dispositivo. Sem uma palavra-passe, qualquer pessoa que tenha acesso ao seu dispositivo pode aceder às informações guardadas no mesmo.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
@@ -311,10 +320,12 @@
       </trans-unit>
       <trans-unit id="password_accessibility_instructions" xml:space="preserve">
         <source>Password: double tap to copy %@</source>
+        <target>Palavra-passe: toque duas vezes para copiar %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
+        <target>Reautenticação necessária</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
@@ -324,10 +335,12 @@
       </trans-unit>
       <trans-unit id="recently_used" xml:space="preserve">
         <source>Recently Used</source>
+        <target>Recentemente utilizados</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>Pesquisar credenciais</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
