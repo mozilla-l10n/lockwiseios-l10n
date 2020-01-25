@@ -345,6 +345,7 @@
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Sincronização entre dispositivos com criptografia segura de 256 bits</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
@@ -359,14 +360,17 @@
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
+        <target>Versão da aplicação</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
         <source>AutoFill Instructions</source>
+        <target>Instruções de preenchimento automático</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
+        <target>Bloqueio automático</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
@@ -381,6 +385,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Selecione quando bloquear após um período de inatividade</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
@@ -395,18 +400,22 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.oneMinute" xml:space="preserve">
         <source>1 minute</source>
+        <target>1 minuto</target>
         <note>1 minute auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.thirtyMinutes" xml:space="preserve">
         <source>30 minutes</source>
+        <target>30 minutos</target>
         <note>30 minutes auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twelveHour" xml:space="preserve">
         <source>12 hours</source>
+        <target>12 horas</target>
         <note>12 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.twentyFourHour" xml:space="preserve">
         <source>24 hours</source>
+        <target>24 horas</target>
         <note>24 hours auto lock setting</note>
       </trans-unit>
       <trans-unit id="settings.browser" xml:space="preserve">
