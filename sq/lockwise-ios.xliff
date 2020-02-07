@@ -435,7 +435,7 @@
       </trans-unit>
       <trans-unit id="settings.faq">
         <source>FAQ</source>
-        <target>FAQ</target>
+        <target>PBR</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport">
@@ -849,4 +849,3 @@
     </body>
   </file>
 </xliff>
-
