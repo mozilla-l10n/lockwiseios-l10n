@@ -414,14 +414,17 @@
       </trans-unit>
       <trans-unit id="settings.browser.safari" xml:space="preserve">
         <source>Safari</source>
+        <target>Safari</target>
         <note>Safari Browser</note>
       </trans-unit>
       <trans-unit id="settings.configuration.header" xml:space="preserve">
         <source>CONFIGURATION</source>
+        <target>תצורה</target>
         <note>Configuration label in settings</note>
       </trans-unit>
       <trans-unit id="settings.faq" xml:space="preserve">
         <source>FAQ</source>
+        <target>תשובות לשאלות נפוצות</target>
         <note>FAQ option in settings</note>
       </trans-unit>
       <trans-unit id="settings.getSupport" xml:space="preserve">
@@ -430,18 +433,22 @@
       </trans-unit>
       <trans-unit id="settings.learnMore" xml:space="preserve">
         <source>Learn More</source>
+        <target>מידע נוסף</target>
         <note>Label for link to learn more</note>
       </trans-unit>
       <trans-unit id="settings.provideFeedback" xml:space="preserve">
         <source>Send Feedback</source>
+        <target>שליחת משוב</target>
         <note>Send feedback option in settings</note>
       </trans-unit>
       <trans-unit id="settings.support.header" xml:space="preserve">
         <source>SUPPORT</source>
+        <target>תמיכה</target>
         <note>Support section label in settings</note>
       </trans-unit>
       <trans-unit id="settings.title" xml:space="preserve">
         <source>Settings</source>
+        <target>הגדרות</target>
         <note>Title on settings screen</note>
       </trans-unit>
       <trans-unit id="settings.unlinkAccount" xml:space="preserve">
@@ -454,6 +461,7 @@
       </trans-unit>
       <trans-unit id="settings.usageData" xml:space="preserve">
         <source>Send Usage Data</source>
+        <target>שליחת נתוני שימוש</target>
         <note>Setting to send usage data</note>
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle" xml:space="preserve">
@@ -562,6 +570,7 @@
     <body>
       <trans-unit id="6A6-i9-hvw.text" xml:space="preserve">
         <source>To make changes to your account, log in to your Firefox Account from any browser.</source>
+        <target>כדי לבצע שינויים לחשבון שלך, יש להתחבר לחשבון ה־Firefox שלך מכל דפדפן.</target>
         <note>Class = "UILabel"; text = "To make changes to your account, log in to your Firefox Account from any browser."; ObjectID = "6A6-i9-hvw"; Note = "Instructions for the user to follow to make account changes outside of the application. Firefox Account should be consistently translated to match the product name";</note>
       </trans-unit>
       <trans-unit id="f32-KR-4Nm.text" xml:space="preserve">
@@ -607,12 +616,12 @@
       </trans-unit>
       <trans-unit id="Mhp-Pp-rfw.accessibilityLabel" xml:space="preserve">
         <source>Reveal password in plaintext</source>
-        <target>לחשוף את הססמה בטקסט פשוט</target>
+        <target>הצגת הססמה בטקסט פשוט</target>
         <note>Class = "UIButton"; accessibilityLabel = "Reveal password in plaintext"; ObjectID = "Mhp-Pp-rfw"; Note = "This is the screenreader instruction that this button will reveal the password and then can be read";</note>
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel" xml:space="preserve">
         <source>Open this web address in browser</source>
-        <target>לפתוח את הכתובת הזו בדפדפן</target>
+        <target>פתיחת הכתובת הזו בדפדפן</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle" xml:space="preserve">
