@@ -501,6 +501,7 @@
       </trans-unit>
       <trans-unit id="sorting_options">
         <source>Select options for sorting your list of logins (currently %@)</source>
+        <target>Выберите параметры для сортировки вашего списка логинов (сейчас %@)</target>
         <note>Accessibility identifier for the sorting options button. %@ will be replaced with the currently-set sort option</note>
       </trans-unit>
       <trans-unit id="sync.timeout">
@@ -842,4 +843,3 @@
     </body>
   </file>
 </xliff>
-
