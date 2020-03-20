@@ -229,6 +229,7 @@
       </trans-unit>
       <trans-unit id="install_browser_prompt">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>Prohlížeč %@ není dostupný, nainstalujte ho prosím</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty">
@@ -288,6 +289,7 @@
       </trans-unit>
       <trans-unit id="password_accessibility_instructions">
         <source>Password: double tap to copy %@</source>
+        <target>Heslo: dvojitým klepnutím %@ zkopírujete</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required">
@@ -546,6 +548,7 @@
       </trans-unit>
       <trans-unit id="username_accessibility_instructions">
         <source>Username: double tap to copy %@</source>
+        <target>Uživatelské jméno: dvojitým klepnutím %@ zkopírujete</target>
         <note>Accessibility label and instructions for username section of login details. %@ will be replaced with the username value</note>
       </trans-unit>
       <trans-unit id="username_placeholder">
@@ -560,6 +563,7 @@
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
         <source>Web address: double tap to open in browser %@</source>
+        <target>Adresa serveru: dvojitým klepnutím %@ zkopírujete</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
