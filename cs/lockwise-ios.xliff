@@ -24,10 +24,12 @@
     <body>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Aktualizace vyplňování hesel…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Vyplňování hesel aktualizováno</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
@@ -37,6 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Před přístupem k funkci vyplňování hesel se přihlaste k aplikaci %@.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel">
@@ -157,10 +160,12 @@
       </trans-unit>
       <trans-unit id="autofill.enabling">
         <source>Updating AutoFill…</source>
+        <target>Aktualizace vyplňování hesel…</target>
         <note>Text displayed while AutoFill credentials are being populated. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="autofill.finished_enabling">
         <source>Finished updating AutoFill</source>
+        <target>Vyplňování hesel aktualizováno</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired">
@@ -170,6 +175,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Před přístupem k funkci vyplňování hesel se přihlaste k aplikaci %@.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back">
@@ -334,6 +340,7 @@
       </trans-unit>
       <trans-unit id="settings.autoFillSettings">
         <source>AutoFill Instructions</source>
+        <target>Pokyny k vyplňování hesel</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock">
@@ -607,6 +614,7 @@
       </trans-unit>
       <trans-unit id="Krc-YI-yKW.text">
         <source>AutoFill your logins right from your browser or app.</source>
+        <target>Vyplňujte hesla přímo ve svém prohlížeči nebo aplikacích.</target>
         <note>Class = "UILabel"; text = "AutoFill your logins right from your browser or app."; ObjectID = "Krc-YI-yKW"; Note = "This is the heading to instruct the user they can use the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text">
@@ -616,6 +624,7 @@
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle">
         <source>Set Up AutoFill</source>
+        <target>Nastavit vyplňování hesel</target>
         <note>Class = "UIButton"; normalTitle = "Set Up AutoFill"; ObjectID = "yEI-pU-vMZ"; Note = "This is the text on the button to instruct the user how to enable AutoFill in iOS. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
     </body>
@@ -708,22 +717,27 @@
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text">
         <source>Tap into AutoFill Passwords</source>
+        <target>Klepněte na položku Vyplňování hesel</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <target>Pro použití aplikace Lockwise pro vyplňování hesel postupujte podle následujících kroků.</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text">
         <source>Turn on AutoFill Passwords</source>
+        <target>Zapněte funkci Vyplňování hesel</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>Klepněte na položku Hesla a účty</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text">
         <source>How to Set up AutoFill</source>
+        <target>Jak nastavit vyplňování hesel</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text">
@@ -733,6 +747,7 @@
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text">
         <source>Deselect iCloud Keychain</source>
+        <target>Zrušte výběr iCloud</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text">
