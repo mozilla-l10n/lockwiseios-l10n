@@ -78,6 +78,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Вышло время синхронизации</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder">
@@ -506,6 +507,7 @@
       </trans-unit>
       <trans-unit id="sync.timeout">
         <source>Sync timed out</source>
+        <target>Вышло время синхронизации</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="syncing_entries">
