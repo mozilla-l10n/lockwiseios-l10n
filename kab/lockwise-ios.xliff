@@ -730,6 +730,7 @@
       </trans-unit>
       <trans-unit id="sKa-b5-lgD.text" xml:space="preserve">
         <source>Unlock the app with ease using Touch ID or Face ID</source>
+        <target>Serreḥ s wudem fessusen asnas s Touch ID neɣ Face ID</target>
         <note>Class = "UILabel"; text = "Unlock the app with ease using Touch ID or Face ID"; ObjectID = "sKa-b5-lgD"; Note = "Explains the user can lock and unlock using the system biometrics features. Touch ID and Face ID should be consistently translated to match Apple's system feature names";</note>
       </trans-unit>
     </body>
@@ -758,22 +759,27 @@
       </trans-unit>
       <trans-unit id="YaL-kM-bTV.text" xml:space="preserve">
         <source>Tap into AutoFill Passwords</source>
+        <target>Fren taččart tawurmant n awalen uffiren</target>
         <note>Class = "UILabel"; text = "Tap into AutoFill Passwords"; ObjectID = "YaL-kM-bTV"; Note = "The instruction to open the system setting. AutoFill Passwords should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="Ycw-sN-cFL.text" xml:space="preserve">
         <source>Complete the following steps in order to use Lockwise as an AutoFill provider.</source>
+        <target>Ḍfeṛ imecwaṛen-a akken ad tesqedceḍ Lockwise am uqbalu n taččart tawurmant.</target>
         <note>Class = "UILabel"; text = "Complete the following steps in order to use Lockwise as an AutoFill provider."; ObjectID = "Ycw-sN-cFL"; Note = "The description that appears indicating there are instructions to be followed to enable the AutoFill feature. AutoFill should be localized to match the proper name for Apple’s system feature";</note>
       </trans-unit>
       <trans-unit id="Ys5-RP-RQg.text" xml:space="preserve">
         <source>Turn on AutoFill Passwords</source>
+        <target>Rmed taččart tawurmant n awalen uffiren</target>
         <note>Class = "UILabel"; text = "Turn on AutoFill Passwords"; ObjectID = "Ys5-RP-RQg"; Note = "The instruction to enable the setting. AutoFill Passwords should match the system setting item";</note>
       </trans-unit>
       <trans-unit id="daO-QU-3p5.text" xml:space="preserve">
         <source>Tap into Passwords &amp; Accounts</source>
+        <target>Fren awalen uffiren akked yimiḍanen</target>
         <note>Class = "UILabel"; text = "Tap into Passwords &amp; Accounts"; ObjectID = "daO-QU-3p5"; Note = "The instruction to open the system settings. Passwords &amp; Accounts should match the system setting menu name";</note>
       </trans-unit>
       <trans-unit id="dbo-05-zWe.text" xml:space="preserve">
         <source>How to Set up AutoFill</source>
+        <target>Amek ara tesbaduḍ taččart tawurmant</target>
         <note>Class = "UILabel"; text = "How to Set up AutoFill"; ObjectID = "dbo-05-zWe"; Note = "The heading for instructions on how to enable the AutoFill feature in iOS. AutoFill should be localized to match the proper name for Apple’s system feature ";</note>
       </trans-unit>
       <trans-unit id="r0I-o4-2Ym.text" xml:space="preserve">
@@ -783,10 +789,12 @@
       </trans-unit>
       <trans-unit id="vcZ-pI-Mgz.text" xml:space="preserve">
         <source>Deselect iCloud Keychain</source>
+        <target>Kkes afran n sselfa iCloud</target>
         <note>Class = "UILabel"; text = "Deselect iCloud Keychain"; ObjectID = "vcZ-pI-Mgz"; Note = "The instruction to unselect a default setting. iCloud Keychain should match the system setting item name";</note>
       </trans-unit>
       <trans-unit id="xig-s8-dim.text" xml:space="preserve">
         <source>Open the Settings app</source>
+        <target>Ldi asnas n twila</target>
         <note>Class = "UILabel"; text = "Open the Settings app"; ObjectID = "xig-s8-dim"; Note = "The instruction to open the system Settings app";</note>
       </trans-unit>
     </body>
@@ -818,6 +826,7 @@
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text" xml:space="preserve">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
+        <target>Akken ad tesqedceḍ Lockwise, ilaq-ak umiḍan firefox s yinekcam yettwaskelsen.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
@@ -839,10 +848,12 @@
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>Akken ad twaliḍ ugar n yinekcam dagi, issefk ad ten-teskelseḍ deg Firefox.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
         <source>Select a password to fill</source>
+        <target>Fren awal uffir ara teččareḍ</target>
         <note>Class = "UILabel"; text = "Select a password to fill"; ObjectID = "RpZ-Z7-u0I"; Note = "This is an instruction for the user to select a login when in AutoFill mode ";</note>
       </trans-unit>
       <trans-unit id="SWH-yo-sI7.normalTitle" xml:space="preserve">
