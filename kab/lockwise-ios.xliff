@@ -59,6 +59,7 @@
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ ad k-yeǧǧ ad tkecmeḍ ɣer wawalen uffiren i teskelseḍ yakan deg Firefox. Akken ad d-tsekneḍ inekcam-ik dagi, issefk ad teqqneḍ sakin ad tremdeḍ amtawi deg Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -83,10 +84,12 @@
       </trans-unit>
       <trans-unit id="sync.timeout" xml:space="preserve">
         <source>Sync timed out</source>
+        <target>Tanzagt n umtawi tezri</target>
         <note>This is the message displayed when syncing entries from the server times out</note>
       </trans-unit>
       <trans-unit id="unlock_placeholder" xml:space="preserve">
         <source>This will unlock the app.</source>
+        <target>Ayagi ad iserreḥ i usnas.</target>
         <note>Placeholder text when the user’s email is unavailable while unlocking the app, shown in Touch ID and passcode prompts</note>
       </trans-unit>
       <trans-unit id="username_placeholder" xml:space="preserve">
@@ -130,6 +133,7 @@
       </trans-unit>
       <trans-unit id="NSFaceIDUsageDescription" xml:space="preserve">
         <source>Firefox Lockwise will use Face ID to sign you in to the app.</source>
+        <target>Firefox Lockwise ad iseqdec Face ID akken ad iqqen ɣer usnas.</target>
         <note>Privacy - Face ID Usage Description</note>
       </trans-unit>
     </body>
@@ -156,6 +160,7 @@
       </trans-unit>
       <trans-unit id="app_update_explanation" xml:space="preserve">
         <source>Due to a recent app update, we will need you to sign in again. Apologies for the inconvenience.</source>
+        <target>Ɣef sebba n uleqqem amaynut n usnas, issefk ad nsuter ad talseḍ tuqqna. Suref-aɣ ɣef waya.</target>
         <note>Message in dialog box when users need to reauthenticate explaining application update</note>
       </trans-unit>
       <trans-unit id="autofill.enabling" xml:space="preserve">
@@ -165,14 +170,17 @@
       </trans-unit>
       <trans-unit id="autofill.finished_enabling" xml:space="preserve">
         <source>Finished updating AutoFill</source>
+        <target>Aleqqem n taččart tawurmant yemmed</target>
         <note>Accessibility notification when AutoFill is done being enabled</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>Tlaq tuqqna</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Issefk ad tiliḍ teqqneḍ ɣer %@ send ad tizmir taččart tawurmant ad tsireg anekcum ɣer wawalen uffiren i igber.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="back" xml:space="preserve">
@@ -192,6 +200,7 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>Tigawt-a ad tekkes talɣut n umiḍan Firefox akked inekcam-ik yettwaskelsen seg %@.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title" xml:space="preserve">
@@ -211,6 +220,7 @@
       </trans-unit>
       <trans-unit id="delete.confirmDeleteLoginDialogMessage" xml:space="preserve">
         <source>This will delete the entry from both %@ and Firefox.</source>
+        <target>Aya ad yekkes anekcam seg %@ akked Firefox.</target>
         <note>Message in confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
@@ -220,6 +230,7 @@
       </trans-unit>
       <trans-unit id="delete.statusAlert" xml:space="preserve">
         <source>%@ deleted</source>
+        <target>%@ yettwakkes</target>
         <note>Text in the status alert after a login has been deleted. %@ is the hostname of the login</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
@@ -229,10 +240,12 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries" xml:space="preserve">
         <source>Done Syncing your logins</source>
+        <target>Amtawi n yinekcam-ik yemmed</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied" xml:space="preserve">
         <source>%@ copied</source>
+        <target>%@ yettwanɣel</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
@@ -247,10 +260,12 @@
       </trans-unit>
       <trans-unit id="install_browser_prompt" xml:space="preserve">
         <source>%@ disabled, install this browser to make it available</source>
+        <target>%@ yensa, sbedd iminig-a akken ad yili yewjed</target>
         <note>Accessibility instructions for disabled web browser options. %@ will be replaced with the browser name</note>
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>%@ ad k-yeǧǧ ad tkecmeḍ ɣer wawalen uffiren i teskelseḍ yakan deg Firefox. Akken ad d-tsekneḍ inekcam-ik dagi, issefk ad teqqneḍ sakin ad tremdeḍ amtawi deg Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -265,6 +280,7 @@
       </trans-unit>
       <trans-unit id="not_using_passcode" xml:space="preserve">
         <source>You’re not using a passcode.</source>
+        <target>Ur tesseqdaceḍ ara tangalt n unekcum.</target>
         <note>Title for dialog box with passcode setting information</note>
       </trans-unit>
       <trans-unit id="notes" xml:space="preserve">
@@ -279,6 +295,7 @@
       </trans-unit>
       <trans-unit id="onboarding.encryption" xml:space="preserve">
         <source>256-bit encryption</source>
+        <target>Awgelhen 256 n yibiten</target>
         <note>Name of link to algorithm used by application for encryption</note>
       </trans-unit>
       <trans-unit id="onboarding.title" xml:space="preserve">
@@ -309,10 +326,12 @@
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
         <source>Recent</source>
+        <target>Melmi kan</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used" xml:space="preserve">
         <source>Recently Used</source>
+        <target>Ttwasqedcen melmi kan</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
