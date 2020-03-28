@@ -320,10 +320,12 @@
       </trans-unit>
       <trans-unit id="password_accessibility_instructions" xml:space="preserve">
         <source>Password: double tap to copy %@</source>
+        <target>Awal uffir: senned snat n tikkal akken ad tneɣleḍ %@</target>
         <note>Accessibility label and instructions for password section of login details. %@ will be replaced with the password value</note>
       </trans-unit>
       <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
+        <target>Ilaq usesteb amaynut</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
@@ -343,6 +345,7 @@
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
         <source>Sync between devices with secure 256-bit encryption</source>
+        <target>Mtawi gar ibenkan-ik s uwgelhen aɣelsan n 256 n yibiten</target>
         <note>Text shown on security screen during onboarding.</note>
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
@@ -362,10 +365,12 @@
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
         <source>AutoFill Instructions</source>
+        <target>Iwellihen i taččart tawurmant</target>
         <note>Label to link to instructions about setting up AutoFill. AutoFill should be localized to match the proper name for Apple’s system feature</note>
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
+        <target>Asekkeṛ awurman</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
