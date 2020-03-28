@@ -305,10 +305,12 @@
       </trans-unit>
       <trans-unit id="passcode_detail_information" xml:space="preserve">
         <source>In order to lock %@, a passcode must be set up on your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Akken ad teskkṛeḍ %@, tangalt n unekcum ilaq ad tili tettusbadu deg yiben-ik. Ma ulac, yal amdan ara ikecmen ɣer tiliɣri-ik, izmer ad yekcem ɣer telɣut i yettwaskelsen deg-s.</target>
         <note>Message for dialog box with passcode reminder. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="passcode_info" xml:space="preserve">
         <source>You should use a passcode to lock your device. Without a passcode, anyone who has your device can access the information saved here.</source>
+        <target>Issefk ad tesqedceḍ tangalt n unekcum akken ad tsekkṛeḍ ibenk-ik. Ma ulac, yal amdan ara ikecmen ɣer tiliɣri-ik, izmer ad yekcem ɣer telɣut i yettwaskelsen deg-s.</target>
         <note>Informative text about the security need for a passcode</note>
       </trans-unit>
       <trans-unit id="password" xml:space="preserve">
@@ -336,6 +338,7 @@
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>Nadi inekcam</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
@@ -354,6 +357,7 @@
       </trans-unit>
       <trans-unit id="settings.appVersion" xml:space="preserve">
         <source>App Version</source>
+        <target>Lqem n usnas</target>
         <note>App Version setting label</note>
       </trans-unit>
       <trans-unit id="settings.autoFillSettings" xml:space="preserve">
@@ -705,6 +709,7 @@
     <body>
       <trans-unit id="KPq-Rv-WTJ.normalTitle" xml:space="preserve">
         <source>Lock Now</source>
+        <target>Sekkeṛ tura</target>
         <note>Class = "UIButton"; normalTitle = "Lock Now"; ObjectID = "KPq-Rv-WTJ"; Note = "This is the text on the button to lock the application, but not log out";</note>
       </trans-unit>
     </body>
@@ -847,6 +852,7 @@
     <body>
       <trans-unit id="1Mj-QY-mDP.text" xml:space="preserve">
         <source>Syncing your logins…</source>
+        <target>Amtawi n yinekcam-ik iteddu…</target>
         <note>Class = "UILabel"; text = "Syncing your logins…"; ObjectID = "1Mj-QY-mDP";</note>
       </trans-unit>
     </body>
