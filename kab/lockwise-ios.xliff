@@ -39,6 +39,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
         <source>You must be signed in to %@ before AutoFill will allow access to passwords within it.</source>
+        <target>Issefk ad tiliḍ teqqneḍ ɣer %@ send ad tizmir taččart tawurmant ad tsireg anekcum ɣer wawalen uffiren i igber.</target>
         <note>Body for alert dialog explaining that a user must be signed in to use AutoFill. AutoFill should be localized to match the proper name for Apple's system feature. %1$@ and %2$@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="cancel" xml:space="preserve">
