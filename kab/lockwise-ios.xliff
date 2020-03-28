@@ -385,6 +385,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock.header" xml:space="preserve">
         <source>Select when to lock after a period of inactivity</source>
+        <target>Ffen melmi ara tqefleḍ seld tanzagt n urmud</target>
         <note>Header displayed above auto lock settings.</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.never" xml:space="preserve">
@@ -419,6 +420,7 @@
       </trans-unit>
       <trans-unit id="settings.browser" xml:space="preserve">
         <source>Preferred Browser</source>
+        <target>Iminig anurif</target>
         <note>Preferred Browser option in settings</note>
       </trans-unit>
       <trans-unit id="settings.browser.chrome" xml:space="preserve">
@@ -438,6 +440,7 @@
       </trans-unit>
       <trans-unit id="settings.browser.header" xml:space="preserve">
         <source>Select which browser use with Lockwise</source>
+        <target>Fren iminig ara tesqedceḍ s Lockwise</target>
         <note>Header displayed above browser choice settings.</note>
       </trans-unit>
       <trans-unit id="settings.browser.klar" xml:space="preserve">
