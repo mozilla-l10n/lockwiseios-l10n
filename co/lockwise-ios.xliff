@@ -370,7 +370,7 @@
       </trans-unit>
       <trans-unit id="settings.autoLock" xml:space="preserve">
         <source>Auto Lock</source>
-        <target>Chjuditura autumatica</target>
+        <target>Chjusura autumatica</target>
         <note>Auto Lock option in settings</note>
       </trans-unit>
       <trans-unit id="settings.autoLock.fifteenMinutes" xml:space="preserve">
@@ -901,4 +901,3 @@
     </body>
   </file>
 </xliff>
-
