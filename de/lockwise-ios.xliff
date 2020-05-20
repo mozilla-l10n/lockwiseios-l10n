@@ -644,7 +644,7 @@
       </trans-unit>
       <trans-unit id="xVH-GK-wIb.text" xml:space="preserve">
         <source>Easily fill usernames and passwords where you need them most.</source>
-        <target>Benutzernamen und Passwörter werden einfach dort eintragen, wo du diese am dringendsten benötigen.</target>
+        <target>Benutzernamen und Passwörter werden einfach dort eingetragen, wo du diese am dringendsten benötigst.</target>
         <note>Class = "UILabel"; text = "Easily fill usernames and passwords where you need them most."; ObjectID = "xVH-GK-wIb"; Note = "This is explaning the value of the AutoFill feature to encourage the user to enable it";</note>
       </trans-unit>
       <trans-unit id="yEI-pU-vMZ.normalTitle" xml:space="preserve">
@@ -901,4 +901,3 @@
     </body>
   </file>
 </xliff>
-
