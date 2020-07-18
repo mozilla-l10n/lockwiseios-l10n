@@ -676,7 +676,7 @@
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle" xml:space="preserve">
         <source>Learn how to edit this entry</source>
-        <target>Issi amek ara tbeddleḍ aferdis-a</target>
+        <target>Issin amek ara tbeddleḍ aferdis-a</target>
         <note>Class = "UIButton"; normalTitle = "Learn how to edit this entry"; ObjectID = "YaD-WB-pbb"; Note = "This is the text on a link to open an informational page on how to edit this entry outside of the application";</note>
       </trans-unit>
       <trans-unit id="t0H-71-xTp.text" xml:space="preserve">
