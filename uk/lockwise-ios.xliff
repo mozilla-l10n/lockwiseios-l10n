@@ -565,12 +565,12 @@
       </trans-unit>
       <trans-unit id="web_address">
         <source>Web Address</source>
-        <target>Веб-адреса</target>
+        <target>Вебадреса</target>
         <note>Section title text for the web address on the item detail screen</note>
       </trans-unit>
       <trans-unit id="website_accessibility_instructions">
         <source>Web address: double tap to open in browser %@</source>
-        <target>Веб-адреса: подвійний дотик для відкриття в браузері %@</target>
+        <target>Вебадреса: подвійний дотик для відкриття в браузері %@</target>
         <note>Accessibility label and instructions for web address section of login details</note>
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
@@ -646,7 +646,7 @@
       </trans-unit>
       <trans-unit id="Tbk-ki-qGK.accessibilityLabel">
         <source>Open this web address in browser</source>
-        <target>Відкрити цю веб-адресу в браузері</target>
+        <target>Відкрити цю вебадресу в браузері</target>
         <note>Class = "UIButton"; accessibilityLabel = "Open this web address in browser"; ObjectID = "Tbk-ki-qGK"; Note = "This is the screenreader instruction that this button will open the web address in a web browser";</note>
       </trans-unit>
       <trans-unit id="YaD-WB-pbb.normalTitle">
@@ -849,4 +849,3 @@
     </body>
   </file>
 </xliff>
-
