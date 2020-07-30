@@ -51,10 +51,12 @@
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
         <source>Firefox Lockwise</source>
+        <target>Firefox Lockwise</target>
         <note>Product Name</note>
       </trans-unit>
       <trans-unit id="list.empty" xml:space="preserve">
         <source>%@ lets you access passwords you’ve already saved to Firefox. To view your logins here, you’ll need to sign in and sync with Firefox.</source>
+        <target>‏%@ מאפשר לך לגשת לססמאות שכבר שמרת ב־Firefox. כדי להציג את הכניסות שלך כאן, יש להיכנס לסנכרן עם Firefox.</target>
         <note>Label shown when there are no logins to list. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="lockwise" xml:space="preserve">
@@ -69,6 +71,7 @@
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>חיפוש כניסות</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="signIn" xml:space="preserve">
@@ -165,6 +168,7 @@
       </trans-unit>
       <trans-unit id="autofill.signInRequired" xml:space="preserve">
         <source>Sign in Required</source>
+        <target>נדרשת כניסה</target>
         <note>Title for alert dialog explaining that a user must be signed in to use AutoFill.</note>
       </trans-unit>
       <trans-unit id="autofill.signInRequiredBody" xml:space="preserve">
@@ -188,10 +192,12 @@
       </trans-unit>
       <trans-unit id="confirm_dialog_message" xml:space="preserve">
         <source>This will delete your Firefox Account information and all saved logins from %@.</source>
+        <target>פעולה זו תמחק את הפרטים של חשבון ה־Firefox שלך ואת כל הכניסות השמורות מתוך %@.</target>
         <note>Confirm dialog message</note>
       </trans-unit>
       <trans-unit id="confirm_dialog_title" xml:space="preserve">
         <source>Disconnect %@?</source>
+        <target>לנתק את %@?</target>
         <note>Confirm dialog title. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="continue" xml:space="preserve">
@@ -211,10 +217,12 @@
       </trans-unit>
       <trans-unit id="delete.confirmDialogTitle" xml:space="preserve">
         <source>Delete this login?</source>
+        <target>למחוק את הכניסה הזו?</target>
         <note>Title for confirmation dialog when a login is deleted</note>
       </trans-unit>
       <trans-unit id="delete.statusAlert" xml:space="preserve">
         <source>%@ deleted</source>
+        <target>‏%@ נמחק</target>
         <note>Text in the status alert after a login has been deleted. %@ is the hostname of the login</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
@@ -224,10 +232,12 @@
       </trans-unit>
       <trans-unit id="done_syncing_entries" xml:space="preserve">
         <source>Done Syncing your logins</source>
+        <target>סנכרון הכניסות שלך הסתיים</target>
         <note>Accessibility callout for finishing Syncing your logins</note>
       </trans-unit>
       <trans-unit id="fieldNameCopied" xml:space="preserve">
         <source>%@ copied</source>
+        <target>‏%@ הועתק</target>
         <note>Alert text when a field has been copied. %@ will be replaced with the field name that was copied</note>
       </trans-unit>
       <trans-unit id="firefoxLockbox" xml:space="preserve">
@@ -301,18 +311,22 @@
       </trans-unit>
       <trans-unit id="reauth_required" xml:space="preserve">
         <source>Reauthentication Required</source>
+        <target>נדרש אימות מחדש</target>
         <note>Title of dialog box displayed when users need to reauthenticate</note>
       </trans-unit>
       <trans-unit id="recent" xml:space="preserve">
         <source>Recent</source>
+        <target>אחרונים</target>
         <note>Button title when logins list is sorted by most recently used login</note>
       </trans-unit>
       <trans-unit id="recently_used" xml:space="preserve">
         <source>Recently Used</source>
+        <target>בשימוש לאחרונה</target>
         <note>Label for the option sheet action allowing users to sort the logins list by the most recently used logins</note>
       </trans-unit>
       <trans-unit id="search.placeholder" xml:space="preserve">
         <source>Search logins</source>
+        <target>חיפוש כניסות</target>
         <note>Placeholder text for search field</note>
       </trans-unit>
       <trans-unit id="securityTheather.syncBetweenDevices" xml:space="preserve">
@@ -322,6 +336,7 @@
       </trans-unit>
       <trans-unit id="set_passcode" xml:space="preserve">
         <source>Set Passcode</source>
+        <target>קביעת ססמה</target>
         <note>Label for button allowing users to go to passcode settings</note>
       </trans-unit>
       <trans-unit id="settings.account" xml:space="preserve">
@@ -486,6 +501,7 @@
       </trans-unit>
       <trans-unit id="sort_entries" xml:space="preserve">
         <source>Sort Logins</source>
+        <target>מיון הכניסות</target>
         <note>Title for the option sheet allowing users to sort logins</note>
       </trans-unit>
       <trans-unit id="sorting_options" xml:space="preserve">
@@ -789,6 +805,7 @@
       </trans-unit>
       <trans-unit id="JpV-eG-grp.text" xml:space="preserve">
         <source>To see more logins here, you’ll need to save them to Firefox.</source>
+        <target>כדי לצפות בכניסות נוספות כאן יהיה עליך לשמור אותם ל־Firefox.</target>
         <note>Class = "UILabel"; text = "To see more logins here, you’ll need to save them to Firefox."; ObjectID = "JpV-eG-grp"; Note = "This message appears if there are no logins available to this account and suggests the user needs to save and sync logins for them to appear";</note>
       </trans-unit>
       <trans-unit id="RpZ-Z7-u0I.text" xml:space="preserve">
@@ -813,6 +830,7 @@
       </trans-unit>
       <trans-unit id="gQr-4J-xpv.text" xml:space="preserve">
         <source>No logins found.</source>
+        <target>לא נמצאו כניסות.</target>
         <note>Class = "UILabel"; text = "No logins found."; ObjectID = "gQr-4J-xpv"; Note = "This is the message informing the user the account has no logins available";</note>
       </trans-unit>
       <trans-unit id="n2T-XM-ua9.text" xml:space="preserve">
