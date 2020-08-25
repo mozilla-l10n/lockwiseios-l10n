@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="settings.usageData.subtitle">
         <source>Mozilla strives to only collect what we need to provide and improve %@ for everyone. </source>
-        <target>Mozilla se effortia a colliger solo lo que nos besonia pro fornir e meliorar %@ pro totes.</target>
+        <target>Mozilla se effortia a colliger solmente le datos necessari pro fornir e meliorar %@ pro totes.</target>
         <note>The subtitle for the telemetry (data usage) setting explaining why and how Mozilla collects data. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="settings_button">
@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="welcome.accessProduct">
         <source>To use %@, you’ll need a Firefox Account with saved logins.</source>
-        <target>Usar %@, tu besoniara de un conto Firefox con credentiales salvate.</target>
+        <target>Pro usar %@, es necessari un conto Firefox con credentiales salvate.</target>
         <note>Access message displayed to user on welcome screen. %@ will be replaced with the application name</note>
       </trans-unit>
       <trans-unit id="welcome.unlockButton">
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="xyY-bk-Xw8.text">
         <source>To use Firefox Lockwise, you’ll need a Firefox Account with saved logins.</source>
-        <target>Pro usar Firefox Lockwise, tu besoniara de un conto Firefox con credentiales salvate.</target>
+        <target>Pro usar Firefox Lockwise, es necessari un conto Firefox con credentiales salvate.</target>
         <note>Class = "UILabel"; text = "To use Firefox Lockwise, you’ll need a Firefox Account with saved logins."; ObjectID = "xyY-bk-Xw8"; Note = "These are instructions that to use the application, a Firefox Account is need. Firefox Account and Lockwise should be consistently translated to match the product names";</note>
       </trans-unit>
     </body>
